@@ -1,0 +1,2342 @@
+alder,utdanning,erfaring,jobb,sted,fag,kolleger,lønn,bonus,fornøyd
+21-25,2,5,"in-house, privat sektor",Oslo,sikkerhet,100 - 500,350000,Ja,Ja
+26-30,0,1,"in-house, privat sektor",Innlandet,fullstack,100 - 500,350000,Nei,Nei
+31-35,3,14,"in-house, privat sektor",Viken,ingen av disse,100 - 500,350000,Nei,Nei
+26-30,,3,frilans / selvstendig næringsdrivende,Oslo,frontend,under 10,350000,Ja,Nei
+31-35,4,0,"in-house, privat sektor",Viken,fullstack,under 10,350000,Nei,Nei
+36-40,,10,frilans / selvstendig næringsdrivende,Vestland,ingen av disse,under 10,350000,Nei,Nei
+26-30,0,1,"in-house, privat sektor",Troms og Finnmark,fullstack,10 - 50,352000,Nei,Nei
+15-20,1,0,"in-house, privat sektor",Trøndelag,programvare,10 - 50,360000,Nei,Nei
+21-25,2,1,"in-house, privat sektor",Viken,backend,10 - 50,360000,Nei,Nei
+26-30,2,2,"in-house, privat sektor",Vestland,UX / design,10 - 50,360000,Nei,Nei
+21-25,0,4,konsulent,Viken,app,under 10,360000,Nei,Nei
+46-50,,32,"in-house, privat sektor",Innlandet,ledelse/administrativt,under 10,360000,Ja,Nei
+15-20,0,1,konsulent,Rogaland,frontend,10 - 50,380000,Ja,Nei
+31-35,3,10,"in-house, privat sektor",Oslo,ingen av disse,10 - 50,400000,Nei,Nei
+36-40,0,0,"in-house, offentlig/kommunal sektor",Vestfold og Telemark,sikkerhet,10 - 50,400000,Ja,Nei
+21-25,3,0,"in-house, privat sektor",Agder,UX / design,100 - 500,400000,Nei,Nei
+36-40,0,0,"in-house, privat sektor",Trøndelag,programvare,50 - 100,400000,Ja,Nei
+26-30,0,2,"in-house, privat sektor",Vestland,frontend,under 10,400000,Nei,Nei
+26-30,3,2,konsulent,Oslo,fullstack,under 10,400000,Ja,Nei
+26-30,,7,frilans / selvstendig næringsdrivende,Innlandet,ingen av disse,under 10,400000,Nei,Ja
+41-45,0,10,"in-house, privat sektor",Rogaland,ingen av disse,100 - 500,415000,Nei,Nei
+36-40,4,8,"in-house, privat sektor",Oslo,ingen av disse,50 - 100,415000,Ja,Nei
+15-20,2,0,"in-house, privat sektor",Møre og Romsdal,frontend,100 - 500,420000,Nei,Nei
+41-45,0,1,"in-house, privat sektor",Vestland,ingen av disse,1.000 - 10.000,425000,Nei,Nei
+41-45,0,10,konsulent,Vestfold og Telemark,fullstack,under 10,425000,Nei,Ja
+26-30,3,2,"in-house, offentlig/kommunal sektor",Rogaland,ingen av disse,1.000 - 10.000,435000,Nei,Ja
+26-30,6,4,frilans / selvstendig næringsdrivende,Nordland,backend,under 10,440000,Nei,Nei
+36-40,4,2,"in-house, privat sektor",Viken,backend,under 10,445000,Nei,Nei
+21-25,1,4,"in-house, offentlig/kommunal sektor",Nordland,ingen av disse,10 - 50,446000,Nei,Nei
+26-30,3,4,"in-house, offentlig/kommunal sektor",Vestfold og Telemark,backend,1.000 - 10.000,450000,Nei,Ja
+21-25,0,3,"in-house, privat sektor",Viken,frontend,10 - 50,450000,Nei,Ja
+26-30,1,2,"in-house, privat sektor",Vestland,frontend,10 - 50,450000,Nei,Nei
+26-30,2,8,"in-house, privat sektor",Vestfold og Telemark,frontend,10 - 50,450000,Nei,Ja
+31-35,0,3,"in-house, privat sektor",Møre og Romsdal,fullstack,10 - 50,450000,Nei,Nei
+46-50,0,2,"in-house, privat sektor",Vestland,ledelse/administrativt,10 - 50,450000,Nei,Nei
+21-25,0,1,"in-house, privat sektor",Vestfold og Telemark,programvare,100 - 500,450000,Nei,Ja
+26-30,1,5,"in-house, privat sektor",Trøndelag,frontend,100 - 500,450000,Nei,Ja
+41-45,0,1,konsulent,Viken,programvare,100 - 500,450000,Nei,Nei
+26-30,1,5,"in-house, privat sektor",Troms og Finnmark,fullstack,50 - 100,450000,Nei,Nei
+15-20,1,1,"in-house, privat sektor",Agder,ingen av disse,under 10,450000,Nei,Ja
+21-25,0,2,"in-house, privat sektor",Viken,devops,under 10,450000,Nei,Nei
+21-25,0,1,"in-house, privat sektor",Troms og Finnmark,fullstack,under 10,450000,Ja,Ja
+36-40,5,9,"in-house, privat sektor",Trøndelag,fullstack,under 10,450000,Nei,Nei
+36-40,3,5,frilans / selvstendig næringsdrivende,Innlandet,UX / design,under 10,450000,Nei,Nei
+26-30,0,13,"in-house, privat sektor",Innlandet,sikkerhet,10 - 50,456000,Nei,Ja
+26-30,5,5,"in-house, privat sektor",Vestland,ingen av disse,1.000 - 10.000,460000,Nei,Nei
+26-30,2,2,"in-house, privat sektor",Nordland,frontend,10 - 50,460000,Nei,Nei
+36-40,0,14,"in-house, privat sektor",Viken,ingen av disse,over 10.000,460000,Nei,Nei
+26-30,4,4,"in-house, privat sektor",Oslo,ledelse/administrativt,100 - 500,462000,Nei,Nei
+21-25,3,2,"in-house, privat sektor",Trøndelag,fullstack,10 - 50,468000,Nei,Ja
+21-25,3,1,"in-house, privat sektor",Nordland,UX / design,10 - 50,470000,Nei,Nei
+26-30,0,11,"in-house, privat sektor",Viken,sikkerhet,under 10,470000,Ja,Ja
+21-25,1,1,"in-house, offentlig/kommunal sektor",Troms og Finnmark,ingen av disse,100 - 500,475000,Ja,Ja
+26-30,3,4,"in-house, privat sektor",Vestfold og Telemark,automatisering,100 - 500,475000,Nei,Nei
+31-35,5,2,"in-house, privat sektor",Innlandet,frontend,1.000 - 10.000,480000,Nei,Nei
+21-25,2,0,"in-house, privat sektor",Rogaland,frontend,10 - 50,480000,Nei,Ja
+26-30,3,2,"in-house, privat sektor",Oslo,fullstack,10 - 50,480000,Nei,Nei
+31-35,3,1,"in-house, privat sektor",Vestland,fullstack,10 - 50,480000,Nei,Nei
+21-25,3,0,konsulent,Vestfold og Telemark,frontend,under 10,480000,Nei,Nei
+31-35,0,1,"in-house, privat sektor",Trøndelag,frontend,under 10,480000,Nei,Ja
+46-50,5,10,"in-house, privat sektor",Trøndelag,UX / design,under 10,480000,Ja,Nei
+26-30,2,10,konsulent,Rogaland,automatisering,1.000 - 10.000,485000,Nei,Nei
+21-25,3,1,konsulent,Vestland,devops,500 - 1.000,490000,Nei,Nei
+36-40,4,18,"in-house, offentlig/kommunal sektor",Trøndelag,ingen av disse,10 - 50,493000,Nei,Nei
+26-30,0,0,"in-house, privat sektor",Trøndelag,fullstack,10 - 50,495000,Nei,Nei
+26-30,4,8,konsulent,Vestfold og Telemark,databaser,500 - 1.000,498000,Ja,Nei
+15-20,5,5,"in-house, offentlig/kommunal sektor",Agder,sikkerhet,1.000 - 10.000,500000,Nei,Ja
+21-25,4,1,"in-house, privat sektor",Viken,app,1.000 - 10.000,500000,Nei,Nei
+21-25,3,1,konsulent,Viken,fullstack,1.000 - 10.000,500000,Nei,Nei
+21-25,1,1,"in-house, offentlig/kommunal sektor",Oslo,programvare,1.000 - 10.000,500000,Ja,Ja
+26-30,3,1,konsulent,Trøndelag,fullstack,1.000 - 10.000,500000,Nei,Nei
+46-50,4,25,"in-house, offentlig/kommunal sektor",Agder,ingen av disse,1.000 - 10.000,500000,Nei,Nei
+21-25,0,1,"in-house, privat sektor",Oslo,databaser,10 - 50,500000,Nei,Ja
+21-25,4,0,"in-house, privat sektor",Trøndelag,frontend,10 - 50,500000,Nei,Ja
+21-25,1,1,"in-house, privat sektor",Rogaland,frontend,10 - 50,500000,Ja,Ja
+26-30,3,0,"in-house, privat sektor",Oslo,data science,10 - 50,500000,Nei,Ja
+26-30,4,6,konsulent,Vestland,frontend,10 - 50,500000,Nei,Nei
+26-30,3,2,"in-house, privat sektor",Innlandet,fullstack,10 - 50,500000,Nei,Nei
+26-30,0,3,"in-house, privat sektor",Vestfold og Telemark,fullstack,10 - 50,500000,Nei,Nei
+36-40,0,2,"in-house, privat sektor",Trøndelag,frontend,10 - 50,500000,Ja,Nei
+36-40,4,3,"in-house, privat sektor",Rogaland,fullstack,10 - 50,500000,Nei,Ja
+36-40,1,8,"in-house, privat sektor",Vestland,ingen av disse,10 - 50,500000,Nei,Nei
+41-45,3,2,"in-house, privat sektor",Oslo,frontend,10 - 50,500000,Nei,Nei
+46-50,0,0,konsulent,Vestfold og Telemark,backend,10 - 50,500000,Ja,Ja
+46-50,0,0,konsulent,Viken,backend,10 - 50,500000,Nei,Ja
+46-50,2,6,"in-house, privat sektor",Vestland,ingen av disse,10 - 50,500000,Nei,Nei
+21-25,2,0,konsulent,Oslo,app,100 - 500,500000,Nei,Nei
+21-25,0,0,"in-house, offentlig/kommunal sektor",Oslo,fullstack,100 - 500,500000,Nei,Nei
+21-25,3,0,"in-house, privat sektor",Oslo,fullstack,100 - 500,500000,Nei,Nei
+21-25,1,0,"in-house, privat sektor",Oslo,sikkerhet,100 - 500,500000,Nei,Ja
+26-30,1,2,konsulent,Oslo,data science,100 - 500,500000,Ja,Nei
+26-30,7,5,"in-house, privat sektor",Agder,ingen av disse,100 - 500,500000,Ja,Nei
+31-35,1,5,"in-house, privat sektor",Vestfold og Telemark,fullstack,100 - 500,500000,Nei,Nei
+31-35,5,5,"in-house, privat sektor",Innlandet,ingen av disse,100 - 500,500000,Nei,Nei
+46-50,0,20,konsulent,Vestland,backend,100 - 500,500000,Nei,Ja
+21-25,3,1,"in-house, privat sektor",Vestfold og Telemark,fullstack,50 - 100,500000,Nei,Nei
+26-30,5,0,"in-house, privat sektor",Møre og Romsdal,fullstack,50 - 100,500000,Nei,Nei
+26-30,3,2,"in-house, privat sektor",Møre og Romsdal,fullstack,50 - 100,500000,Nei,Nei
+26-30,3,1,"in-house, privat sektor",Vestfold og Telemark,fullstack,50 - 100,500000,Nei,Nei
+26-30,3,3,konsulent,Oslo,UX / design,50 - 100,500000,Nei,Nei
+31-35,0,0,"in-house, privat sektor",Oslo,UX / design,50 - 100,500000,Nei,Ja
+26-30,3,1,"in-house, privat sektor",Oslo,frontend,500 - 1.000,500000,Nei,Ja
+31-35,3,10,"in-house, privat sektor",Oslo,ingen av disse,500 - 1.000,500000,Nei,Nei
+36-40,4,15,"in-house, offentlig/kommunal sektor",Oslo,testing,500 - 1.000,500000,Nei,Nei
+41-45,5,0,"in-house, privat sektor",Oslo,data science,500 - 1.000,500000,Nei,Nei
+21-25,2,2,"in-house, privat sektor",Møre og Romsdal,UX / design,under 10,500000,Nei,Ja
+26-30,5,5,"in-house, privat sektor",Oslo,fullstack,under 10,500000,Nei,Ja
+31-35,0,1,"in-house, privat sektor",Trøndelag,frontend,under 10,500000,Nei,Ja
+31-35,0,13,"in-house, privat sektor",Oslo,fullstack,under 10,500000,Ja,Nei
+31-35,2,1,"in-house, privat sektor",Vestfold og Telemark,fullstack,under 10,500000,Nei,Nei
+31-35,6,2,"in-house, offentlig/kommunal sektor",Oslo,ingen av disse,under 10,500000,Nei,Nei
+31-35,1,1,"in-house, privat sektor",Agder,ingen av disse,under 10,500000,Nei,Nei
+41-45,3,20,"in-house, privat sektor",utlandet,ledelse/administrativt,under 10,500000,Nei,Nei
+46-50,3,20,"in-house, privat sektor",Vestland,fullstack,under 10,500000,Nei,Ja
+31-35,0,5,"in-house, privat sektor",Vestfold og Telemark,fullstack,over 10.000,500640,Nei,Nei
+21-25,4,1,"in-house, privat sektor",Trøndelag,backend,100 - 500,502000,Nei,Ja
+26-30,7,3,konsulent,Oslo,devops,1.000 - 10.000,503500,Ja,Nei
+21-25,3,3,konsulent,Rogaland,fullstack,under 10,504000,Nei,Ja
+21-25,3,0,"in-house, offentlig/kommunal sektor",Vestfold og Telemark,fullstack,1.000 - 10.000,510000,Nei,Nei
+36-40,4,15,konsulent,Viken,ingen av disse,1.000 - 10.000,510000,Nei,Nei
+21-25,0,3,"in-house, privat sektor",Oslo,programvare,10 - 50,510000,Nei,Nei
+31-35,2,1,"in-house, privat sektor",Trøndelag,frontend,10 - 50,510000,Nei,Nei
+41-45,2,2,"in-house, offentlig/kommunal sektor",Vestfold og Telemark,automatisering,10 - 50,510000,Nei,Ja
+26-30,3,2,"in-house, privat sektor",Vestland,fullstack,10 - 50,515000,Nei,Nei
+26-30,3,0,"in-house, privat sektor",Agder,backend,100 - 500,515000,Nei,Ja
+21-25,0,0,"in-house, privat sektor",Oslo,ingen av disse,50 - 100,516000,Nei,Nei
+26-30,3,1,"in-house, offentlig/kommunal sektor",Oslo,frontend,100 - 500,516100,Nei,Nei
+21-25,3,0,konsulent,Oslo,backend,1.000 - 10.000,520000,Ja,Nei
+21-25,5,3,konsulent,Oslo,devops,1.000 - 10.000,520000,Ja,Nei
+21-25,0,2,konsulent,Vestland,fullstack,10 - 50,520000,Nei,Ja
+26-30,3,2,"in-house, privat sektor",Nordland,fullstack,10 - 50,520000,Nei,Ja
+26-30,3,2,"in-house, privat sektor",Oslo,ingen av disse,10 - 50,520000,Nei,Nei
+26-30,4,6,"in-house, offentlig/kommunal sektor",Oslo,ingen av disse,10 - 50,520000,Nei,Nei
+31-35,0,0,"in-house, privat sektor",Vestland,fullstack,10 - 50,520000,Nei,Nei
+36-40,3,1,"in-house, privat sektor",Vestland,fullstack,10 - 50,520000,Nei,Ja
+31-35,0,1,konsulent,Oslo,backend,100 - 500,520000,Nei,Nei
+31-35,3,7,"in-house, privat sektor",Møre og Romsdal,frontend,100 - 500,520000,Nei,Nei
+36-40,0,4,"in-house, offentlig/kommunal sektor",Trøndelag,ingen av disse,100 - 500,520000,Nei,Nei
+36-40,0,5,"in-house, privat sektor",Rogaland,automatisering,100 - 500,522000,Nei,Nei
+21-25,0,2,konsulent,Oslo,frontend,10 - 50,525000,Nei,Nei
+26-30,0,0,"in-house, privat sektor",Oslo,frontend,10 - 50,525000,Nei,Nei
+26-30,0,0,konsulent,Vestland,fullstack,10 - 50,525000,Ja,Nei
+26-30,0,1,konsulent,Vestland,fullstack,10 - 50,525000,Ja,Nei
+26-30,0,3,"in-house, privat sektor",Vestfold og Telemark,fullstack,50 - 100,525000,Ja,Nei
+36-40,2,20,frilans / selvstendig næringsdrivende,Rogaland,ingen av disse,under 10,525000,Nei,Ja
+36-40,3,3,"in-house, offentlig/kommunal sektor",Innlandet,backend,500 - 1.000,526000,Nei,Nei
+21-25,3,1,"in-house, privat sektor",Viken,fullstack,50 - 100,526500,Nei,Nei
+26-30,3,0,konsulent,Oslo,programvare,1.000 - 10.000,530000,Nei,Nei
+26-30,3,0,konsulent,Oslo,programvare,1.000 - 10.000,530000,Nei,Nei
+31-35,3,8,"in-house, offentlig/kommunal sektor",Møre og Romsdal,ingen av disse,1.000 - 10.000,530000,Nei,Nei
+21-25,3,5,konsulent,Oslo,fullstack,10 - 50,530000,Nei,Nei
+21-25,3,0,"in-house, privat sektor",Vestland,fullstack,10 - 50,530000,Nei,Nei
+21-25,4,0,konsulent,Trøndelag,fullstack,10 - 50,530000,Nei,Ja
+21-25,3,0,konsulent,Viken,backend,100 - 500,530000,Nei,Nei
+26-30,3,3,"in-house, privat sektor",Innlandet,fullstack,100 - 500,530000,Nei,Nei
+21-25,2,0,"in-house, privat sektor",Møre og Romsdal,programvare,50 - 100,530000,Nei,Nei
+26-30,3,0,"in-house, privat sektor",Oslo,backend,50 - 100,530000,Nei,Ja
+26-30,3,1,"in-house, privat sektor",Møre og Romsdal,fullstack,50 - 100,530000,Nei,Ja
+26-30,3,0,konsulent,Oslo,backend,over 10.000,530000,Nei,Ja
+26-30,0,2,"in-house, privat sektor",Oslo,ledelse/administrativt,over 10.000,530000,Nei,Nei
+21-25,3,3,"in-house, privat sektor",Oslo,fullstack,under 10,530000,Ja,Nei
+31-35,0,1,"in-house, privat sektor",Trøndelag,frontend,under 10,530000,Nei,Nei
+21-25,3,1,"in-house, privat sektor",Oslo,sikkerhet,1.000 - 10.000,540000,Nei,Ja
+26-30,5,0,konsulent,Rogaland,fullstack,10 - 50,540000,Nei,Ja
+31-35,1,5,"in-house, privat sektor",Agder,fullstack,10 - 50,540000,Nei,Ja
+31-35,1,0,konsulent,Oslo,sikkerhet,10 - 50,540000,Nei,Nei
+36-40,2,3,konsulent,Rogaland,frontend,10 - 50,540000,Nei,Nei
+36-40,1,3,"in-house, privat sektor",Nordland,fullstack,10 - 50,540000,Nei,Nei
+26-30,2,4,"in-house, privat sektor",Oslo,frontend,100 - 500,540000,Nei,Nei
+26-30,3,1,"in-house, privat sektor",Trøndelag,backend,500 - 1.000,540000,Nei,Ja
+31-35,3,2,"in-house, privat sektor",Møre og Romsdal,fullstack,500 - 1.000,540000,Ja,Nei
+26-30,3,4,"in-house, privat sektor",Møre og Romsdal,frontend,under 10,540000,Nei,Nei
+36-40,3,9,"in-house, privat sektor",Nordland,frontend,under 10,540000,Nei,Ja
+31-35,3,1,"in-house, offentlig/kommunal sektor",Oslo,backend,over 10.000,544400,Nei,Ja
+36-40,2,17,"in-house, offentlig/kommunal sektor",Trøndelag,ledelse/administrativt,1.000 - 10.000,545000,Nei,Nei
+26-30,2,1,"in-house, offentlig/kommunal sektor",Vestland,frontend,10 - 50,545000,Nei,Nei
+26-30,3,1,"in-house, offentlig/kommunal sektor",Oslo,fullstack,1.000 - 10.000,547500,Nei,Ja
+21-25,3,0,"in-house, privat sektor",Viken,arkitektur,1.000 - 10.000,550000,Nei,Nei
+21-25,3,1,"in-house, privat sektor",Vestland,backend,1.000 - 10.000,550000,Nei,Nei
+21-25,3,0,konsulent,Oslo,frontend,1.000 - 10.000,550000,Ja,Ja
+21-25,3,0,"in-house, offentlig/kommunal sektor",Oslo,fullstack,1.000 - 10.000,550000,Nei,Ja
+26-30,3,15,"in-house, privat sektor",Viken,frontend,1.000 - 10.000,550000,Nei,Nei
+26-30,2,0,konsulent,Oslo,frontend,1.000 - 10.000,550000,Ja,Nei
+26-30,,1,"in-house, offentlig/kommunal sektor",Agder,ingen av disse,1.000 - 10.000,550000,Nei,Ja
+31-35,0,4,"in-house, privat sektor",Oslo,devops,1.000 - 10.000,550000,Nei,Nei
+46-50,9,19,"in-house, offentlig/kommunal sektor",Oslo,ingen av disse,1.000 - 10.000,550000,Nei,Nei
+21-25,3,3,"in-house, privat sektor",Viken,frontend,10 - 50,550000,Nei,Nei
+21-25,3,2,"in-house, privat sektor",Vestfold og Telemark,fullstack,10 - 50,550000,Nei,Nei
+26-30,2,0,"in-house, privat sektor",Rogaland,frontend,10 - 50,550000,Nei,Ja
+26-30,0,4,"in-house, privat sektor",Trøndelag,fullstack,10 - 50,550000,Nei,Nei
+26-30,7,7,"in-house, privat sektor",Møre og Romsdal,programvare,10 - 50,550000,Ja,Nei
+31-35,3,4,"in-house, privat sektor",Vestfold og Telemark,backend,10 - 50,550000,Nei,Nei
+31-35,3,1,konsulent,Trøndelag,frontend,10 - 50,550000,Nei,Nei
+31-35,6,3,"in-house, offentlig/kommunal sektor",Oslo,ingen av disse,10 - 50,550000,Nei,Nei
+36-40,1,5,"in-house, privat sektor",Agder,frontend,10 - 50,550000,Nei,Nei
+21-25,3,2,"in-house, privat sektor",Oslo,devops,100 - 500,550000,Ja,Nei
+21-25,2,5,"in-house, privat sektor",Oslo,ingen av disse,100 - 500,550000,Nei,Ja
+21-25,3,1,"in-house, offentlig/kommunal sektor",Trøndelag,ingen av disse,100 - 500,550000,Ja,Nei
+26-30,3,0,konsulent,Oslo,backend,100 - 500,550000,Nei,Ja
+26-30,5,1,"in-house, privat sektor",Vestfold og Telemark,backend,100 - 500,550000,Nei,Nei
+26-30,3,0,"in-house, offentlig/kommunal sektor",Oslo,frontend,100 - 500,550000,Ja,Ja
+31-35,4,2,"in-house, privat sektor",Troms og Finnmark,automatisering,100 - 500,550000,Nei,Nei
+31-35,3,0,konsulent,Oslo,frontend,100 - 500,550000,Nei,Nei
+36-40,1,2,"in-house, offentlig/kommunal sektor",Oslo,frontend,100 - 500,550000,Ja,Nei
+36-40,,19,"in-house, privat sektor",Agder,ingen av disse,100 - 500,550000,Ja,Nei
+36-40,3,0,"in-house, offentlig/kommunal sektor",Nordland,ingen av disse,100 - 500,550000,Nei,Nei
+21-25,3,2,"in-house, privat sektor",Oslo,fullstack,50 - 100,550000,Ja,Nei
+21-25,3,1,konsulent,Vestland,frontend,500 - 1.000,550000,Nei,Nei
+21-25,3,0,"in-house, privat sektor",Vestfold og Telemark,fullstack,500 - 1.000,550000,Nei,Ja
+26-30,1,10,"in-house, privat sektor",Rogaland,automatisering,500 - 1.000,550000,Nei,Ja
+21-25,5,1,konsulent,Vestland,backend,over 10.000,550000,Nei,Nei
+21-25,3,1,"in-house, privat sektor",Oslo,backend,over 10.000,550000,Nei,Nei
+26-30,2,0,konsulent,Trøndelag,data science,over 10.000,550000,Ja,Nei
+26-30,5,0,konsulent,Agder,fullstack,over 10.000,550000,Nei,Ja
+31-35,3,1,"in-house, privat sektor",Oslo,fullstack,over 10.000,550000,Nei,Nei
+21-25,0,4,"in-house, privat sektor",Trøndelag,backend,under 10,550000,Nei,Ja
+21-25,5,1,"in-house, privat sektor",Agder,embedded/IOT/maskinvare,under 10,550000,Nei,Ja
+21-25,0,4,"in-house, privat sektor",Rogaland,frontend,under 10,550000,Nei,Ja
+21-25,3,4,konsulent,Innlandet,fullstack,under 10,550000,Nei,Ja
+26-30,3,2,"in-house, privat sektor",Nordland,fullstack,under 10,550000,Nei,Nei
+26-30,3,1,"in-house, privat sektor",Oslo,fullstack,under 10,550000,Nei,Ja
+26-30,5,1,konsulent,Oslo,UX / design,under 10,550000,Nei,Ja
+31-35,2,11,konsulent,Agder,fullstack,under 10,550000,Ja,Nei
+21-25,3,1,konsulent,Oslo,fullstack,1.000 - 10.000,555000,Ja,Nei
+21-25,3,0,konsulent,Oslo,fullstack,100 - 500,555000,Nei,Ja
+26-30,3,0,konsulent,Oslo,fullstack,100 - 500,555000,Nei,Nei
+21-25,3,2,"in-house, privat sektor",Oslo,backend,50 - 100,555000,Nei,Ja
+26-30,3,3,"in-house, offentlig/kommunal sektor",Troms og Finnmark,backend,100 - 500,557648,Nei,Ja
+26-30,3,6,"in-house, privat sektor",Oslo,devops,1.000 - 10.000,559000,Nei,Nei
+31-35,3,2,"in-house, privat sektor",Trøndelag,fullstack,10 - 50,559000,Nei,Nei
+26-30,3,1,konsulent,Viken,fullstack,1.000 - 10.000,560000,Ja,Ja
+26-30,5,1,konsulent,Oslo,sikkerhet,1.000 - 10.000,560000,Nei,Ja
+26-30,3,3,"in-house, offentlig/kommunal sektor",Vestland,sikkerhet,1.000 - 10.000,560000,Nei,Nei
+41-45,5,17,"in-house, offentlig/kommunal sektor",Vestland,fullstack,1.000 - 10.000,560000,Nei,Nei
+21-25,,1,"in-house, privat sektor",Rogaland,backend,10 - 50,560000,Nei,Nei
+26-30,3,0,"in-house, offentlig/kommunal sektor",Oslo,fullstack,10 - 50,560000,Nei,Ja
+31-35,3,0,"in-house, privat sektor",Oslo,data science,10 - 50,560000,Nei,Nei
+36-40,,7,"in-house, privat sektor",Viken,data science,10 - 50,560000,Nei,Nei
+36-40,3,3,"in-house, privat sektor",Vestfold og Telemark,frontend,10 - 50,560000,Nei,Ja
+21-25,2,7,"in-house, privat sektor",Oslo,automatisering,100 - 500,560000,Nei,Nei
+21-25,3,2,"in-house, privat sektor",Agder,fullstack,100 - 500,560000,Nei,Nei
+26-30,3,1,konsulent,Oslo,fullstack,100 - 500,560000,Nei,Nei
+26-30,2,2,konsulent,Rogaland,programvare,100 - 500,560000,Ja,Ja
+26-30,3,1,konsulent,Oslo,sikkerhet,100 - 500,560000,Nei,Nei
+26-30,3,1,"in-house, privat sektor",Viken,fullstack,500 - 1.000,560000,Nei,Nei
+26-30,3,0,"in-house, privat sektor",Oslo,app,under 10,560000,Ja,Ja
+26-30,2,8,"in-house, privat sektor",Trøndelag,frontend,under 10,560000,Nei,Nei
+31-35,0,0,konsulent,Oslo,fullstack,1.000 - 10.000,564000,Nei,Ja
+26-30,3,1,konsulent,Oslo,frontend,1.000 - 10.000,565000,Nei,Nei
+41-45,,10,"in-house, privat sektor",Trøndelag,backend,100 - 500,565000,Nei,Nei
+26-30,3,4,konsulent,Møre og Romsdal,fullstack,50 - 100,565000,Nei,Nei
+21-25,3,1,konsulent,Oslo,ingen av disse,1.000 - 10.000,567000,Nei,Nei
+26-30,3,3,"in-house, offentlig/kommunal sektor",Nordland,fullstack,500 - 1.000,567000,Ja,Nei
+31-35,4,5,"in-house, privat sektor",Troms og Finnmark,fullstack,under 10,567000,Ja,Ja
+26-30,3,1,konsulent,Trøndelag,ingen av disse,1.000 - 10.000,568000,Nei,Nei
+26-30,1,2,konsulent,Oslo,sikkerhet,1.000 - 10.000,569000,Nei,Nei
+21-25,3,1,"in-house, privat sektor",Oslo,backend,1.000 - 10.000,570000,Nei,Nei
+21-25,5,1,konsulent,Vestland,data science,1.000 - 10.000,570000,Nei,Ja
+26-30,3,2,konsulent,Oslo,app,1.000 - 10.000,570000,Nei,Nei
+21-25,4,0,konsulent,Trøndelag,fullstack,100 - 500,570000,Nei,Ja
+26-30,2,0,"in-house, privat sektor",Oslo,frontend,100 - 500,570000,Nei,Ja
+31-35,0,0,"in-house, offentlig/kommunal sektor",Nordland,frontend,100 - 500,570000,Nei,Nei
+31-35,3,1,konsulent,Vestland,fullstack,100 - 500,570000,Nei,Nei
+26-30,3,0,"in-house, privat sektor",Oslo,backend,50 - 100,570000,Nei,Ja
+26-30,3,2,"in-house, privat sektor",Rogaland,frontend,50 - 100,570000,Nei,Nei
+26-30,3,1,"in-house, privat sektor",Viken,fullstack,50 - 100,570000,Nei,Ja
+26-30,3,1,konsulent,Rogaland,fullstack,50 - 100,570000,Nei,Nei
+26-30,4,3,"in-house, privat sektor",Oslo,automatisering,over 10.000,570000,Ja,Nei
+26-30,5,1,konsulent,Oslo,UX / design,over 10.000,570000,Ja,Nei
+31-35,3,0,"in-house, privat sektor",Møre og Romsdal,embedded/IOT/maskinvare,over 10.000,570000,Nei,Nei
+36-40,5,12,"in-house, offentlig/kommunal sektor",Oslo,data science,over 10.000,570000,Nei,Ja
+41-45,5,15,konsulent,Nordland,ingen av disse,over 10.000,570000,Nei,Nei
+41-45,3,1,"in-house, privat sektor",Troms og Finnmark,programvare,100 - 500,572000,Nei,Nei
+26-30,3,2,"in-house, privat sektor",Oslo,fullstack,50 - 100,573000,Nei,Nei
+21-25,0,3,"in-house, offentlig/kommunal sektor",Oslo,sikkerhet,500 - 1.000,573000,Nei,Nei
+26-30,6,10,"in-house, privat sektor",Agder,frontend,100 - 500,574000,Nei,Nei
+21-25,3,1,"in-house, offentlig/kommunal sektor",Oslo,automatisering,over 10.000,574500,Nei,Ja
+21-25,3,1,konsulent,Trøndelag,automatisering,10 - 50,575000,Nei,Ja
+21-25,3,0,konsulent,Innlandet,frontend,10 - 50,575000,Ja,Nei
+21-25,3,1,"in-house, privat sektor",Oslo,app,100 - 500,575000,Nei,Ja
+21-25,0,3,"in-house, privat sektor",Rogaland,fullstack,100 - 500,575000,Nei,Nei
+36-40,3,2,konsulent,Oslo,frontend,100 - 500,575000,Nei,Nei
+26-30,2,4,konsulent,Vestfold og Telemark,frontend,50 - 100,575000,Nei,Nei
+21-25,3,0,konsulent,Oslo,frontend,500 - 1.000,575000,Nei,Ja
+26-30,3,4,"in-house, privat sektor",Oslo,UX / design,under 10,575000,Ja,Nei
+21-25,3,1,"in-house, privat sektor",Rogaland,fullstack,500 - 1.000,575250,Nei,Ja
+31-35,6,1,"in-house, privat sektor",Agder,frontend,100 - 500,576000,Ja,Ja
+36-40,2,10,konsulent,Viken,ingen av disse,100 - 500,576000,Ja,Nei
+21-25,3,0,"in-house, privat sektor",Viken,programvare,1.000 - 10.000,578000,Nei,Nei
+41-45,3,25,"in-house, privat sektor",Viken,ingen av disse,1.000 - 10.000,578000,Nei,Nei
+21-25,3,1,"in-house, privat sektor",Viken,programvare,over 10.000,578000,Nei,Ja
+26-30,3,1,konsulent,Oslo,backend,10 - 50,580000,Ja,Nei
+41-45,1,3,"in-house, privat sektor",Rogaland,fullstack,10 - 50,580000,Ja,Nei
+21-25,3,1,konsulent,Oslo,frontend,100 - 500,580000,Ja,Nei
+21-25,3,1,konsulent,Oslo,fullstack,100 - 500,580000,Nei,Nei
+26-30,3,1,konsulent,Vestland,fullstack,100 - 500,580000,Nei,Nei
+31-35,5,19,"in-house, privat sektor",Trøndelag,ingen av disse,100 - 500,580000,Nei,Nei
+36-40,3,4,"in-house, privat sektor",Vestfold og Telemark,fullstack,100 - 500,580000,Nei,Nei
+21-25,3,3,konsulent,Møre og Romsdal,fullstack,50 - 100,580000,Nei,Ja
+26-30,3,1,"in-house, offentlig/kommunal sektor",Troms og Finnmark,fullstack,50 - 100,580000,Nei,Ja
+26-30,2,0,konsulent,Agder,frontend,10 - 50,585000,Nei,Ja
+26-30,4,0,konsulent,Oslo,fullstack,100 - 500,585000,Nei,Nei
+21-25,3,1,konsulent,Oslo,fullstack,500 - 1.000,585000,Nei,Ja
+26-30,3,0,konsulent,Oslo,backend,500 - 1.000,585000,Nei,Nei
+26-30,1,6,"in-house, privat sektor",Viken,backend,under 10,585400,Nei,Nei
+46-50,3,2,"in-house, privat sektor",Møre og Romsdal,backend,1.000 - 10.000,587000,Nei,Ja
+26-30,3,1,konsulent,Oslo,app,1.000 - 10.000,590000,Nei,Nei
+26-30,3,1,"in-house, offentlig/kommunal sektor",Oslo,frontend,100 - 500,590000,Nei,Ja
+31-35,3,7,"in-house, offentlig/kommunal sektor",Troms og Finnmark,backend,100 - 500,590000,Ja,Nei
+31-35,3,2,"in-house, offentlig/kommunal sektor",Troms og Finnmark,fullstack,100 - 500,590000,Nei,Nei
+21-25,3,1,"in-house, privat sektor",Oslo,app,50 - 100,590000,Nei,Nei
+26-30,6,1,konsulent,Oslo,backend,over 10.000,590000,Nei,Nei
+26-30,3,4,"in-house, offentlig/kommunal sektor",Oslo,fullstack,500 - 1.000,593600,Nei,Nei
+26-30,5,0,konsulent,Agder,automatisering,1.000 - 10.000,595000,Nei,Ja
+26-30,3,2,"in-house, offentlig/kommunal sektor",Oslo,frontend,1.000 - 10.000,595000,Nei,Nei
+21-25,5,1,konsulent,Oslo,frontend,100 - 500,595000,Nei,Nei
+26-30,5,2,"in-house, privat sektor",Agder,frontend,100 - 500,595000,Ja,Ja
+26-30,5,1,konsulent,Oslo,fullstack,50 - 100,595000,Nei,Ja
+21-25,3,0,konsulent,Oslo,frontend,100 - 500,596000,Nei,Ja
+36-40,1,3,"in-house, offentlig/kommunal sektor",Oslo,backend,over 10.000,596000,Ja,Nei
+21-25,3,2,"in-house, privat sektor",Oslo,frontend,100 - 500,597000,Nei,Nei
+26-30,5,2,konsulent,Oslo,fullstack,over 10.000,597000,Nei,Nei
+26-30,3,1,konsulent,Oslo,backend,over 10.000,598500,Ja,Nei
+21-25,5,0,konsulent,Trøndelag,data science,1.000 - 10.000,600000,Nei,Ja
+21-25,5,0,konsulent,Oslo,frontend,1.000 - 10.000,600000,Ja,Ja
+21-25,2,1,"in-house, offentlig/kommunal sektor",Oslo,fullstack,1.000 - 10.000,600000,Nei,Ja
+21-25,3,1,konsulent,Oslo,fullstack,1.000 - 10.000,600000,Ja,Nei
+26-30,3,4,konsulent,Viken,backend,1.000 - 10.000,600000,Nei,Ja
+26-30,5,1,konsulent,Vestland,backend,1.000 - 10.000,600000,Ja,Nei
+26-30,3,4,konsulent,Oslo,frontend,1.000 - 10.000,600000,Nei,Nei
+26-30,5,1,konsulent,Viken,fullstack,1.000 - 10.000,600000,Ja,Nei
+26-30,3,3,"in-house, privat sektor",Rogaland,fullstack,1.000 - 10.000,600000,Nei,Ja
+31-35,5,11,"in-house, offentlig/kommunal sektor",Nordland,frontend,1.000 - 10.000,600000,Nei,Ja
+31-35,3,0,"in-house, privat sektor",Trøndelag,fullstack,1.000 - 10.000,600000,Nei,Ja
+31-35,5,2,"in-house, privat sektor",Oslo,fullstack,1.000 - 10.000,600000,Nei,Nei
+31-35,5,2,"in-house, privat sektor",Innlandet,fullstack,1.000 - 10.000,600000,Nei,Ja
+31-35,5,8,"in-house, offentlig/kommunal sektor",Vestfold og Telemark,ingen av disse,1.000 - 10.000,600000,Nei,Nei
+31-35,3,8,"in-house, offentlig/kommunal sektor",Viken,ingen av disse,1.000 - 10.000,600000,Nei,Ja
+31-35,5,10,"in-house, offentlig/kommunal sektor",Viken,ingen av disse,1.000 - 10.000,600000,Ja,Nei
+36-40,0,20,konsulent,Oslo,ingen av disse,1.000 - 10.000,600000,Nei,Nei
+41-45,3,10,"in-house, privat sektor",Nordland,fullstack,1.000 - 10.000,600000,Nei,Nei
+41-45,9,9,"in-house, offentlig/kommunal sektor",Oslo,programvare,1.000 - 10.000,600000,Nei,Nei
+21-25,3,0,konsulent,Oslo,arkitektur,10 - 50,600000,Ja,Ja
+21-25,3,2,"in-house, privat sektor",Agder,frontend,10 - 50,600000,Ja,Ja
+26-30,2,4,konsulent,Oslo,frontend,10 - 50,600000,Nei,Ja
+26-30,3,3,"in-house, privat sektor",Viken,frontend,10 - 50,600000,Nei,Ja
+26-30,,4,"in-house, privat sektor",Vestfold og Telemark,frontend,10 - 50,600000,Ja,Ja
+26-30,3,2,konsulent,Innlandet,fullstack,10 - 50,600000,Ja,Ja
+26-30,5,0,"in-house, privat sektor",Rogaland,fullstack,10 - 50,600000,Nei,Ja
+26-30,3,1,"in-house, privat sektor",Vestfold og Telemark,fullstack,10 - 50,600000,Nei,Nei
+36-40,1,1,"in-house, privat sektor",Oslo,frontend,10 - 50,600000,Nei,Ja
+41-45,4,4,"in-house, privat sektor",Viken,backend,10 - 50,600000,Nei,Ja
+46-50,3,5,"in-house, privat sektor",Innlandet,backend,10 - 50,600000,Nei,Ja
+21-25,3,0,"in-house, privat sektor",Nordland,backend,100 - 500,600000,Nei,Ja
+21-25,3,2,"in-house, privat sektor",Vestfold og Telemark,backend,100 - 500,600000,Nei,Nei
+21-25,3,1,"in-house, privat sektor",Oslo,backend,100 - 500,600000,Nei,Ja
+21-25,3,2,"in-house, privat sektor",Trøndelag,backend,100 - 500,600000,Nei,Ja
+21-25,2,2,"in-house, privat sektor",Oslo,fullstack,100 - 500,600000,Ja,Ja
+21-25,3,0,konsulent,Oslo,fullstack,100 - 500,600000,Ja,Ja
+26-30,5,1,"in-house, offentlig/kommunal sektor",Oslo,backend,100 - 500,600000,Nei,Nei
+26-30,6,2,"in-house, privat sektor",Oslo,frontend,100 - 500,600000,Nei,Nei
+26-30,0,0,"in-house, privat sektor",Oslo,frontend,100 - 500,600000,Nei,Ja
+26-30,0,2,"in-house, privat sektor",Oslo,frontend,100 - 500,600000,Nei,Ja
+26-30,3,4,"in-house, offentlig/kommunal sektor",Nordland,fullstack,100 - 500,600000,Nei,Ja
+26-30,3,2,konsulent,Oslo,fullstack,100 - 500,600000,Ja,Nei
+26-30,3,5,"in-house, privat sektor",Nordland,fullstack,100 - 500,600000,Nei,Ja
+26-30,3,12,konsulent,Vestfold og Telemark,sikkerhet,100 - 500,600000,Nei,Nei
+31-35,3,4,"in-house, privat sektor",Vestland,fullstack,100 - 500,600000,Ja,Nei
+31-35,,11,"in-house, privat sektor",Vestland,ledelse/administrativt,100 - 500,600000,Ja,Nei
+36-40,2,3,"in-house, privat sektor",Oslo,app,100 - 500,600000,Nei,Nei
+36-40,3,0,"in-house, privat sektor",Nordland,backend,100 - 500,600000,Ja,Ja
+41-45,3,3,"in-house, privat sektor",Oslo,fullstack,100 - 500,600000,Ja,Nei
+21-25,5,1,konsulent,Agder,data science,50 - 100,600000,Nei,Ja
+26-30,5,2,"in-house, privat sektor",Vestland,backend,50 - 100,600000,Nei,Nei
+26-30,5,2,"in-house, privat sektor",Innlandet,databaser,50 - 100,600000,Nei,Nei
+21-25,5,0,konsulent,Rogaland,ingen av disse,500 - 1.000,600000,Ja,Ja
+26-30,5,4,konsulent,Møre og Romsdal,frontend,500 - 1.000,600000,Nei,Nei
+26-30,3,0,"in-house, offentlig/kommunal sektor",Oslo,fullstack,500 - 1.000,600000,Nei,Ja
+26-30,3,0,"in-house, offentlig/kommunal sektor",Trøndelag,fullstack,500 - 1.000,600000,Nei,Ja
+31-35,3,3,"in-house, privat sektor",Oslo,programvare,500 - 1.000,600000,Nei,Nei
+36-40,3,15,"in-house, privat sektor",Rogaland,ingen av disse,500 - 1.000,600000,Nei,Nei
+56-60,8,36,"in-house, privat sektor",Vestfold og Telemark,ingen av disse,500 - 1.000,600000,Nei,Nei
+36-40,5,8,"in-house, offentlig/kommunal sektor",Vestland,ingen av disse,over 10.000,600000,Nei,Nei
+26-30,3,1,"in-house, privat sektor",Troms og Finnmark,frontend,under 10,600000,Nei,Nei
+26-30,3,4,"in-house, privat sektor",Vestland,frontend,under 10,600000,Nei,Nei
+26-30,0,5,"in-house, privat sektor",Vestfold og Telemark,fullstack,under 10,600000,Ja,Nei
+26-30,3,2,frilans / selvstendig næringsdrivende,Oslo,fullstack,under 10,600000,Nei,Ja
+26-30,3,2,konsulent,Viken,fullstack,under 10,600000,Nei,Ja
+26-30,5,3,"in-house, privat sektor",Oslo,fullstack,under 10,600000,Nei,Nei
+26-30,2,5,"in-house, privat sektor",Trøndelag,UX / design,under 10,600000,Nei,Nei
+31-35,4,1,"in-house, privat sektor",Nordland,embedded/IOT/maskinvare,under 10,600000,Nei,Ja
+41-45,0,15,konsulent,Oslo,fullstack,under 10,600000,Nei,Nei
+31-35,3,4,"in-house, offentlig/kommunal sektor",Trøndelag,fullstack,50 - 100,600500,Nei,Nei
+51-55,3,20,"in-house, offentlig/kommunal sektor",Troms og Finnmark,ingen av disse,50 - 100,603000,Nei,Nei
+31-35,4,10,"in-house, offentlig/kommunal sektor",Oslo,fullstack,1.000 - 10.000,604000,Nei,Nei
+26-30,3,3,"in-house, offentlig/kommunal sektor",Oslo,fullstack,over 10.000,604400,Nei,Nei
+26-30,3,1,konsulent,Oslo,fullstack,1.000 - 10.000,605000,Nei,Ja
+26-30,3,3,konsulent,Trøndelag,sikkerhet,1.000 - 10.000,605000,Nei,Nei
+36-40,3,11,"in-house, privat sektor",Trøndelag,fullstack,10 - 50,605000,Nei,Nei
+21-25,5,0,"in-house, privat sektor",Oslo,fullstack,50 - 100,605000,Nei,Ja
+26-30,3,3,"in-house, offentlig/kommunal sektor",Oslo,programvare,500 - 1.000,605000,Nei,Nei
+26-30,3,3,konsulent,Oslo,devops,over 10.000,605000,Ja,Nei
+26-30,5,1,"in-house, privat sektor",Oslo,testing,500 - 1.000,606000,Nei,Ja
+21-25,5,0,"in-house, privat sektor",Viken,backend,1.000 - 10.000,610000,Nei,Ja
+21-25,3,1,"in-house, offentlig/kommunal sektor",Oslo,testing,10 - 50,610000,Nei,Ja
+26-30,4,4,"in-house, privat sektor",Vestfold og Telemark,arkitektur,10 - 50,610000,Nei,Nei
+31-35,0,5,"in-house, privat sektor",Viken,fullstack,10 - 50,610000,Ja,Nei
+41-45,0,3,"in-house, privat sektor",Oslo,backend,10 - 50,610000,Nei,Ja
+26-30,5,2,konsulent,Oslo,data science,100 - 500,610000,Nei,Nei
+26-30,2,1,"in-house, privat sektor",Oslo,frontend,100 - 500,610000,Ja,Nei
+26-30,5,1,"in-house, privat sektor",Agder,UX / design,100 - 500,610000,Nei,Ja
+31-35,6,4,"in-house, privat sektor",Oslo,data science,100 - 500,610000,Nei,Nei
+21-25,5,0,konsulent,Oslo,backend,500 - 1.000,610000,Nei,Nei
+26-30,5,0,konsulent,Oslo,fullstack,500 - 1.000,610000,Nei,Nei
+26-30,3,3,"in-house, offentlig/kommunal sektor",Troms og Finnmark,fullstack,500 - 1.000,610000,Nei,Nei
+26-30,5,0,konsulent,Oslo,UX / design,500 - 1.000,610000,Ja,Ja
+21-25,0,2,"in-house, privat sektor",Oslo,fullstack,over 10.000,610000,Ja,Ja
+26-30,3,4,"in-house, privat sektor",Møre og Romsdal,fullstack,over 10.000,610000,Nei,Nei
+36-40,0,20,"in-house, privat sektor",Vestland,ingen av disse,10 - 50,611000,Nei,Ja
+31-35,3,1,"in-house, offentlig/kommunal sektor",Oslo,data science,100 - 500,613100,Ja,Nei
+26-30,5,1,konsulent,Oslo,backend,1.000 - 10.000,614000,Nei,Ja
+21-25,3,3,"in-house, privat sektor",Trøndelag,fullstack,10 - 50,615000,Nei,Ja
+21-25,5,1,konsulent,Trøndelag,fullstack,10 - 50,615000,Nei,Ja
+21-25,5,3,konsulent,Trøndelag,fullstack,10 - 50,615000,Nei,Nei
+26-30,3,4,"in-house, privat sektor",Innlandet,fullstack,10 - 50,615000,Nei,Ja
+21-25,2,7,"in-house, privat sektor",Vestland,fullstack,100 - 500,615000,Nei,Nei
+26-30,5,2,"in-house, offentlig/kommunal sektor",Oslo,backend,100 - 500,615000,Nei,Nei
+26-30,5,1,konsulent,Oslo,fullstack,100 - 500,615000,Nei,Ja
+46-50,6,18,"in-house, offentlig/kommunal sektor",Viken,ingen av disse,50 - 100,615000,Nei,Nei
+21-25,3,25,"in-house, privat sektor",Oslo,backend,1.000 - 10.000,620000,Nei,Nei
+26-30,5,4,"in-house, privat sektor",Møre og Romsdal,embedded/IOT/maskinvare,1.000 - 10.000,620000,Ja,Nei
+26-30,3,3,konsulent,Oslo,fullstack,1.000 - 10.000,620000,Nei,Nei
+26-30,0,4,"in-house, privat sektor",Rogaland,fullstack,1.000 - 10.000,620000,Nei,Nei
+36-40,3,2,"in-house, privat sektor",Vestland,frontend,10 - 50,620000,Ja,Ja
+21-25,5,2,konsulent,Oslo,frontend,100 - 500,620000,Nei,Nei
+26-30,4,2,konsulent,Oslo,backend,100 - 500,620000,Nei,Ja
+26-30,2,2,"in-house, offentlig/kommunal sektor",Oslo,fullstack,100 - 500,620000,Nei,Ja
+31-35,5,0,"in-house, privat sektor",Oslo,data science,100 - 500,620000,Nei,Ja
+31-35,6,6,"in-house, offentlig/kommunal sektor",Trøndelag,fullstack,100 - 500,620000,Nei,Nei
+41-45,1,10,"in-house, privat sektor",Oslo,UX / design,100 - 500,620000,Nei,Nei
+31-35,3,5,"in-house, privat sektor",Agder,backend,50 - 100,620000,Nei,Nei
+31-35,4,4,konsulent,Viken,embedded/IOT/maskinvare,50 - 100,620000,Ja,Ja
+41-45,,,"in-house, privat sektor",Oslo,ingen av disse,50 - 100,620000,Nei,Nei
+21-25,3,0,"in-house, offentlig/kommunal sektor",Oslo,frontend,500 - 1.000,620000,Nei,Ja
+31-35,3,2,konsulent,Rogaland,data science,500 - 1.000,620000,Ja,Nei
+41-45,0,13,"in-house, offentlig/kommunal sektor",Oslo,arkitektur,500 - 1.000,620000,Nei,Nei
+21-25,3,1,"in-house, privat sektor",Vestland,backend,over 10.000,620000,Ja,Ja
+21-25,5,0,"in-house, privat sektor",Viken,programvare,over 10.000,620000,Nei,Ja
+26-30,3,2,konsulent,Vestland,devops,over 10.000,620000,Nei,Nei
+31-35,3,3,konsulent,Agder,backend,over 10.000,620000,Nei,Nei
+21-25,3,2,konsulent,Viken,frontend,under 10,620000,Nei,Nei
+31-35,3,1,"in-house, privat sektor",Oslo,frontend,under 10,620000,Nei,Nei
+46-50,7,18,"in-house, offentlig/kommunal sektor",Oslo,ledelse/administrativt,under 10,620000,Ja,Nei
+36-40,3,4,"in-house, offentlig/kommunal sektor",Troms og Finnmark,backend,10 - 50,622700,Nei,Nei
+31-35,3,1,"in-house, privat sektor",Oslo,app,1.000 - 10.000,624000,Nei,Nei
+21-25,5,1,konsulent,Oslo,fullstack,100 - 500,624900,Nei,Ja
+26-30,7,1,"in-house, privat sektor",Trøndelag,programvare,1.000 - 10.000,625000,Nei,Ja
+21-25,3,3,"in-house, privat sektor",Agder,fullstack,10 - 50,625000,Nei,Ja
+26-30,3,1,konsulent,Oslo,backend,100 - 500,625000,Nei,Ja
+26-30,3,1,"in-house, privat sektor",Oslo,frontend,100 - 500,625000,Nei,Ja
+26-30,5,1,"in-house, privat sektor",Viken,data science,over 10.000,625000,Nei,Ja
+31-35,2,2,"in-house, privat sektor",Vestfold og Telemark,frontend,under 10,625000,Nei,Ja
+31-35,1,3,"in-house, privat sektor",Møre og Romsdal,fullstack,10 - 50,626000,Ja,Ja
+26-30,3,4,"in-house, offentlig/kommunal sektor",Oslo,fullstack,over 10.000,626000,Nei,Nei
+21-25,3,2,"in-house, offentlig/kommunal sektor",Oslo,app,1.000 - 10.000,627000,Ja,Nei
+26-30,3,2,"in-house, privat sektor",Vestland,fullstack,10 - 50,627000,Nei,Nei
+21-25,5,1,"in-house, privat sektor",Oslo,fullstack,100 - 500,627000,Nei,Ja
+26-30,5,2,"in-house, privat sektor",Troms og Finnmark,data science,100 - 500,627000,Nei,Nei
+26-30,5,1,konsulent,Oslo,frontend,100 - 500,628000,Ja,Nei
+31-35,3,5,konsulent,Rogaland,ledelse/administrativt,50 - 100,629000,Nei,Nei
+26-30,0,3,"in-house, privat sektor",Møre og Romsdal,backend,1.000 - 10.000,630000,Nei,Ja
+26-30,5,2,konsulent,Vestland,backend,1.000 - 10.000,630000,Nei,Nei
+26-30,5,0,konsulent,Oslo,frontend,1.000 - 10.000,630000,Nei,Ja
+26-30,5,1,"in-house, privat sektor",Rogaland,frontend,1.000 - 10.000,630000,Nei,Nei
+26-30,3,3,konsulent,Oslo,frontend,1.000 - 10.000,630000,Nei,Nei
+26-30,3,0,konsulent,Oslo,fullstack,1.000 - 10.000,630000,Ja,Ja
+26-30,4,1,konsulent,Rogaland,fullstack,1.000 - 10.000,630000,Ja,Ja
+26-30,3,3,"in-house, privat sektor",Oslo,fullstack,1.000 - 10.000,630000,Ja,Nei
+26-30,,3,konsulent,Rogaland,fullstack,1.000 - 10.000,630000,Nei,Nei
+26-30,3,3,konsulent,Oslo,programvare,1.000 - 10.000,630000,Nei,Nei
+31-35,5,0,konsulent,Vestland,frontend,1.000 - 10.000,630000,Ja,Ja
+21-25,4,6,konsulent,Rogaland,frontend,10 - 50,630000,Ja,Ja
+21-25,2,3,"in-house, privat sektor",Rogaland,fullstack,10 - 50,630000,Nei,Nei
+26-30,5,3,konsulent,Agder,fullstack,10 - 50,630000,Nei,Ja
+31-35,0,7,"in-house, privat sektor",Trøndelag,fullstack,10 - 50,630000,Nei,Ja
+21-25,2,4,"in-house, offentlig/kommunal sektor",Oslo,app,100 - 500,630000,Nei,Ja
+21-25,3,2,"in-house, privat sektor",Oslo,data science,100 - 500,630000,Nei,Ja
+21-25,5,1,konsulent,Oslo,fullstack,100 - 500,630000,Nei,Nei
+21-25,5,2,"in-house, offentlig/kommunal sektor",Oslo,UX / design,100 - 500,630000,Nei,Ja
+26-30,5,4,konsulent,Oslo,frontend,100 - 500,630000,Ja,Nei
+26-30,5,1,konsulent,Oslo,fullstack,100 - 500,630000,Nei,Nei
+31-35,3,5,"in-house, offentlig/kommunal sektor",Troms og Finnmark,devops,100 - 500,630000,Nei,Nei
+31-35,3,4,"in-house, privat sektor",Troms og Finnmark,fullstack,100 - 500,630000,Nei,Nei
+36-40,3,12,"in-house, privat sektor",Oslo,fullstack,100 - 500,630000,Nei,Nei
+21-25,5,0,konsulent,Oslo,backend,50 - 100,630000,Nei,Ja
+21-25,3,1,"in-house, offentlig/kommunal sektor",Oslo,app,500 - 1.000,630000,Nei,Nei
+21-25,6,1,konsulent,Oslo,app,500 - 1.000,630000,Nei,Ja
+21-25,5,0,konsulent,Oslo,fullstack,500 - 1.000,630000,Nei,Nei
+21-25,5,1,konsulent,Oslo,fullstack,500 - 1.000,630000,Nei,Nei
+26-30,5,5,"in-house, offentlig/kommunal sektor",Viken,sikkerhet,500 - 1.000,630000,Nei,Nei
+31-35,2,0,"in-house, offentlig/kommunal sektor",Oslo,frontend,500 - 1.000,630000,Nei,Ja
+31-35,4,5,"in-house, offentlig/kommunal sektor",Trøndelag,ledelse/administrativt,500 - 1.000,630000,Nei,Nei
+21-25,3,2,konsulent,Trøndelag,fullstack,over 10.000,630000,Nei,Nei
+26-30,5,2,konsulent,Trøndelag,fullstack,over 10.000,630000,Nei,Nei
+26-30,5,2,"in-house, privat sektor",Oslo,programvare,over 10.000,630000,Ja,Ja
+31-35,2,3,"in-house, privat sektor",Innlandet,backend,100 - 500,633000,Nei,Nei
+31-35,4,3,"in-house, offentlig/kommunal sektor",Oslo,data science,1.000 - 10.000,634000,Nei,Nei
+21-25,3,0,konsulent,Oslo,fullstack,100 - 500,634000,Nei,Ja
+26-30,5,2,konsulent,Vestland,backend,1.000 - 10.000,635000,Ja,Nei
+36-40,3,2,konsulent,Vestland,devops,1.000 - 10.000,635000,Nei,Nei
+41-45,3,18,"in-house, privat sektor",Oslo,UX / design,50 - 100,635000,Nei,Nei
+21-25,5,1,konsulent,Trøndelag,fullstack,1.000 - 10.000,636000,Nei,Nei
+31-35,3,6,"in-house, privat sektor",Oslo,frontend,10 - 50,636000,Nei,Ja
+26-30,3,5,"in-house, privat sektor",Vestfold og Telemark,fullstack,10 - 50,639000,Ja,Nei
+26-30,5,2,konsulent,Vestland,backend,1.000 - 10.000,640000,Ja,Nei
+31-35,2,0,"in-house, privat sektor",Agder,frontend,1.000 - 10.000,640000,Nei,Ja
+31-35,3,2,konsulent,Oslo,fullstack,1.000 - 10.000,640000,Nei,Ja
+36-40,0,2,"in-house, privat sektor",Vestland,frontend,1.000 - 10.000,640000,Ja,Nei
+36-40,4,4,"in-house, offentlig/kommunal sektor",Rogaland,frontend,1.000 - 10.000,640000,Nei,Ja
+31-35,3,6,"in-house, privat sektor",Nordland,fullstack,10 - 50,640000,Nei,Ja
+21-25,4,1,"in-house, privat sektor",Oslo,backend,100 - 500,640000,Nei,Nei
+26-30,5,0,konsulent,Oslo,backend,100 - 500,640000,Nei,Ja
+26-30,5,2,konsulent,Vestland,data science,100 - 500,640000,Ja,Nei
+26-30,5,1,konsulent,Oslo,frontend,100 - 500,640000,Nei,Ja
+31-35,9,1,"in-house, privat sektor",Troms og Finnmark,fullstack,100 - 500,640000,Nei,Nei
+36-40,5,3,"in-house, offentlig/kommunal sektor",Oslo,fullstack,100 - 500,640000,Nei,Ja
+26-30,5,0,konsulent,Møre og Romsdal,fullstack,under 10,640000,Ja,Nei
+26-30,5,1,konsulent,Oslo,backend,100 - 500,642000,Nei,Ja
+26-30,6,2,konsulent,Oslo,fullstack,1.000 - 10.000,642600,Nei,Nei
+31-35,3,2,"in-house, privat sektor",Oslo,backend,50 - 100,643000,Nei,Nei
+26-30,3,2,"in-house, privat sektor",Oslo,databaser,100 - 500,644000,Nei,Nei
+31-35,4,0,"in-house, privat sektor",Viken,devops,10 - 50,645000,Nei,Ja
+26-30,5,4,"in-house, privat sektor",Vestland,fullstack,100 - 500,645000,Nei,Nei
+31-35,3,2,konsulent,Trøndelag,backend,100 - 500,645000,Ja,Nei
+26-30,5,3,"in-house, privat sektor",Trøndelag,data science,100 - 500,648000,Nei,Nei
+21-25,2,1,konsulent,Rogaland,backend,1.000 - 10.000,650000,Ja,Ja
+21-25,5,1,konsulent,Oslo,databaser,1.000 - 10.000,650000,Nei,Ja
+21-25,5,2,konsulent,Oslo,frontend,1.000 - 10.000,650000,Ja,Nei
+21-25,3,2,"in-house, privat sektor",Oslo,fullstack,1.000 - 10.000,650000,Nei,Nei
+21-25,6,1,konsulent,Oslo,fullstack,1.000 - 10.000,650000,Ja,Ja
+21-25,3,4,"in-house, offentlig/kommunal sektor",Oslo,fullstack,1.000 - 10.000,650000,Nei,Nei
+21-25,5,1,konsulent,Trøndelag,fullstack,1.000 - 10.000,650000,Nei,Nei
+26-30,3,5,"in-house, privat sektor",Oslo,automatisering,1.000 - 10.000,650000,Nei,Nei
+26-30,4,3,konsulent,Rogaland,devops,1.000 - 10.000,650000,Ja,Ja
+26-30,3,3,"in-house, offentlig/kommunal sektor",Oslo,fullstack,1.000 - 10.000,650000,Nei,Ja
+26-30,5,0,"in-house, privat sektor",Vestland,fullstack,1.000 - 10.000,650000,Nei,Ja
+26-30,3,1,konsulent,Oslo,fullstack,1.000 - 10.000,650000,Ja,Ja
+26-30,3,3,konsulent,Oslo,programvare,1.000 - 10.000,650000,Nei,Ja
+31-35,6,15,"in-house, offentlig/kommunal sektor",Vestland,backend,1.000 - 10.000,650000,Nei,Ja
+31-35,3,2,"in-house, offentlig/kommunal sektor",Oslo,backend,1.000 - 10.000,650000,Nei,Nei
+31-35,3,4,"in-house, privat sektor",Vestfold og Telemark,frontend,1.000 - 10.000,650000,Nei,Nei
+31-35,3,3,"in-house, privat sektor",Vestfold og Telemark,fullstack,1.000 - 10.000,650000,Nei,Nei
+31-35,3,4,"in-house, privat sektor",Vestfold og Telemark,fullstack,1.000 - 10.000,650000,Nei,Ja
+31-35,6,5,"in-house, offentlig/kommunal sektor",Oslo,UX / design,1.000 - 10.000,650000,Nei,Nei
+36-40,7,15,"in-house, privat sektor",Oslo,ingen av disse,1.000 - 10.000,650000,Ja,Nei
+41-45,,20,"in-house, privat sektor",Viken,ingen av disse,1.000 - 10.000,650000,Ja,Nei
+21-25,3,3,"in-house, privat sektor",Møre og Romsdal,backend,10 - 50,650000,Nei,Nei
+21-25,5,0,konsulent,Oslo,data science,10 - 50,650000,Ja,Ja
+21-25,3,1,"in-house, privat sektor",Agder,frontend,10 - 50,650000,Nei,Ja
+21-25,5,1,konsulent,Trøndelag,frontend,10 - 50,650000,Ja,Ja
+21-25,5,1,"in-house, privat sektor",Oslo,fullstack,10 - 50,650000,Nei,Ja
+26-30,5,1,"in-house, privat sektor",Vestland,app,10 - 50,650000,Ja,Ja
+26-30,3,2,"in-house, privat sektor",Vestfold og Telemark,frontend,10 - 50,650000,Nei,Ja
+26-30,5,2,"in-house, privat sektor",Vestland,frontend,10 - 50,650000,Nei,Nei
+26-30,3,2,konsulent,Rogaland,frontend,10 - 50,650000,Ja,Ja
+26-30,2,10,konsulent,Oslo,fullstack,10 - 50,650000,Nei,Nei
+26-30,3,9,"in-house, offentlig/kommunal sektor",Troms og Finnmark,fullstack,10 - 50,650000,Nei,Nei
+26-30,3,10,"in-house, privat sektor",Oslo,UX / design,10 - 50,650000,Ja,Nei
+31-35,3,0,"in-house, privat sektor",Trøndelag,app,10 - 50,650000,Nei,Ja
+31-35,3,6,"in-house, privat sektor",Oslo,data science,10 - 50,650000,Nei,Nei
+31-35,5,2,"in-house, privat sektor",Oslo,frontend,10 - 50,650000,Ja,Ja
+31-35,2,0,"in-house, privat sektor",Vestland,frontend,10 - 50,650000,Nei,Ja
+31-35,3,1,"in-house, privat sektor",Trøndelag,fullstack,10 - 50,650000,Nei,Ja
+31-35,3,6,"in-house, privat sektor",Viken,fullstack,10 - 50,650000,Nei,Nei
+31-35,5,10,"in-house, privat sektor",Oslo,fullstack,10 - 50,650000,Nei,Ja
+31-35,4,6,"in-house, privat sektor",Viken,ledelse/administrativt,10 - 50,650000,Nei,Ja
+36-40,3,12,"in-house, privat sektor",Møre og Romsdal,fullstack,10 - 50,650000,Nei,Nei
+56-60,5,25,"in-house, privat sektor",Oslo,automatisering,10 - 50,650000,Ja,Nei
+21-25,5,2,konsulent,Oslo,backend,100 - 500,650000,Nei,Nei
+21-25,5,0,konsulent,Oslo,frontend,100 - 500,650000,Nei,Nei
+26-30,3,3,"in-house, privat sektor",Vestfold og Telemark,backend,100 - 500,650000,Nei,Nei
+26-30,5,1,"in-house, privat sektor",Vestland,fullstack,100 - 500,650000,Nei,Ja
+26-30,5,2,konsulent,Oslo,fullstack,100 - 500,650000,Nei,Nei
+31-35,3,3,"in-house, privat sektor",Oslo,frontend,100 - 500,650000,Ja,Nei
+31-35,5,0,"in-house, privat sektor",Oslo,fullstack,100 - 500,650000,Nei,Ja
+41-45,,10,"in-house, offentlig/kommunal sektor",Oslo,ingen av disse,100 - 500,650000,Nei,Ja
+26-30,3,6,"in-house, privat sektor",Troms og Finnmark,backend,50 - 100,650000,Nei,Nei
+26-30,5,1,"in-house, privat sektor",Viken,frontend,50 - 100,650000,Nei,Ja
+26-30,3,2,"in-house, privat sektor",Vestland,fullstack,50 - 100,650000,Nei,Ja
+31-35,1,6,konsulent,Agder,frontend,50 - 100,650000,Nei,Nei
+36-40,3,6,"in-house, privat sektor",Møre og Romsdal,frontend,50 - 100,650000,Ja,Nei
+41-45,4,3,"in-house, privat sektor",Viken,app,50 - 100,650000,Nei,Nei
+51-55,3,15,"in-house, privat sektor",Møre og Romsdal,fullstack,50 - 100,650000,Nei,Nei
+21-25,5,1,konsulent,Oslo,UX / design,500 - 1.000,650000,Nei,Ja
+26-30,3,2,"in-house, privat sektor",Oslo,app,500 - 1.000,650000,Nei,Nei
+26-30,3,0,"in-house, privat sektor",Oslo,fullstack,500 - 1.000,650000,Ja,Ja
+26-30,5,,konsulent,Oslo,fullstack,500 - 1.000,650000,Ja,Nei
+26-30,0,6,konsulent,Trøndelag,ingen av disse,500 - 1.000,650000,Nei,Nei
+26-30,5,2,"in-house, privat sektor",Oslo,programvare,500 - 1.000,650000,Nei,Ja
+15-20,0,0,"in-house, privat sektor",Viken,backend,over 10.000,650000,Nei,Ja
+21-25,3,2,"in-house, offentlig/kommunal sektor",Oslo,backend,over 10.000,650000,Nei,Nei
+21-25,3,2,"in-house, privat sektor",Oslo,fullstack,over 10.000,650000,Ja,Ja
+26-30,3,1,"in-house, privat sektor",Vestland,backend,over 10.000,650000,Nei,Ja
+26-30,5,5,konsulent,Vestland,frontend,over 10.000,650000,Nei,Nei
+26-30,5,3,"in-house, privat sektor",Oslo,sikkerhet,over 10.000,650000,Nei,Nei
+31-35,6,10,"in-house, privat sektor",Agder,fullstack,over 10.000,650000,Ja,Nei
+36-40,5,6,konsulent,Oslo,ingen av disse,over 10.000,650000,Nei,Ja
+26-30,3,1,"in-house, privat sektor",Rogaland,fullstack,under 10,650000,Nei,Ja
+31-35,5,3,"in-house, privat sektor",Oslo,data science,under 10,650000,Nei,Ja
+36-40,,12,"in-house, privat sektor",Møre og Romsdal,devops,under 10,650000,Nei,Ja
+36-40,4,22,"in-house, privat sektor",Oslo,ledelse/administrativt,under 10,650000,Nei,Nei
+21-25,5,1,konsulent,Trøndelag,fullstack,1.000 - 10.000,652000,Nei,Nei
+41-45,5,16,"in-house, privat sektor",Oslo,fullstack,100 - 500,652000,Nei,Nei
+26-30,3,5,konsulent,Trøndelag,fullstack,10 - 50,654000,Nei,Ja
+21-25,5,2,konsulent,Trøndelag,data science,1.000 - 10.000,655000,Ja,Nei
+26-30,3,4,konsulent,Rogaland,fullstack,100 - 500,655000,Ja,Ja
+21-25,,3,"in-house, offentlig/kommunal sektor",Oslo,fullstack,1.000 - 10.000,660000,Nei,Nei
+21-25,3,1,"in-house, offentlig/kommunal sektor",Oslo,fullstack,1.000 - 10.000,660000,Nei,Ja
+26-30,3,3,"in-house, offentlig/kommunal sektor",Oslo,fullstack,1.000 - 10.000,660000,Nei,Nei
+26-30,7,4,"in-house, privat sektor",Oslo,ingen av disse,1.000 - 10.000,660000,Nei,Ja
+31-35,0,10,"in-house, privat sektor",Vestland,ledelse/administrativt,1.000 - 10.000,660000,Nei,Nei
+26-30,5,4,konsulent,Agder,databaser,100 - 500,660000,Nei,Nei
+31-35,2,3,"in-house, privat sektor",Trøndelag,backend,100 - 500,660000,Nei,Ja
+31-35,2,2,"in-house, privat sektor",Vestland,frontend,100 - 500,660000,Nei,Nei
+36-40,3,5,"in-house, privat sektor",Oslo,backend,100 - 500,660000,Nei,Nei
+41-45,3,10,"in-house, privat sektor",Møre og Romsdal,frontend,100 - 500,660000,Nei,Ja
+26-30,6,4,"in-house, privat sektor",Oslo,frontend,500 - 1.000,660000,Nei,Ja
+36-40,1,4,"in-house, offentlig/kommunal sektor",Oslo,frontend,500 - 1.000,660000,Nei,Nei
+26-30,5,7,"in-house, privat sektor",Vestland,ledelse/administrativt,under 10,660000,Nei,Nei
+31-35,3,7,"in-house, offentlig/kommunal sektor",Oslo,backend,500 - 1.000,661000,Nei,Nei
+21-25,5,1,"in-house, privat sektor",utlandet,fullstack,under 10,661000,Nei,Ja
+21-25,5,0,"in-house, privat sektor",Oslo,fullstack,100 - 500,662000,Nei,Ja
+26-30,6,4,"in-house, privat sektor",Oslo,ingen av disse,100 - 500,662000,Nei,Nei
+26-30,3,2,konsulent,Oslo,fullstack,1.000 - 10.000,662500,Nei,Nei
+36-40,3,3,"in-house, privat sektor",Oslo,frontend,100 - 500,664000,Nei,Nei
+26-30,3,2,konsulent,Oslo,backend,1.000 - 10.000,665000,Ja,Nei
+31-35,3,6,"in-house, privat sektor",Viken,fullstack,10 - 50,665000,Nei,Ja
+31-35,3,4,"in-house, privat sektor",Vestland,fullstack,500 - 1.000,665000,Nei,Nei
+26-30,5,3,konsulent,Oslo,fullstack,1.000 - 10.000,667000,Nei,Ja
+31-35,0,6,"in-house, privat sektor",Oslo,fullstack,under 10,667000,Nei,Nei
+31-35,4,4,konsulent,Innlandet,fullstack,1.000 - 10.000,668000,Nei,Ja
+31-35,3,5,"in-house, privat sektor",Oslo,devops,100 - 500,668000,Nei,Ja
+26-30,3,2,"in-house, privat sektor",Oslo,backend,100 - 500,669900,Nei,Ja
+26-30,5,4,konsulent,Oslo,devops,1.000 - 10.000,670000,Nei,Nei
+26-30,3,5,konsulent,Møre og Romsdal,fullstack,1.000 - 10.000,670000,Nei,Nei
+31-35,0,4,"in-house, privat sektor",Oslo,automatisering,1.000 - 10.000,670000,Nei,Nei
+31-35,4,2,konsulent,Oslo,sikkerhet,1.000 - 10.000,670000,Nei,Nei
+36-40,3,0,"in-house, privat sektor",Agder,fullstack,1.000 - 10.000,670000,Nei,Ja
+26-30,3,6,"in-house, privat sektor",Vestland,fullstack,10 - 50,670000,Nei,Nei
+26-30,3,7,konsulent,Vestfold og Telemark,fullstack,10 - 50,670000,Nei,Ja
+31-35,5,4,"in-house, privat sektor",Vestfold og Telemark,fullstack,10 - 50,670000,Ja,Nei
+46-50,0,17,"in-house, privat sektor",Vestland,fullstack,10 - 50,670000,Nei,Nei
+21-25,5,2,konsulent,Oslo,fullstack,100 - 500,670000,Nei,Ja
+26-30,5,2,konsulent,Oslo,backend,100 - 500,670000,Nei,Nei
+26-30,3,1,"in-house, privat sektor",Oslo,backend,100 - 500,670000,Nei,Nei
+26-30,5,2,"in-house, privat sektor",Troms og Finnmark,backend,100 - 500,670000,Ja,Ja
+26-30,5,2,konsulent,Trøndelag,frontend,100 - 500,670000,Nei,Nei
+26-30,3,1,"in-house, privat sektor",Oslo,fullstack,100 - 500,670000,Ja,Ja
+26-30,5,2,konsulent,Oslo,fullstack,100 - 500,670000,Ja,Nei
+26-30,5,3,konsulent,Oslo,fullstack,100 - 500,670000,Nei,Ja
+26-30,5,1,konsulent,Oslo,fullstack,500 - 1.000,670000,Nei,Ja
+36-40,3,2,"in-house, privat sektor",Oslo,fullstack,500 - 1.000,670000,Nei,Nei
+31-35,4,2,konsulent,Oslo,frontend,over 10.000,670000,Ja,Ja
+36-40,5,8,konsulent,Vestland,devops,over 10.000,670000,Ja,Nei
+46-50,1,24,"in-house, privat sektor",Oslo,ledelse/administrativt,over 10.000,670000,Nei,Nei
+26-30,3,4,"in-house, privat sektor",Vestland,fullstack,1.000 - 10.000,675000,Nei,Ja
+36-40,0,1,"in-house, privat sektor",Oslo,frontend,1.000 - 10.000,675000,Nei,Ja
+31-35,5,2,"in-house, privat sektor",Vestland,ingen av disse,10 - 50,675000,Nei,Nei
+41-45,5,6,"in-house, privat sektor",Innlandet,fullstack,10 - 50,675000,Nei,Nei
+21-25,3,1,konsulent,Vestland,fullstack,100 - 500,675000,Nei,Ja
+26-30,5,2,konsulent,Oslo,frontend,100 - 500,675000,Ja,Nei
+31-35,5,5,"in-house, privat sektor",Troms og Finnmark,backend,100 - 500,675000,Ja,Nei
+21-25,3,3,konsulent,Oslo,app,50 - 100,675000,Nei,Nei
+31-35,3,8,"in-house, privat sektor",Agder,backend,50 - 100,675000,Ja,Nei
+36-40,0,7,"in-house, privat sektor",Trøndelag,ledelse/administrativt,over 10.000,675000,Nei,Ja
+21-25,5,0,konsulent,Trøndelag,ingen av disse,1.000 - 10.000,679000,Nei,Ja
+26-30,1,2,"in-house, privat sektor",Oslo,backend,1.000 - 10.000,680000,Ja,Ja
+26-30,3,3,konsulent,Viken,backend,1.000 - 10.000,680000,Nei,Ja
+26-30,5,2,"in-house, privat sektor",Oslo,data science,1.000 - 10.000,680000,Nei,Ja
+26-30,3,2,"in-house, privat sektor",Rogaland,fullstack,1.000 - 10.000,680000,Nei,Ja
+31-35,0,5,"in-house, privat sektor",Viken,fullstack,1.000 - 10.000,680000,Nei,Nei
+36-40,0,13,"in-house, privat sektor",Trøndelag,backend,1.000 - 10.000,680000,Nei,Nei
+36-40,1,1,"in-house, privat sektor",Viken,frontend,1.000 - 10.000,680000,Ja,Nei
+26-30,3,4,konsulent,Innlandet,frontend,10 - 50,680000,Ja,Ja
+26-30,3,4,"in-house, privat sektor",Vestland,frontend,10 - 50,680000,Ja,Ja
+31-35,,6,"in-house, privat sektor",Vestfold og Telemark,arkitektur,10 - 50,680000,Nei,Nei
+36-40,3,3,konsulent,Innlandet,backend,10 - 50,680000,Ja,Ja
+36-40,3,15,"in-house, privat sektor",Vestfold og Telemark,fullstack,10 - 50,680000,Nei,Nei
+46-50,4,18,"in-house, privat sektor",Trøndelag,programvare,10 - 50,680000,Ja,Ja
+26-30,4,8,"in-house, privat sektor",Nordland,data science,100 - 500,680000,Nei,Ja
+26-30,3,5,konsulent,Oslo,frontend,100 - 500,680000,Nei,Nei
+31-35,0,12,"in-house, offentlig/kommunal sektor",Rogaland,data science,100 - 500,680000,Nei,Ja
+31-35,3,6,"in-house, privat sektor",Oslo,frontend,100 - 500,680000,Nei,Nei
+46-50,4,4,"in-house, offentlig/kommunal sektor",Oslo,frontend,100 - 500,680000,Nei,Nei
+26-30,3,7,konsulent,Møre og Romsdal,fullstack,50 - 100,680000,Ja,Ja
+26-30,3,5,konsulent,Oslo,fullstack,50 - 100,680000,Nei,Ja
+26-30,3,5,"in-house, privat sektor",Oslo,fullstack,50 - 100,680000,Nei,Ja
+26-30,5,1,konsulent,Rogaland,backend,500 - 1.000,680000,Ja,Ja
+26-30,3,5,"in-house, offentlig/kommunal sektor",Trøndelag,backend,500 - 1.000,680000,Nei,Nei
+41-45,3,6,"in-house, privat sektor",Møre og Romsdal,backend,500 - 1.000,680000,Nei,Nei
+36-40,3,3,"in-house, offentlig/kommunal sektor",Oslo,backend,over 10.000,680000,Nei,Ja
+36-40,0,4,"in-house, privat sektor",Oslo,frontend,under 10,680000,Nei,Nei
+31-35,3,6,"in-house, offentlig/kommunal sektor",Innlandet,app,100 - 500,683000,Nei,Nei
+21-25,5,1,konsulent,Oslo,backend,100 - 500,684000,Nei,Nei
+21-25,5,2,konsulent,Oslo,backend,100 - 500,684000,Nei,Ja
+26-30,5,3,konsulent,Oslo,frontend,1.000 - 10.000,685000,Nei,Ja
+26-30,3,4,"in-house, privat sektor",Trøndelag,fullstack,10 - 50,685000,Nei,Ja
+21-25,5,1,"in-house, privat sektor",Oslo,programvare,100 - 500,685000,Nei,Nei
+26-30,4,4,konsulent,Oslo,frontend,100 - 500,686000,Ja,Nei
+26-30,0,4,"in-house, privat sektor",Oslo,fullstack,100 - 500,687000,Nei,Nei
+31-35,1,0,"in-house, offentlig/kommunal sektor",Vestland,frontend,500 - 1.000,687000,Nei,Ja
+26-30,5,4,"in-house, privat sektor",Oslo,devops,1.000 - 10.000,690000,Nei,Nei
+26-30,3,3,konsulent,Oslo,frontend,1.000 - 10.000,690000,Nei,Nei
+31-35,8,3,konsulent,Oslo,data science,1.000 - 10.000,690000,Ja,Nei
+36-40,1,8,"in-house, offentlig/kommunal sektor",Agder,devops,1.000 - 10.000,690000,Nei,Nei
+26-30,3,2,konsulent,Oslo,fullstack,10 - 50,690000,Nei,Ja
+31-35,2,2,"in-house, privat sektor",Oslo,frontend,10 - 50,690000,Nei,Nei
+26-30,3,1,konsulent,Oslo,backend,100 - 500,690000,Nei,Ja
+31-35,3,7,"in-house, privat sektor",Viken,fullstack,100 - 500,690000,Nei,Nei
+31-35,8,8,"in-house, offentlig/kommunal sektor",Oslo,programvare,100 - 500,690000,Nei,Ja
+36-40,5,5,"in-house, offentlig/kommunal sektor",Oslo,frontend,100 - 500,690000,Nei,Nei
+46-50,5,5,"in-house, privat sektor",Troms og Finnmark,devops,100 - 500,690000,Nei,Nei
+26-30,3,3,"in-house, privat sektor",Vestfold og Telemark,fullstack,50 - 100,690000,Ja,Ja
+36-40,3,16,"in-house, offentlig/kommunal sektor",Troms og Finnmark,ingen av disse,50 - 100,690000,Nei,Nei
+46-50,3,21,"in-house, privat sektor",Oslo,app,50 - 100,690000,Nei,Nei
+26-30,3,3,"in-house, offentlig/kommunal sektor",Oslo,fullstack,500 - 1.000,690000,Nei,Ja
+26-30,3,7,"in-house, privat sektor",Trøndelag,backend,over 10.000,690000,Ja,Ja
+26-30,5,2,"in-house, privat sektor",Oslo,automatisering,under 10,690000,Nei,Ja
+26-30,2,2,"in-house, privat sektor",Viken,frontend,10 - 50,691000,Ja,Ja
+21-25,6,1,konsulent,Oslo,fullstack,10 - 50,695000,Ja,Ja
+26-30,5,1,konsulent,Oslo,fullstack,10 - 50,695000,Nei,Ja
+26-30,5,2,"in-house, offentlig/kommunal sektor",Oslo,backend,100 - 500,695000,Nei,Nei
+26-30,7,4,"in-house, privat sektor",Oslo,frontend,50 - 100,695000,Nei,Nei
+26-30,5,2,konsulent,Oslo,arkitektur,1.000 - 10.000,698000,Nei,Nei
+36-40,3,2,konsulent,Agder,backend,10 - 50,698000,Ja,Ja
+46-50,3,18,"in-house, offentlig/kommunal sektor",Troms og Finnmark,backend,100 - 500,698500,Nei,Ja
+21-25,3,1,konsulent,Oslo,fullstack,1.000 - 10.000,700000,Ja,Ja
+26-30,3,1,"in-house, privat sektor",Vestland,backend,1.000 - 10.000,700000,Ja,Nei
+26-30,3,3,"in-house, offentlig/kommunal sektor",Oslo,devops,1.000 - 10.000,700000,Ja,Ja
+26-30,2,3,"in-house, privat sektor",Oslo,frontend,1.000 - 10.000,700000,Nei,Ja
+26-30,6,4,konsulent,Oslo,frontend,1.000 - 10.000,700000,Ja,Ja
+26-30,5,4,konsulent,Trøndelag,testing,1.000 - 10.000,700000,Ja,Ja
+31-35,0,7,"in-house, privat sektor",Oslo,backend,1.000 - 10.000,700000,Nei,Nei
+31-35,3,1,"in-house, offentlig/kommunal sektor",Oslo,backend,1.000 - 10.000,700000,Nei,Ja
+31-35,3,2,konsulent,Trøndelag,fullstack,1.000 - 10.000,700000,Ja,Ja
+31-35,5,4,"in-house, privat sektor",Oslo,testing,1.000 - 10.000,700000,Nei,Ja
+36-40,4,18,"in-house, privat sektor",Vestland,ledelse/administrativt,1.000 - 10.000,700000,Nei,Nei
+36-40,3,10,"in-house, offentlig/kommunal sektor",Innlandet,sikkerhet,1.000 - 10.000,700000,Nei,Nei
+46-50,5,25,"in-house, offentlig/kommunal sektor",Nordland,ledelse/administrativt,1.000 - 10.000,700000,Nei,Ja
+21-25,5,1,"in-house, privat sektor",Oslo,backend,10 - 50,700000,Nei,Ja
+21-25,2,6,"in-house, privat sektor",Oslo,fullstack,10 - 50,700000,Nei,Nei
+21-25,0,3,"in-house, privat sektor",Vestland,fullstack,10 - 50,700000,Nei,Nei
+21-25,3,5,"in-house, privat sektor",Viken,fullstack,10 - 50,700000,Nei,Ja
+26-30,3,10,"in-house, privat sektor",Oslo,automatisering,10 - 50,700000,Nei,Nei
+26-30,5,1,konsulent,Oslo,backend,10 - 50,700000,Ja,Nei
+26-30,6,6,konsulent,Rogaland,backend,10 - 50,700000,Ja,Ja
+26-30,1,5,"in-house, privat sektor",Oslo,backend,10 - 50,700000,Nei,Nei
+26-30,,7,"in-house, privat sektor",Møre og Romsdal,embedded/IOT/maskinvare,10 - 50,700000,Nei,Ja
+26-30,3,3,"in-house, privat sektor",Rogaland,frontend,10 - 50,700000,Ja,Ja
+26-30,5,4,"in-house, privat sektor",Oslo,frontend,10 - 50,700000,Nei,Nei
+26-30,5,4,"in-house, privat sektor",Nordland,fullstack,10 - 50,700000,Ja,Nei
+26-30,3,4,"in-house, privat sektor",Vestland,fullstack,10 - 50,700000,Ja,Nei
+31-35,0,3,"in-house, privat sektor",Oslo,backend,10 - 50,700000,Ja,Ja
+31-35,3,3,"in-house, privat sektor",Viken,backend,10 - 50,700000,Nei,Ja
+31-35,3,5,konsulent,Møre og Romsdal,embedded/IOT/maskinvare,10 - 50,700000,Nei,Ja
+31-35,4,5,konsulent,Oslo,frontend,10 - 50,700000,Nei,Ja
+36-40,0,4,"in-house, privat sektor",Viken,fullstack,10 - 50,700000,Nei,Nei
+36-40,3,20,"in-house, privat sektor",Rogaland,ledelse/administrativt,10 - 50,700000,Nei,Nei
+41-45,0,16,"in-house, privat sektor",Trøndelag,backend,10 - 50,700000,Nei,Ja
+41-45,3,21,konsulent,Rogaland,backend,10 - 50,700000,Nei,Nei
+46-50,4,27,"in-house, privat sektor",Oslo,fullstack,10 - 50,700000,Ja,Ja
+21-25,3,2,konsulent,Rogaland,backend,100 - 500,700000,Ja,Ja
+21-25,3,1,konsulent,Oslo,fullstack,100 - 500,700000,Ja,Nei
+21-25,3,2,"in-house, privat sektor",Vestland,fullstack,100 - 500,700000,Nei,Ja
+21-25,5,0,konsulent,Oslo,fullstack,100 - 500,700000,Nei,Ja
+26-30,3,2,konsulent,Oslo,app,100 - 500,700000,Nei,Ja
+26-30,3,5,"in-house, offentlig/kommunal sektor",Vestland,automatisering,100 - 500,700000,Nei,Ja
+26-30,5,2,"in-house, privat sektor",Oslo,backend,100 - 500,700000,Nei,Nei
+26-30,3,4,"in-house, privat sektor",Vestfold og Telemark,backend,100 - 500,700000,Nei,Nei
+26-30,5,3,"in-house, privat sektor",Oslo,fullstack,100 - 500,700000,Nei,Ja
+26-30,3,4,"in-house, privat sektor",Trøndelag,fullstack,100 - 500,700000,Nei,Ja
+26-30,3,2,konsulent,Oslo,fullstack,100 - 500,700000,Ja,Ja
+26-30,5,1,konsulent,Oslo,ingen av disse,100 - 500,700000,Ja,Nei
+26-30,6,2,"in-house, privat sektor",Oslo,programvare,100 - 500,700000,Nei,Ja
+31-35,3,4,"in-house, privat sektor",Oslo,app,100 - 500,700000,Ja,Ja
+31-35,4,4,"in-house, privat sektor",Nordland,backend,100 - 500,700000,Nei,Nei
+31-35,3,3,"in-house, offentlig/kommunal sektor",Oslo,fullstack,100 - 500,700000,Nei,Ja
+31-35,4,5,"in-house, privat sektor",Oslo,fullstack,100 - 500,700000,Ja,Nei
+31-35,0,1,"in-house, privat sektor",Oslo,fullstack,100 - 500,700000,Ja,Ja
+36-40,8,0,konsulent,Vestland,backend,100 - 500,700000,Ja,Ja
+36-40,3,4,"in-house, privat sektor",Agder,backend,100 - 500,700000,Nei,Ja
+36-40,4,8,konsulent,Oslo,frontend,100 - 500,700000,Nei,Nei
+36-40,3,11,"in-house, privat sektor",Vestfold og Telemark,frontend,100 - 500,700000,Nei,Nei
+36-40,4,3,konsulent,Oslo,frontend,100 - 500,700000,Nei,Nei
+41-45,0,5,"in-house, privat sektor",Oslo,frontend,100 - 500,700000,Nei,Nei
+51-55,0,25,"in-house, offentlig/kommunal sektor",Viken,fullstack,100 - 500,700000,Nei,Ja
+51-55,3,36,konsulent,Vestland,sikkerhet,100 - 500,700000,Ja,Nei
+21-25,3,3,"in-house, privat sektor",Troms og Finnmark,frontend,50 - 100,700000,Nei,Ja
+26-30,3,5,"in-house, offentlig/kommunal sektor",Vestfold og Telemark,backend,50 - 100,700000,Ja,Ja
+26-30,5,1,konsulent,Trøndelag,frontend,50 - 100,700000,Ja,Ja
+26-30,4,7,konsulent,Møre og Romsdal,frontend,50 - 100,700000,Nei,Ja
+26-30,3,5,"in-house, privat sektor",Vestland,fullstack,50 - 100,700000,Nei,Ja
+26-30,3,6,"in-house, privat sektor",Troms og Finnmark,ledelse/administrativt,50 - 100,700000,Ja,Nei
+31-35,3,6,konsulent,Agder,fullstack,50 - 100,700000,Nei,Nei
+36-40,0,7,"in-house, privat sektor",Troms og Finnmark,UX / design,50 - 100,700000,Nei,Ja
+26-30,5,4,"in-house, offentlig/kommunal sektor",Oslo,backend,500 - 1.000,700000,Nei,Nei
+26-30,4,2,"in-house, privat sektor",Vestland,backend,500 - 1.000,700000,Ja,Nei
+26-30,5,5,"in-house, offentlig/kommunal sektor",Oslo,data science,500 - 1.000,700000,Nei,Nei
+26-30,5,2,konsulent,Oslo,fullstack,500 - 1.000,700000,Nei,Ja
+26-30,3,3,"in-house, privat sektor",Vestland,fullstack,500 - 1.000,700000,Ja,Nei
+31-35,3,10,"in-house, privat sektor",Oslo,devops,500 - 1.000,700000,Ja,Ja
+36-40,3,13,"in-house, privat sektor",Vestfold og Telemark,fullstack,500 - 1.000,700000,Nei,Ja
+21-25,2,7,"in-house, offentlig/kommunal sektor",Oslo,devops,over 10.000,700000,Nei,Ja
+26-30,3,5,"in-house, privat sektor",Vestfold og Telemark,fullstack,over 10.000,700000,Nei,Ja
+26-30,5,2,konsulent,Oslo,ledelse/administrativt,over 10.000,700000,Nei,Ja
+31-35,0,0,"in-house, privat sektor",Oslo,frontend,over 10.000,700000,Ja,Nei
+36-40,0,4,"in-house, privat sektor",Møre og Romsdal,fullstack,over 10.000,700000,Nei,Nei
+26-30,0,10,konsulent,Trøndelag,fullstack,under 10,700000,Nei,Ja
+26-30,5,5,"in-house, privat sektor",Oslo,programvare,under 10,700000,Nei,Nei
+36-40,0,20,"in-house, privat sektor",Oslo,frontend,under 10,700000,Nei,Nei
+36-40,3,7,"in-house, privat sektor",Trøndelag,fullstack,under 10,700000,Nei,Nei
+46-50,0,5,"in-house, privat sektor",Oslo,fullstack,under 10,700000,Nei,Nei
+31-35,5,5,"in-house, privat sektor",Nordland,fullstack,100 - 500,700004,Nei,Nei
+31-35,5,6,"in-house, offentlig/kommunal sektor",Vestland,backend,100 - 500,700200,Nei,Ja
+21-25,3,3,"in-house, offentlig/kommunal sektor",Oslo,backend,1.000 - 10.000,701000,Nei,Nei
+26-30,3,5,"in-house, privat sektor",Nordland,fullstack,10 - 50,702000,Nei,Ja
+36-40,5,8,"in-house, offentlig/kommunal sektor",Rogaland,programvare,over 10.000,703400,Nei,Ja
+31-35,3,4,"in-house, privat sektor",Oslo,frontend,100 - 500,704000,Nei,Nei
+26-30,5,3,konsulent,Trøndelag,fullstack,10 - 50,705000,Nei,Ja
+21-25,3,3,"in-house, privat sektor",Rogaland,backend,100 - 500,705000,Nei,Nei
+31-35,3,0,"in-house, offentlig/kommunal sektor",Oslo,frontend,100 - 500,705000,Nei,Ja
+26-30,5,4,"in-house, privat sektor",Oslo,frontend,50 - 100,705000,Nei,Nei
+26-30,3,5,"in-house, privat sektor",Innlandet,backend,500 - 1.000,707000,Nei,Ja
+36-40,4,15,"in-house, privat sektor",Vestland,frontend,100 - 500,709000,Nei,Nei
+21-25,3,3,konsulent,Oslo,backend,1.000 - 10.000,710000,Ja,Ja
+26-30,4,5,"in-house, offentlig/kommunal sektor",Oslo,app,1.000 - 10.000,710000,Nei,Ja
+31-35,3,4,konsulent,Oslo,backend,1.000 - 10.000,710000,Nei,Ja
+31-35,5,12,"in-house, offentlig/kommunal sektor",Troms og Finnmark,fullstack,1.000 - 10.000,710000,Nei,Nei
+31-35,9,5,"in-house, offentlig/kommunal sektor",Vestland,ingen av disse,1.000 - 10.000,710000,Nei,Nei
+46-50,6,24,"in-house, offentlig/kommunal sektor",Oslo,ingen av disse,1.000 - 10.000,710000,Nei,Nei
+36-40,2,3,"in-house, privat sektor",Vestfold og Telemark,backend,10 - 50,710000,Nei,Ja
+21-25,0,6,"in-house, privat sektor",Vestland,fullstack,100 - 500,710000,Ja,Ja
+26-30,5,2,konsulent,Oslo,fullstack,100 - 500,710000,Nei,Nei
+26-30,0,3,"in-house, privat sektor",Viken,app,50 - 100,710000,Nei,Ja
+26-30,,3,konsulent,Troms og Finnmark,fullstack,50 - 100,710000,Nei,Ja
+26-30,4,7,"in-house, offentlig/kommunal sektor",Oslo,ledelse/administrativt,50 - 100,710000,Ja,Ja
+31-35,3,5,"in-house, offentlig/kommunal sektor",Oslo,frontend,50 - 100,710000,Nei,Ja
+31-35,3,9,"in-house, offentlig/kommunal sektor",Viken,backend,500 - 1.000,710000,Nei,Ja
+36-40,5,9,"in-house, privat sektor",Oslo,backend,500 - 1.000,710000,Nei,Nei
+21-25,3,2,"in-house, privat sektor",Oslo,fullstack,over 10.000,710000,Ja,Ja
+31-35,3,10,konsulent,Agder,fullstack,over 10.000,710000,Ja,Ja
+26-30,5,3,"in-house, offentlig/kommunal sektor",Oslo,fullstack,over 10.000,711300,Nei,Ja
+31-35,3,12,"in-house, offentlig/kommunal sektor",Oslo,ledelse/administrativt,100 - 500,714000,Nei,Ja
+31-35,5,2,"in-house, offentlig/kommunal sektor",Oslo,data science,1.000 - 10.000,715000,Nei,Nei
+36-40,4,5,"in-house, privat sektor",Rogaland,backend,under 10,715000,Nei,Nei
+26-30,3,5,konsulent,Vestland,fullstack,1.000 - 10.000,720000,Nei,Nei
+31-35,4,5,"in-house, privat sektor",Oslo,fullstack,1.000 - 10.000,720000,Ja,Nei
+31-35,8,7,konsulent,Trøndelag,fullstack,1.000 - 10.000,720000,Nei,Nei
+36-40,5,10,"in-house, offentlig/kommunal sektor",Agder,ledelse/administrativt,1.000 - 10.000,720000,Nei,Ja
+36-40,10,10,"in-house, offentlig/kommunal sektor",Oslo,UX / design,1.000 - 10.000,720000,Nei,Nei
+41-45,3,20,konsulent,Vestfold og Telemark,fullstack,1.000 - 10.000,720000,Nei,Nei
+21-25,5,2,"in-house, privat sektor",Vestland,fullstack,10 - 50,720000,Nei,Ja
+26-30,3,6,konsulent,Vestfold og Telemark,frontend,10 - 50,720000,Nei,Ja
+31-35,3,12,konsulent,Oslo,databaser,10 - 50,720000,Nei,Ja
+31-35,0,2,konsulent,Rogaland,frontend,10 - 50,720000,Ja,Ja
+31-35,0,7,"in-house, privat sektor",Nordland,ledelse/administrativt,10 - 50,720000,Ja,Ja
+36-40,0,15,"in-house, privat sektor",Vestfold og Telemark,frontend,10 - 50,720000,Nei,Nei
+46-50,3,25,"in-house, privat sektor",Oslo,fullstack,10 - 50,720000,Nei,Ja
+21-25,3,3,"in-house, privat sektor",Oslo,frontend,100 - 500,720000,Nei,Ja
+21-25,3,2,konsulent,Trøndelag,fullstack,100 - 500,720000,Ja,Nei
+26-30,3,4,konsulent,Oslo,app,100 - 500,720000,Nei,Ja
+26-30,6,1,"in-house, offentlig/kommunal sektor",Trøndelag,databaser,100 - 500,720000,Nei,Ja
+26-30,3,4,konsulent,Oslo,frontend,100 - 500,720000,Ja,Ja
+26-30,3,2,konsulent,Oslo,frontend,100 - 500,720000,Nei,Ja
+26-30,3,3,"in-house, privat sektor",Oslo,frontend,100 - 500,720000,Nei,Ja
+26-30,6,3,konsulent,Oslo,UX / design,100 - 500,720000,Nei,Ja
+31-35,5,7,"in-house, privat sektor",Rogaland,automatisering,100 - 500,720000,Nei,Nei
+31-35,3,5,"in-house, privat sektor",Vestland,automatisering,100 - 500,720000,Nei,Ja
+31-35,3,3,konsulent,Oslo,UX / design,100 - 500,720000,Ja,Ja
+36-40,5,15,"in-house, offentlig/kommunal sektor",Oslo,data science,100 - 500,720000,Nei,Nei
+51-55,2,25,"in-house, privat sektor",Trøndelag,programvare,100 - 500,720000,Nei,Nei
+26-30,5,4,"in-house, privat sektor",Oslo,fullstack,50 - 100,720000,Nei,Nei
+36-40,0,16,"in-house, privat sektor",Trøndelag,fullstack,50 - 100,720000,Nei,Nei
+31-35,0,1,konsulent,Vestfold og Telemark,frontend,500 - 1.000,720000,Ja,Nei
+36-40,3,7,"in-house, offentlig/kommunal sektor",Troms og Finnmark,fullstack,500 - 1.000,720000,Nei,Nei
+56-60,3,36,"in-house, privat sektor",Viken,backend,500 - 1.000,720000,Ja,Ja
+26-30,3,1,"in-house, privat sektor",Oslo,backend,over 10.000,720000,Nei,Ja
+26-30,5,3,"in-house, privat sektor",Oslo,frontend,under 10,720000,Nei,Ja
+26-30,6,5,"in-house, privat sektor",Trøndelag,fullstack,under 10,720000,Ja,Ja
+36-40,3,4,"in-house, offentlig/kommunal sektor",Oslo,fullstack,1.000 - 10.000,723000,Nei,Ja
+31-35,3,7,"in-house, privat sektor",Trøndelag,programvare,10 - 50,723000,Nei,Nei
+26-30,5,2,konsulent,Oslo,databaser,100 - 500,723000,Nei,Nei
+31-35,3,12,"in-house, privat sektor",Vestland,fullstack,10 - 50,724000,Nei,Nei
+31-35,3,9,"in-house, privat sektor",Oslo,fullstack,100 - 500,724000,Nei,Nei
+31-35,4,8,"in-house, privat sektor",Innlandet,testing,500 - 1.000,724500,Nei,Ja
+41-45,3,23,"in-house, privat sektor",Agder,fullstack,100 - 500,724722,Ja,Ja
+21-25,5,25,konsulent,Rogaland,fullstack,1.000 - 10.000,725000,Ja,Ja
+26-30,5,2,"in-house, privat sektor",Oslo,data science,1.000 - 10.000,725000,Nei,Ja
+31-35,4,12,"in-house, offentlig/kommunal sektor",Oslo,frontend,1.000 - 10.000,725000,Ja,Nei
+51-55,6,27,"in-house, offentlig/kommunal sektor",Oslo,ledelse/administrativt,1.000 - 10.000,725000,Nei,Ja
+15-20,2,5,"in-house, privat sektor",Oslo,fullstack,100 - 500,725000,Nei,Ja
+26-30,3,4,"in-house, privat sektor",Vestland,frontend,100 - 500,725000,Nei,Ja
+26-30,3,7,"in-house, offentlig/kommunal sektor",Innlandet,frontend,100 - 500,725000,Nei,Ja
+26-30,3,6,"in-house, offentlig/kommunal sektor",Vestland,fullstack,100 - 500,725000,Nei,Nei
+26-30,5,25,konsulent,Oslo,ledelse/administrativt,100 - 500,725000,Ja,Ja
+26-30,3,8,"in-house, privat sektor",Oslo,ledelse/administrativt,50 - 100,725000,Ja,Ja
+21-25,5,2,"in-house, offentlig/kommunal sektor",Oslo,devops,500 - 1.000,725000,Nei,Ja
+26-30,3,2,"in-house, offentlig/kommunal sektor",Oslo,frontend,500 - 1.000,725000,Ja,Ja
+31-35,0,6,"in-house, privat sektor",Oslo,frontend,over 10.000,725000,Nei,Ja
+36-40,,22,"in-house, privat sektor",Rogaland,ledelse/administrativt,over 10.000,725000,Nei,Nei
+31-35,3,15,konsulent,Trøndelag,automatisering,100 - 500,726000,Nei,Nei
+36-40,3,8,"in-house, privat sektor",Troms og Finnmark,devops,100 - 500,726000,Nei,Nei
+26-30,5,4,konsulent,Vestland,ledelse/administrativt,1.000 - 10.000,730000,Nei,Nei
+31-35,3,10,"in-house, privat sektor",Oslo,fullstack,1.000 - 10.000,730000,Nei,Nei
+26-30,3,3,konsulent,Oslo,backend,10 - 50,730000,Nei,Nei
+26-30,3,5,"in-house, privat sektor",Agder,fullstack,10 - 50,730000,Nei,Nei
+31-35,0,5,"in-house, privat sektor",Vestland,ledelse/administrativt,10 - 50,730000,Nei,Nei
+36-40,3,15,"in-house, privat sektor",Vestfold og Telemark,fullstack,10 - 50,730000,Ja,Nei
+26-30,3,5,"in-house, privat sektor",Oslo,devops,100 - 500,730000,Nei,Ja
+26-30,5,2,konsulent,Oslo,frontend,100 - 500,730000,Ja,Ja
+31-35,3,5,"in-house, privat sektor",Oslo,backend,100 - 500,730000,Nei,Nei
+31-35,5,5,"in-house, privat sektor",Agder,databaser,100 - 500,730000,Ja,Nei
+36-40,8,7,"in-house, privat sektor",Troms og Finnmark,backend,100 - 500,730000,Nei,Ja
+26-30,0,5,"in-house, privat sektor",Vestland,frontend,50 - 100,730000,Nei,Ja
+31-35,3,5,"in-house, privat sektor",Vestfold og Telemark,fullstack,50 - 100,730000,Ja,Nei
+26-30,5,3,"in-house, privat sektor",Troms og Finnmark,data science,500 - 1.000,730000,Nei,Ja
+26-30,3,3,"in-house, privat sektor",Oslo,frontend,500 - 1.000,730000,Ja,Ja
+26-30,3,2,"in-house, privat sektor",Oslo,programvare,500 - 1.000,730000,Ja,Ja
+31-35,4,5,"in-house, privat sektor",Viken,backend,500 - 1.000,730000,Nei,Ja
+46-50,2,35,"in-house, offentlig/kommunal sektor",Innlandet,sikkerhet,500 - 1.000,730000,Nei,Nei
+31-35,3,3,konsulent,Oslo,automatisering,over 10.000,730000,Nei,Nei
+31-35,3,9,konsulent,Trøndelag,frontend,under 10,730000,Nei,Nei
+41-45,4,22,"in-house, privat sektor",Viken,programvare,1.000 - 10.000,732652,Nei,Ja
+21-25,4,3,"in-house, offentlig/kommunal sektor",Oslo,backend,100 - 500,735000,Nei,Ja
+26-30,3,3,konsulent,Oslo,backend,100 - 500,735000,Ja,Nei
+26-30,3,5,konsulent,Oslo,frontend,100 - 500,735000,Nei,Ja
+26-30,5,2,konsulent,Oslo,fullstack,100 - 500,735000,Ja,Ja
+21-25,3,2,"in-house, privat sektor",Oslo,fullstack,50 - 100,735000,Nei,Ja
+26-30,5,3,konsulent,Oslo,frontend,50 - 100,735000,Nei,Ja
+26-30,5,1,konsulent,Oslo,fullstack,50 - 100,735000,Nei,Ja
+26-30,3,2,konsulent,Agder,fullstack,over 10.000,735000,Nei,Ja
+26-30,3,6,konsulent,Rogaland,backend,100 - 500,736000,Nei,Ja
+26-30,3,5,konsulent,Vestfold og Telemark,fullstack,1.000 - 10.000,740000,Ja,Ja
+31-35,6,4,"in-house, offentlig/kommunal sektor",Vestland,data science,1.000 - 10.000,740000,Nei,Ja
+31-35,3,10,"in-house, privat sektor",Agder,backend,10 - 50,740000,Nei,Nei
+26-30,3,2,konsulent,Oslo,fullstack,100 - 500,740000,Ja,Ja
+36-40,3,10,konsulent,Trøndelag,arkitektur,100 - 500,740000,Nei,Nei
+36-40,3,4,konsulent,Oslo,programvare,100 - 500,740000,Nei,Ja
+36-40,1,5,konsulent,Oslo,fullstack,50 - 100,740000,Nei,Ja
+21-25,4,1,"in-house, privat sektor",Oslo,devops,500 - 1.000,740000,Nei,Nei
+26-30,3,5,konsulent,Rogaland,devops,500 - 1.000,740000,Ja,Nei
+26-30,3,8,"in-house, offentlig/kommunal sektor",Nordland,devops,500 - 1.000,740000,Nei,Ja
+26-30,5,4,"in-house, offentlig/kommunal sektor",Oslo,fullstack,500 - 1.000,740000,Nei,Ja
+31-35,10,5,"in-house, offentlig/kommunal sektor",Oslo,fullstack,500 - 1.000,740000,Nei,Nei
+46-50,3,24,"in-house, offentlig/kommunal sektor",Nordland,arkitektur,500 - 1.000,740000,Nei,Ja
+41-45,,7,"in-house, privat sektor",Oslo,frontend,under 10,740000,Ja,Nei
+36-40,3,15,"in-house, privat sektor",Rogaland,fullstack,under 10,742000,Nei,Ja
+31-35,2,12,"in-house, offentlig/kommunal sektor",Oslo,fullstack,100 - 500,743000,Nei,Nei
+26-30,5,6,"in-house, privat sektor",Viken,arkitektur,1.000 - 10.000,744000,Nei,Nei
+31-35,3,1,"in-house, offentlig/kommunal sektor",Oslo,backend,1.000 - 10.000,745000,Nei,Ja
+41-45,4,17,"in-house, privat sektor",Agder,UX / design,1.000 - 10.000,745000,Ja,Ja
+21-25,3,2,"in-house, privat sektor",Oslo,backend,under 10,745000,Nei,Ja
+36-40,0,11,konsulent,Rogaland,frontend,under 10,745000,Nei,Ja
+31-35,5,5,"in-house, privat sektor",Oslo,fullstack,50 - 100,749000,Nei,Ja
+21-25,0,3,"in-house, privat sektor",Oslo,frontend,1.000 - 10.000,750000,Nei,Ja
+21-25,3,2,"in-house, privat sektor",Oslo,sikkerhet,1.000 - 10.000,750000,Nei,Ja
+26-30,5,5,"in-house, offentlig/kommunal sektor",Agder,backend,1.000 - 10.000,750000,Nei,Ja
+26-30,5,2,konsulent,Oslo,data science,1.000 - 10.000,750000,Ja,Nei
+26-30,3,5,konsulent,Trøndelag,fullstack,1.000 - 10.000,750000,Ja,Ja
+31-35,5,6,konsulent,Oslo,backend,1.000 - 10.000,750000,Nei,Nei
+31-35,3,4,"in-house, privat sektor",Rogaland,fullstack,1.000 - 10.000,750000,Nei,Ja
+36-40,3,3,"in-house, privat sektor",Viken,frontend,1.000 - 10.000,750000,Nei,Ja
+41-45,1,24,"in-house, offentlig/kommunal sektor",Oslo,backend,1.000 - 10.000,750000,Nei,Nei
+21-25,3,3,konsulent,Oslo,fullstack,10 - 50,750000,Nei,Nei
+26-30,3,4,konsulent,Møre og Romsdal,frontend,10 - 50,750000,Nei,Ja
+26-30,5,0,"in-house, privat sektor",Oslo,fullstack,10 - 50,750000,Nei,Ja
+26-30,0,4,"in-house, privat sektor",Trøndelag,fullstack,10 - 50,750000,Ja,Ja
+26-30,3,10,"in-house, privat sektor",Oslo,fullstack,10 - 50,750000,Nei,Nei
+26-30,3,4,"in-house, privat sektor",Oslo,fullstack,10 - 50,750000,Ja,Ja
+26-30,3,5,"in-house, privat sektor",Trøndelag,fullstack,10 - 50,750000,Ja,Nei
+31-35,7,9,"in-house, privat sektor",Trøndelag,data science,10 - 50,750000,Nei,Ja
+31-35,5,5,"in-house, privat sektor",Viken,data science,10 - 50,750000,Nei,Ja
+31-35,5,5,konsulent,Vestland,data science,10 - 50,750000,Ja,Nei
+31-35,0,17,"in-house, privat sektor",Viken,frontend,10 - 50,750000,Nei,Nei
+31-35,5,6,"in-house, offentlig/kommunal sektor",Oslo,fullstack,10 - 50,750000,Nei,Nei
+31-35,4,5,"in-house, privat sektor",Oslo,fullstack,10 - 50,750000,Ja,Ja
+31-35,,14,"in-house, privat sektor",Vestland,fullstack,10 - 50,750000,Nei,Ja
+31-35,0,12,"in-house, privat sektor",Oslo,ledelse/administrativt,10 - 50,750000,Nei,Nei
+31-35,5,13,konsulent,Innlandet,UX / design,10 - 50,750000,Ja,Ja
+36-40,2,8,konsulent,Vestland,fullstack,10 - 50,750000,Ja,Ja
+36-40,5,6,"in-house, privat sektor",Vestland,testing,10 - 50,750000,Nei,Ja
+41-45,0,20,konsulent,Vestfold og Telemark,frontend,10 - 50,750000,Nei,Ja
+41-45,4,19,"in-house, privat sektor",Vestfold og Telemark,frontend,10 - 50,750000,Nei,Nei
+46-50,,28,konsulent,Agder,ingen av disse,10 - 50,750000,Nei,Nei
+21-25,3,2,"in-house, privat sektor",Oslo,backend,100 - 500,750000,Ja,Nei
+21-25,3,4,"in-house, privat sektor",Oslo,ingen av disse,100 - 500,750000,Ja,Ja
+26-30,0,3,konsulent,Oslo,backend,100 - 500,750000,Ja,Ja
+26-30,5,4,"in-house, privat sektor",Vestland,backend,100 - 500,750000,Ja,Ja
+26-30,5,2,"in-house, privat sektor",Oslo,data science,100 - 500,750000,Nei,Nei
+26-30,3,7,"in-house, privat sektor",Oslo,devops,100 - 500,750000,Nei,Nei
+26-30,4,7,"in-house, privat sektor",Rogaland,frontend,100 - 500,750000,Nei,Nei
+26-30,6,0,konsulent,Rogaland,fullstack,100 - 500,750000,Nei,Ja
+26-30,6,1,konsulent,Oslo,fullstack,100 - 500,750000,Ja,Ja
+26-30,5,4,"in-house, privat sektor",Oslo,fullstack,100 - 500,750000,Nei,Ja
+26-30,3,6,"in-house, offentlig/kommunal sektor",Vestland,fullstack,100 - 500,750000,Nei,Nei
+26-30,,6,"in-house, privat sektor",Oslo,fullstack,100 - 500,750000,Nei,Ja
+26-30,3,7,"in-house, privat sektor",Oslo,fullstack,100 - 500,750000,Nei,Ja
+31-35,0,3,"in-house, privat sektor",Oslo,backend,100 - 500,750000,Nei,Ja
+31-35,2,17,konsulent,Agder,backend,100 - 500,750000,Nei,Ja
+31-35,0,4,"in-house, privat sektor",Oslo,frontend,100 - 500,750000,Nei,Ja
+31-35,3,5,"in-house, privat sektor",Innlandet,fullstack,100 - 500,750000,Nei,Nei
+31-35,5,9,"in-house, privat sektor",Vestland,fullstack,100 - 500,750000,Nei,Nei
+31-35,3,11,"in-house, privat sektor",Oslo,UX / design,100 - 500,750000,Nei,Ja
+36-40,3,3,konsulent,Oslo,backend,100 - 500,750000,Ja,Ja
+36-40,0,14,konsulent,Trøndelag,sikkerhet,100 - 500,750000,Nei,Ja
+41-45,4,15,"in-house, offentlig/kommunal sektor",Vestland,databaser,100 - 500,750000,Nei,Nei
+41-45,3,15,konsulent,Oslo,fullstack,100 - 500,750000,Ja,Nei
+41-45,,24,"in-house, privat sektor",Vestfold og Telemark,fullstack,100 - 500,750000,Nei,Nei
+41-45,6,18,"in-house, offentlig/kommunal sektor",Rogaland,ledelse/administrativt,100 - 500,750000,Nei,Nei
+21-25,3,4,"in-house, privat sektor",Troms og Finnmark,app,50 - 100,750000,Ja,Nei
+21-25,3,2,"in-house, privat sektor",Troms og Finnmark,fullstack,50 - 100,750000,Ja,Nei
+26-30,3,5,konsulent,Oslo,app,50 - 100,750000,Nei,Nei
+26-30,5,3,"in-house, offentlig/kommunal sektor",Trøndelag,app,50 - 100,750000,Nei,Ja
+26-30,3,4,"in-house, privat sektor",Oslo,fullstack,50 - 100,750000,Nei,Nei
+31-35,7,5,"in-house, offentlig/kommunal sektor",Nordland,data science,50 - 100,750000,Nei,Ja
+36-40,3,10,konsulent,Møre og Romsdal,backend,50 - 100,750000,Nei,Nei
+36-40,5,11,"in-house, privat sektor",Vestfold og Telemark,backend,50 - 100,750000,Nei,Nei
+26-30,5,3,konsulent,Rogaland,app,500 - 1.000,750000,Ja,Ja
+26-30,5,2,"in-house, privat sektor",Vestland,fullstack,500 - 1.000,750000,Ja,Nei
+31-35,5,5,"in-house, privat sektor",Oslo,fullstack,500 - 1.000,750000,Nei,Ja
+31-35,5,5,"in-house, offentlig/kommunal sektor",Oslo,fullstack,500 - 1.000,750000,Nei,Nei
+46-50,6,23,"in-house, privat sektor",Møre og Romsdal,backend,500 - 1.000,750000,Nei,Ja
+21-25,5,0,"in-house, privat sektor",Oslo,data science,over 10.000,750000,Ja,Ja
+21-25,3,2,"in-house, privat sektor",Oslo,frontend,over 10.000,750000,Ja,Ja
+26-30,6,6,"in-house, privat sektor",Viken,sikkerhet,over 10.000,750000,Nei,Ja
+31-35,4,7,"in-house, privat sektor",Vestland,backend,over 10.000,750000,Ja,Nei
+31-35,2,4,"in-house, privat sektor",Troms og Finnmark,frontend,over 10.000,750000,Ja,Nei
+31-35,3,9,konsulent,Oslo,fullstack,over 10.000,750000,Nei,Ja
+31-35,4,9,"in-house, privat sektor",Oslo,programvare,over 10.000,750000,Ja,Nei
+36-40,3,4,konsulent,Oslo,testing,over 10.000,750000,Nei,Ja
+26-30,5,8,"in-house, offentlig/kommunal sektor",Viken,automatisering,under 10,750000,Ja,Nei
+26-30,3,3,"in-house, privat sektor",Rogaland,fullstack,under 10,750000,Nei,Ja
+26-30,3,6,konsulent,Viken,fullstack,under 10,750000,Nei,Ja
+31-35,5,5,"in-house, privat sektor",Oslo,frontend,under 10,750000,Nei,Ja
+36-40,5,12,konsulent,Trøndelag,fullstack,under 10,750000,Nei,Nei
+36-40,5,15,konsulent,Vestland,fullstack,under 10,750000,Nei,Ja
+41-45,3,10,"in-house, privat sektor",Oslo,embedded/IOT/maskinvare,under 10,750000,Nei,Ja
+46-50,7,20,frilans / selvstendig næringsdrivende,Vestland,fullstack,under 10,750000,Nei,Ja
+46-50,3,25,"in-house, privat sektor",Møre og Romsdal,fullstack,under 10,750000,Ja,Ja
+51-55,0,36,frilans / selvstendig næringsdrivende,Oslo,ingen av disse,under 10,750000,Nei,Ja
+26-30,5,4,konsulent,Oslo,fullstack,over 10.000,752000,Ja,Nei
+26-30,4,4,"in-house, privat sektor",Oslo,sikkerhet,100 - 500,753800,Ja,Nei
+26-30,3,3,konsulent,Oslo,backend,1.000 - 10.000,755000,Nei,Ja
+26-30,3,4,"in-house, privat sektor",Oslo,fullstack,1.000 - 10.000,755000,Ja,Nei
+26-30,3,7,"in-house, privat sektor",Oslo,app,500 - 1.000,756000,Nei,Nei
+46-50,5,17,"in-house, privat sektor",Nordland,backend,under 10,756000,Nei,Nei
+36-40,3,15,"in-house, privat sektor",Agder,automatisering,50 - 100,758000,Nei,Nei
+36-40,3,15,"in-house, offentlig/kommunal sektor",Oslo,fullstack,10 - 50,759500,Ja,Nei
+21-25,3,4,konsulent,Rogaland,fullstack,1.000 - 10.000,760000,Ja,Ja
+31-35,5,4,konsulent,Oslo,fullstack,1.000 - 10.000,760000,Nei,Nei
+26-30,5,2,"in-house, privat sektor",Viken,fullstack,10 - 50,760000,Ja,Ja
+31-35,3,8,"in-house, privat sektor",Oslo,frontend,10 - 50,760000,Nei,Ja
+31-35,3,4,"in-house, privat sektor",Nordland,frontend,10 - 50,760000,Ja,Ja
+36-40,0,17,konsulent,Oslo,ingen av disse,10 - 50,760000,Nei,Ja
+36-40,2,6,"in-house, privat sektor",Oslo,UX / design,10 - 50,760000,Nei,Nei
+31-35,5,6,konsulent,Oslo,data science,100 - 500,760000,Ja,Ja
+36-40,3,4,konsulent,Vestland,testing,100 - 500,760000,Nei,Ja
+26-30,6,2,"in-house, privat sektor",Oslo,data science,50 - 100,760000,Ja,Ja
+21-25,3,2,konsulent,Oslo,fullstack,500 - 1.000,760000,Nei,Ja
+31-35,3,11,"in-house, privat sektor",Rogaland,fullstack,500 - 1.000,760000,Nei,Ja
+41-45,,5,"in-house, offentlig/kommunal sektor",Oslo,backend,over 10.000,760000,Nei,Nei
+46-50,0,15,"in-house, privat sektor",Oslo,testing,over 10.000,760000,Nei,Ja
+31-35,3,7,"in-house, privat sektor",Oslo,fullstack,under 10,760000,Nei,Ja
+36-40,5,12,"in-house, offentlig/kommunal sektor",Oslo,automatisering,1.000 - 10.000,761000,Nei,Ja
+26-30,0,6,"in-house, privat sektor",Agder,fullstack,50 - 100,761000,Nei,Ja
+51-55,2,15,"in-house, privat sektor",Oslo,fullstack,1.000 - 10.000,764000,Nei,Ja
+31-35,3,10,"in-house, privat sektor",Vestland,programvare,500 - 1.000,764960,Ja,Nei
+41-45,5,15,"in-house, privat sektor",Viken,programvare,10 - 50,765000,Nei,Nei
+26-30,5,3,"in-house, privat sektor",Oslo,embedded/IOT/maskinvare,100 - 500,765000,Nei,Ja
+26-30,5,3,konsulent,Trøndelag,fullstack,1.000 - 10.000,770000,Ja,Nei
+31-35,3,2,"in-house, privat sektor",Oslo,app,1.000 - 10.000,770000,Ja,Ja
+31-35,3,8,konsulent,Oslo,fullstack,1.000 - 10.000,770000,Nei,Nei
+36-40,1,5,"in-house, privat sektor",Agder,fullstack,1.000 - 10.000,770000,Nei,Ja
+36-40,3,14,"in-house, offentlig/kommunal sektor",Oslo,sikkerhet,1.000 - 10.000,770000,Nei,Nei
+41-45,3,15,"in-house, privat sektor",Trøndelag,frontend,1.000 - 10.000,770000,Ja,Nei
+26-30,3,4,"in-house, privat sektor",Oslo,fullstack,10 - 50,770000,Nei,Ja
+26-30,5,1,konsulent,Oslo,ledelse/administrativt,10 - 50,770000,Ja,Ja
+26-30,4,5,"in-house, privat sektor",Oslo,backend,100 - 500,770000,Nei,Ja
+26-30,5,4,konsulent,Oslo,frontend,100 - 500,770000,Ja,Nei
+26-30,5,4,konsulent,Oslo,ledelse/administrativt,100 - 500,770000,Nei,Ja
+31-35,3,12,"in-house, privat sektor",Trøndelag,fullstack,100 - 500,770000,Nei,Ja
+36-40,0,4,"in-house, privat sektor",Oslo,backend,100 - 500,770000,Ja,Ja
+26-30,5,3,"in-house, privat sektor",Oslo,fullstack,50 - 100,770000,Nei,Nei
+31-35,1,5,konsulent,Oslo,devops,50 - 100,770000,Ja,Ja
+26-30,5,3,konsulent,Oslo,fullstack,500 - 1.000,770000,Nei,Ja
+31-35,5,5,"in-house, privat sektor",Agder,fullstack,500 - 1.000,770000,Ja,Ja
+26-30,3,4,konsulent,Trøndelag,fullstack,10 - 50,775000,Nei,Ja
+21-25,5,2,konsulent,Oslo,backend,100 - 500,775000,Nei,Ja
+26-30,4,2,"in-house, offentlig/kommunal sektor",Oslo,data science,100 - 500,775000,Nei,Ja
+46-50,2,25,"in-house, privat sektor",Vestland,backend,100 - 500,775000,Nei,Ja
+26-30,5,4,konsulent,Rogaland,UX / design,50 - 100,775000,Ja,Ja
+26-30,3,3,"in-house, privat sektor",Oslo,fullstack,500 - 1.000,775000,Nei,Ja
+36-40,3,10,"in-house, privat sektor",Oslo,fullstack,under 10,775000,Nei,Nei
+31-35,,6,"in-house, privat sektor",Møre og Romsdal,fullstack,50 - 100,775200,Ja,Ja
+46-50,4,23,"in-house, privat sektor",Troms og Finnmark,arkitektur,1.000 - 10.000,776000,Nei,Nei
+31-35,3,3,"in-house, privat sektor",Oslo,devops,1.000 - 10.000,777000,Nei,Nei
+26-30,5,1,konsulent,Oslo,fullstack,100 - 500,777000,Ja,Ja
+36-40,0,6,"in-house, offentlig/kommunal sektor",Oslo,automatisering,1.000 - 10.000,780000,Nei,Ja
+36-40,3,10,"in-house, privat sektor",utlandet,ledelse/administrativt,1.000 - 10.000,780000,Ja,Ja
+46-50,0,27,"in-house, offentlig/kommunal sektor",Vestfold og Telemark,fullstack,1.000 - 10.000,780000,Nei,Nei
+26-30,3,5,konsulent,Oslo,frontend,10 - 50,780000,Ja,Ja
+31-35,5,5,"in-house, privat sektor",Agder,backend,10 - 50,780000,Nei,Ja
+36-40,0,5,"in-house, privat sektor",Viken,programvare,10 - 50,780000,Nei,Ja
+41-45,2,20,"in-house, privat sektor",Vestfold og Telemark,frontend,10 - 50,780000,Nei,Ja
+26-30,3,2,"in-house, privat sektor",Rogaland,backend,100 - 500,780000,Nei,Ja
+26-30,5,1,"in-house, privat sektor",Oslo,backend,100 - 500,780000,Nei,Ja
+26-30,6,4,konsulent,Oslo,backend,100 - 500,780000,Nei,Ja
+26-30,5,4,konsulent,Trøndelag,backend,100 - 500,780000,Ja,Ja
+26-30,0,6,konsulent,Vestland,fullstack,100 - 500,780000,Nei,Ja
+31-35,5,2,"in-house, privat sektor",Oslo,fullstack,100 - 500,780000,Nei,Ja
+36-40,5,14,"in-house, privat sektor",Vestland,fullstack,100 - 500,780000,Nei,Nei
+46-50,4,25,"in-house, privat sektor",Oslo,ledelse/administrativt,100 - 500,780000,Nei,Nei
+31-35,3,5,"in-house, privat sektor",Oslo,backend,50 - 100,780000,Nei,Nei
+31-35,3,2,konsulent,Oslo,frontend,50 - 100,780000,Ja,Ja
+41-45,5,17,"in-house, privat sektor",Viken,backend,50 - 100,780000,Nei,Ja
+21-25,3,3,konsulent,Innlandet,fullstack,500 - 1.000,780000,Ja,Nei
+26-30,5,2,konsulent,Oslo,app,500 - 1.000,780000,Nei,Ja
+26-30,3,4,"in-house, offentlig/kommunal sektor",Oslo,backend,500 - 1.000,780000,Nei,Ja
+26-30,5,2,konsulent,Oslo,fullstack,500 - 1.000,780000,Nei,Nei
+36-40,,0,"in-house, privat sektor",Oslo,data science,500 - 1.000,780000,Nei,Ja
+41-45,3,10,"in-house, offentlig/kommunal sektor",Troms og Finnmark,fullstack,500 - 1.000,780000,Nei,Ja
+36-40,5,10,konsulent,Oslo,automatisering,over 10.000,780000,Ja,Ja
+46-50,3,25,"in-house, offentlig/kommunal sektor",Vestland,fullstack,over 10.000,780000,Nei,Nei
+31-35,3,6,frilans / selvstendig næringsdrivende,Vestfold og Telemark,fullstack,under 10,780000,Nei,Ja
+36-40,5,15,"in-house, privat sektor",Vestland,backend,under 10,780000,Nei,Ja
+41-45,5,15,frilans / selvstendig næringsdrivende,Agder,backend,under 10,780000,Nei,Ja
+21-25,3,3,konsulent,Oslo,fullstack,100 - 500,782000,Nei,Ja
+41-45,3,19,"in-house, privat sektor",Trøndelag,fullstack,100 - 500,783000,Nei,Ja
+26-30,5,2,"in-house, privat sektor",Oslo,backend,1.000 - 10.000,785000,Ja,Ja
+26-30,3,6,konsulent,Oslo,frontend,1.000 - 10.000,785000,Ja,Nei
+31-35,,8,"in-house, privat sektor",Oslo,backend,1.000 - 10.000,785000,Nei,Nei
+31-35,3,5,"in-house, privat sektor",Oslo,databaser,10 - 50,785000,Ja,Nei
+41-45,4,6,konsulent,Vestfold og Telemark,backend,50 - 100,785000,Nei,Ja
+36-40,0,21,"in-house, privat sektor",Oslo,databaser,500 - 1.000,785596,Ja,Nei
+26-30,3,3,"in-house, offentlig/kommunal sektor",Oslo,ledelse/administrativt,1.000 - 10.000,788000,Nei,Ja
+41-45,5,18,"in-house, privat sektor",Rogaland,fullstack,10 - 50,790000,Nei,Nei
+26-30,4,3,konsulent,Trøndelag,backend,100 - 500,790000,Ja,Ja
+31-35,3,15,"in-house, offentlig/kommunal sektor",Oslo,ledelse/administrativt,100 - 500,790000,Nei,Nei
+36-40,3,12,konsulent,Møre og Romsdal,fullstack,100 - 500,790000,Nei,Ja
+41-45,3,20,"in-house, privat sektor",Oslo,fullstack,50 - 100,790000,Ja,Ja
+31-35,5,5,konsulent,Oslo,frontend,500 - 1.000,790000,Nei,Nei
+36-40,3,5,konsulent,Rogaland,frontend,500 - 1.000,790000,Ja,Nei
+26-30,5,4,"in-house, privat sektor",Oslo,arkitektur,over 10.000,790000,Ja,Nei
+36-40,5,10,"in-house, offentlig/kommunal sektor",Oslo,frontend,over 10.000,790000,Nei,Ja
+26-30,5,4,konsulent,Oslo,fullstack,over 10.000,795000,Nei,Ja
+26-30,5,4,konsulent,Oslo,frontend,100 - 500,796000,Nei,Nei
+26-30,3,3,"in-house, privat sektor",Vestfold og Telemark,backend,100 - 500,798000,Nei,Nei
+21-25,0,9,"in-house, offentlig/kommunal sektor",Trøndelag,arkitektur,1.000 - 10.000,800000,Nei,Ja
+26-30,5,4,"in-house, privat sektor",Oslo,app,1.000 - 10.000,800000,Ja,Nei
+26-30,5,5,konsulent,Rogaland,arkitektur,1.000 - 10.000,800000,Ja,Ja
+26-30,5,4,konsulent,Oslo,backend,1.000 - 10.000,800000,Ja,Ja
+26-30,3,6,"in-house, privat sektor",Oslo,frontend,1.000 - 10.000,800000,Nei,Nei
+26-30,0,11,"in-house, privat sektor",Oslo,ingen av disse,1.000 - 10.000,800000,Nei,Ja
+26-30,5,5,konsulent,Rogaland,programvare,1.000 - 10.000,800000,Ja,Nei
+31-35,5,11,"in-house, offentlig/kommunal sektor",Oslo,frontend,1.000 - 10.000,800000,Nei,Ja
+31-35,5,2,"in-house, privat sektor",Oslo,fullstack,1.000 - 10.000,800000,Ja,Nei
+46-50,3,23,konsulent,Trøndelag,ingen av disse,1.000 - 10.000,800000,Nei,Nei
+46-50,,30,"in-house, offentlig/kommunal sektor",Viken,sikkerhet,1.000 - 10.000,800000,Nei,Nei
+26-30,5,4,konsulent,Vestland,backend,10 - 50,800000,Nei,Ja
+26-30,3,4,konsulent,Vestland,frontend,10 - 50,800000,Nei,Ja
+26-30,4,4,konsulent,Rogaland,frontend,10 - 50,800000,Ja,Ja
+26-30,3,8,"in-house, privat sektor",Viken,frontend,10 - 50,800000,Ja,Ja
+26-30,6,2,"in-house, privat sektor",Oslo,fullstack,10 - 50,800000,Nei,Ja
+26-30,5,4,"in-house, privat sektor",Oslo,fullstack,10 - 50,800000,Nei,Ja
+26-30,5,4,"in-house, privat sektor",Oslo,fullstack,10 - 50,800000,Nei,Nei
+31-35,5,8,konsulent,Innlandet,fullstack,10 - 50,800000,Ja,Nei
+31-35,3,7,"in-house, privat sektor",Oslo,fullstack,10 - 50,800000,Ja,Nei
+31-35,5,13,"in-house, privat sektor",Rogaland,fullstack,10 - 50,800000,Nei,Ja
+31-35,0,8,"in-house, privat sektor",Trøndelag,fullstack,10 - 50,800000,Ja,Nei
+31-35,3,10,konsulent,Vestfold og Telemark,ledelse/administrativt,10 - 50,800000,Nei,Ja
+36-40,4,10,"in-house, privat sektor",Viken,automatisering,10 - 50,800000,Nei,Ja
+36-40,3,15,"in-house, privat sektor",Oslo,backend,10 - 50,800000,Ja,Nei
+36-40,3,2,"in-house, privat sektor",Oslo,fullstack,10 - 50,800000,Nei,Ja
+36-40,3,2,"in-house, privat sektor",Oslo,fullstack,10 - 50,800000,Nei,Ja
+36-40,1,15,"in-house, privat sektor",Vestland,ledelse/administrativt,10 - 50,800000,Nei,Nei
+41-45,0,24,konsulent,Oslo,arkitektur,10 - 50,800000,Nei,Nei
+21-25,3,3,"in-house, privat sektor",Oslo,backend,100 - 500,800000,Nei,Ja
+21-25,3,2,konsulent,Vestland,fullstack,100 - 500,800000,Nei,Ja
+26-30,4,7,konsulent,Oslo,app,100 - 500,800000,Nei,Nei
+26-30,0,9,"in-house, privat sektor",Rogaland,automatisering,100 - 500,800000,Nei,Ja
+26-30,3,5,"in-house, privat sektor",Oslo,backend,100 - 500,800000,Nei,Ja
+26-30,3,2,"in-house, privat sektor",Oslo,devops,100 - 500,800000,Nei,Ja
+26-30,,4,"in-house, privat sektor",Oslo,devops,100 - 500,800000,Nei,Nei
+26-30,3,4,"in-house, privat sektor",Oslo,devops,100 - 500,800000,Ja,Ja
+26-30,5,3,konsulent,Oslo,frontend,100 - 500,800000,Ja,Nei
+26-30,5,3,konsulent,Oslo,fullstack,100 - 500,800000,Ja,Ja
+26-30,5,1,"in-house, privat sektor",Oslo,fullstack,100 - 500,800000,Nei,Ja
+26-30,5,4,konsulent,Oslo,sikkerhet,100 - 500,800000,Nei,Nei
+31-35,5,4,konsulent,Trøndelag,automatisering,100 - 500,800000,Ja,Ja
+31-35,5,1,"in-house, privat sektor",Vestland,automatisering,100 - 500,800000,Nei,Ja
+31-35,2,10,"in-house, privat sektor",Oslo,frontend,100 - 500,800000,Nei,Ja
+31-35,3,8,konsulent,Vestfold og Telemark,frontend,100 - 500,800000,Nei,Ja
+31-35,5,6,"in-house, privat sektor",Troms og Finnmark,fullstack,100 - 500,800000,Ja,Ja
+31-35,3,5,konsulent,Agder,fullstack,100 - 500,800000,Ja,Ja
+31-35,3,10,"in-house, privat sektor",Trøndelag,fullstack,100 - 500,800000,Nei,Ja
+31-35,0,4,konsulent,Vestland,fullstack,100 - 500,800000,Ja,Ja
+36-40,5,3,konsulent,Vestland,backend,100 - 500,800000,Nei,Ja
+36-40,2,3,"in-house, privat sektor",Oslo,fullstack,100 - 500,800000,Nei,Ja
+36-40,5,9,"in-house, privat sektor",Innlandet,programvare,100 - 500,800000,Nei,Nei
+36-40,3,12,"in-house, privat sektor",Møre og Romsdal,programvare,100 - 500,800000,Nei,Nei
+41-45,4,19,"in-house, privat sektor",Innlandet,backend,100 - 500,800000,Nei,Nei
+41-45,5,13,"in-house, offentlig/kommunal sektor",Troms og Finnmark,ledelse/administrativt,100 - 500,800000,Nei,Ja
+46-50,6,22,"in-house, offentlig/kommunal sektor",Oslo,data science,100 - 500,800000,Ja,Ja
+46-50,3,25,"in-house, offentlig/kommunal sektor",Oslo,ledelse/administrativt,100 - 500,800000,Nei,Nei
+26-30,3,11,konsulent,Rogaland,automatisering,50 - 100,800000,Nei,Ja
+26-30,5,2,konsulent,Vestland,backend,50 - 100,800000,Nei,Ja
+31-35,5,5,"in-house, privat sektor",Oslo,fullstack,50 - 100,800000,Nei,Nei
+31-35,0,10,"in-house, privat sektor",Agder,ingen av disse,50 - 100,800000,Nei,Ja
+31-35,4,15,"in-house, privat sektor",Nordland,ingen av disse,50 - 100,800000,Ja,Ja
+36-40,5,2,"in-house, privat sektor",Nordland,backend,50 - 100,800000,Ja,Ja
+36-40,2,5,"in-house, privat sektor",Oslo,fullstack,50 - 100,800000,Nei,Ja
+41-45,3,19,"in-house, privat sektor",Vestfold og Telemark,fullstack,50 - 100,800000,Nei,Nei
+41-45,4,10,"in-house, privat sektor",Vestland,fullstack,50 - 100,800000,Nei,Nei
+46-50,4,22,konsulent,Rogaland,sikkerhet,50 - 100,800000,Ja,Nei
+26-30,3,3,"in-house, offentlig/kommunal sektor",Oslo,backend,500 - 1.000,800000,Nei,Ja
+26-30,5,3,konsulent,Oslo,fullstack,500 - 1.000,800000,Nei,Ja
+31-35,5,5,"in-house, privat sektor",Trøndelag,embedded/IOT/maskinvare,500 - 1.000,800000,Ja,Nei
+31-35,3,3,"in-house, privat sektor",Oslo,fullstack,500 - 1.000,800000,Nei,Ja
+36-40,3,12,"in-house, privat sektor",Viken,frontend,500 - 1.000,800000,Ja,Ja
+41-45,5,26,"in-house, privat sektor",Vestland,backend,500 - 1.000,800000,Ja,Nei
+41-45,4,13,"in-house, offentlig/kommunal sektor",Oslo,frontend,500 - 1.000,800000,Nei,Nei
+41-45,3,13,"in-house, privat sektor",Trøndelag,fullstack,500 - 1.000,800000,Nei,Nei
+61-65,5,30,"in-house, offentlig/kommunal sektor",Viken,frontend,500 - 1.000,800000,Nei,Nei
+26-30,4,5,konsulent,Oslo,backend,over 10.000,800000,Ja,Nei
+31-35,3,4,"in-house, privat sektor",Vestland,frontend,over 10.000,800000,Nei,Nei
+51-55,4,24,"in-house, privat sektor",Oslo,fullstack,over 10.000,800000,Nei,Nei
+56-60,5,30,"in-house, privat sektor",Oslo,ingen av disse,over 10.000,800000,Nei,Nei
+26-30,5,3,konsulent,Trøndelag,backend,under 10,800000,Ja,Ja
+26-30,5,7,frilans / selvstendig næringsdrivende,Viken,sikkerhet,under 10,800000,Nei,Ja
+31-35,0,4,"in-house, privat sektor",Oslo,backend,under 10,800000,Nei,Ja
+31-35,8,10,"in-house, privat sektor",Trøndelag,programvare,under 10,800000,Ja,Ja
+36-40,3,19,konsulent,Oslo,backend,under 10,800000,Nei,Ja
+36-40,5,20,frilans / selvstendig næringsdrivende,Oslo,fullstack,under 10,800000,Nei,Ja
+26-30,3,8,"in-house, offentlig/kommunal sektor",Innlandet,frontend,100 - 500,801000,Nei,Ja
+36-40,5,11,"in-house, privat sektor",Viken,backend,100 - 500,801000,Nei,Nei
+41-45,2,13,konsulent,Vestland,backend,1.000 - 10.000,805000,Ja,Ja
+36-40,2,6,"in-house, privat sektor",Oslo,fullstack,10 - 50,805000,Nei,Ja
+31-35,3,9,"in-house, offentlig/kommunal sektor",Viken,devops,500 - 1.000,805000,Nei,Ja
+31-35,5,9,konsulent,Oslo,backend,100 - 500,806000,Nei,Ja
+41-45,5,16,konsulent,Innlandet,programvare,over 10.000,807000,Nei,Nei
+46-50,3,23,"in-house, privat sektor",Trøndelag,fullstack,50 - 100,807500,Nei,Nei
+21-25,4,6,"in-house, privat sektor",Oslo,programvare,50 - 100,808000,Nei,Ja
+31-35,1,4,"in-house, privat sektor",Viken,fullstack,1.000 - 10.000,810000,Nei,Ja
+41-45,4,10,"in-house, privat sektor",Oslo,fullstack,1.000 - 10.000,810000,Ja,Ja
+26-30,3,,konsulent,Oslo,automatisering,10 - 50,810000,Nei,Ja
+26-30,3,4,"in-house, privat sektor",Oslo,fullstack,10 - 50,810000,Ja,Ja
+26-30,4,4,konsulent,Vestland,app,100 - 500,810000,Nei,Ja
+31-35,5,10,"in-house, privat sektor",Innlandet,backend,100 - 500,810000,Ja,Nei
+31-35,3,3,konsulent,Oslo,fullstack,100 - 500,810000,Nei,Ja
+36-40,4,10,"in-house, privat sektor",Oslo,frontend,100 - 500,810000,Nei,Nei
+41-45,5,22,konsulent,Innlandet,backend,100 - 500,810000,Nei,Ja
+46-50,3,23,"in-house, offentlig/kommunal sektor",Viken,devops,100 - 500,810000,Nei,Ja
+26-30,3,6,"in-house, offentlig/kommunal sektor",Trøndelag,backend,500 - 1.000,810000,Nei,Nei
+26-30,3,5,"in-house, privat sektor",Oslo,fullstack,500 - 1.000,810000,Nei,Ja
+26-30,3,4,konsulent,Oslo,backend,100 - 500,811000,Ja,Ja
+46-50,4,10,"in-house, offentlig/kommunal sektor",Oslo,fullstack,1.000 - 10.000,815000,Nei,Nei
+26-30,3,2,konsulent,Oslo,backend,10 - 50,815000,Ja,Ja
+36-40,5,15,"in-house, offentlig/kommunal sektor",Agder,devops,1.000 - 10.000,816000,Nei,Ja
+36-40,5,7,konsulent,Møre og Romsdal,data science,10 - 50,816000,Nei,Ja
+31-35,3,6,"in-house, privat sektor",Nordland,arkitektur,1.000 - 10.000,817000,Nei,Ja
+41-45,4,15,"in-house, offentlig/kommunal sektor",Oslo,frontend,500 - 1.000,817400,Nei,Nei
+36-40,2,11,"in-house, privat sektor",Oslo,automatisering,10 - 50,819000,Nei,Nei
+21-25,3,5,konsulent,Oslo,frontend,1.000 - 10.000,820000,Ja,Ja
+26-30,5,2,"in-house, privat sektor",Oslo,data science,1.000 - 10.000,820000,Ja,Ja
+26-30,3,3,konsulent,Viken,fullstack,1.000 - 10.000,820000,Ja,Nei
+26-30,3,4,konsulent,Vestland,sikkerhet,1.000 - 10.000,820000,Nei,Ja
+31-35,4,12,"in-house, privat sektor",Oslo,UX / design,1.000 - 10.000,820000,Nei,Ja
+36-40,5,18,konsulent,Trøndelag,automatisering,1.000 - 10.000,820000,Ja,Ja
+36-40,5,7,"in-house, offentlig/kommunal sektor",Oslo,data science,1.000 - 10.000,820000,Nei,Ja
+36-40,3,13,"in-house, offentlig/kommunal sektor",Oslo,fullstack,1.000 - 10.000,820000,Nei,Nei
+46-50,3,23,konsulent,Trøndelag,frontend,1.000 - 10.000,820000,Nei,Ja
+26-30,3,2,konsulent,Oslo,sikkerhet,10 - 50,820000,Ja,Nei
+31-35,3,6,"in-house, privat sektor",Oslo,frontend,10 - 50,820000,Nei,Nei
+26-30,5,5,"in-house, privat sektor",Oslo,app,100 - 500,820000,Ja,Nei
+26-30,5,3,konsulent,Oslo,fullstack,100 - 500,820000,Ja,Ja
+26-30,4,4,"in-house, offentlig/kommunal sektor",Oslo,fullstack,100 - 500,820000,Nei,Ja
+31-35,3,12,"in-house, privat sektor",Oslo,frontend,100 - 500,820000,Nei,Ja
+41-45,3,9,konsulent,Oslo,backend,100 - 500,820000,Nei,Ja
+36-40,3,15,"in-house, privat sektor",Vestfold og Telemark,fullstack,50 - 100,820000,Nei,Ja
+26-30,3,4,konsulent,Oslo,frontend,500 - 1.000,820000,Ja,Nei
+26-30,5,6,"in-house, privat sektor",Vestfold og Telemark,ledelse/administrativt,500 - 1.000,820000,Ja,Nei
+31-35,7,5,"in-house, privat sektor",Viken,embedded/IOT/maskinvare,500 - 1.000,820000,Ja,Ja
+31-35,5,8,"in-house, offentlig/kommunal sektor",Oslo,fullstack,500 - 1.000,820000,Nei,Ja
+26-30,3,5,"in-house, privat sektor",Viken,fullstack,over 10.000,820000,Ja,Nei
+31-35,0,11,"in-house, privat sektor",Trøndelag,fullstack,under 10,820000,Nei,Ja
+46-50,3,20,"in-house, privat sektor",Vestland,fullstack,under 10,820000,Nei,Ja
+31-35,5,7,konsulent,Oslo,backend,100 - 500,820600,Nei,Nei
+26-30,5,2,frilans / selvstendig næringsdrivende,Rogaland,fullstack,10 - 50,820800,Nei,Nei
+26-30,5,6,"in-house, privat sektor",Oslo,sikkerhet,100 - 500,823000,Nei,Ja
+31-35,5,9,konsulent,Agder,fullstack,1.000 - 10.000,825000,Nei,Nei
+26-30,3,6,"in-house, privat sektor",Oslo,frontend,10 - 50,825000,Nei,Ja
+31-35,5,5,konsulent,Oslo,fullstack,10 - 50,825000,Nei,Ja
+26-30,3,5,konsulent,Oslo,UX / design,100 - 500,825000,Ja,Ja
+31-35,5,7,"in-house, offentlig/kommunal sektor",Vestland,fullstack,100 - 500,825000,Nei,Nei
+36-40,5,12,"in-house, privat sektor",Vestfold og Telemark,backend,500 - 1.000,825000,Nei,Ja
+31-35,5,5,konsulent,Oslo,fullstack,100 - 500,827000,Nei,Nei
+26-30,5,5,konsulent,Oslo,backend,1.000 - 10.000,830000,Ja,Nei
+31-35,4,6,konsulent,Oslo,devops,1.000 - 10.000,830000,Nei,Ja
+31-35,4,7,"in-house, privat sektor",Oslo,ledelse/administrativt,1.000 - 10.000,830000,Nei,Nei
+36-40,3,15,konsulent,Oslo,backend,1.000 - 10.000,830000,Nei,Nei
+46-50,0,23,konsulent,Rogaland,frontend,1.000 - 10.000,830000,Ja,Nei
+31-35,2,6,"in-house, privat sektor",Oslo,frontend,10 - 50,830000,Nei,Ja
+26-30,5,5,"in-house, privat sektor",Oslo,databaser,100 - 500,830000,Nei,Ja
+26-30,3,4,konsulent,Trøndelag,fullstack,100 - 500,830000,Ja,Ja
+31-35,3,6,"in-house, privat sektor",Vestland,backend,100 - 500,830000,Nei,Ja
+31-35,5,7,konsulent,Oslo,frontend,100 - 500,830000,Nei,Nei
+31-35,3,7,"in-house, privat sektor",Vestfold og Telemark,fullstack,100 - 500,830000,Nei,Ja
+41-45,3,23,"in-house, privat sektor",Oslo,programvare,100 - 500,830000,Nei,Nei
+51-55,8,25,"in-house, privat sektor",Trøndelag,programvare,100 - 500,830000,Nei,Ja
+26-30,5,4,konsulent,Oslo,fullstack,50 - 100,830000,Nei,Ja
+26-30,6,3,"in-house, privat sektor",Oslo,backend,over 10.000,830000,Ja,Ja
+41-45,2,25,"in-house, privat sektor",Oslo,fullstack,under 10,830000,Nei,Nei
+41-45,3,15,"in-house, privat sektor",Vestland,fullstack,under 10,830000,Nei,Nei
+41-45,3,23,"in-house, offentlig/kommunal sektor",Oslo,devops,100 - 500,833500,Ja,Nei
+31-35,5,9,konsulent,Oslo,backend,100 - 500,835000,Nei,Ja
+31-35,5,4,"in-house, privat sektor",Oslo,data science,50 - 100,835000,Nei,Ja
+26-30,5,4,konsulent,Oslo,fullstack,500 - 1.000,835000,Ja,Ja
+46-50,3,23,"in-house, offentlig/kommunal sektor",Innlandet,fullstack,1.000 - 10.000,837332,Nei,Nei
+26-30,3,5,konsulent,Oslo,fullstack,1.000 - 10.000,840000,Ja,Ja
+31-35,2,3,konsulent,Rogaland,devops,1.000 - 10.000,840000,Ja,Ja
+26-30,4,3,konsulent,Oslo,frontend,10 - 50,840000,Nei,Ja
+36-40,5,11,"in-house, privat sektor",Nordland,fullstack,10 - 50,840000,Ja,Ja
+41-45,4,18,"in-house, offentlig/kommunal sektor",Oslo,fullstack,10 - 50,840000,Nei,Ja
+41-45,7,15,"in-house, offentlig/kommunal sektor",Trøndelag,ledelse/administrativt,10 - 50,840000,Nei,Ja
+41-45,3,7,"in-house, privat sektor",Oslo,ledelse/administrativt,10 - 50,840000,Nei,Ja
+26-30,3,3,konsulent,Viken,frontend,100 - 500,840000,Ja,Ja
+26-30,5,2,"in-house, privat sektor",Oslo,frontend,100 - 500,840000,Nei,Ja
+26-30,4,1,konsulent,Oslo,fullstack,100 - 500,840000,Ja,Ja
+26-30,5,3,konsulent,Oslo,fullstack,100 - 500,840000,Nei,Ja
+31-35,2,8,"in-house, privat sektor",Oslo,backend,100 - 500,840000,Nei,Ja
+31-35,3,8,konsulent,Oslo,frontend,100 - 500,840000,Ja,Nei
+51-55,3,30,"in-house, privat sektor",Viken,ledelse/administrativt,100 - 500,840000,Nei,Nei
+26-30,4,5,konsulent,Oslo,fullstack,50 - 100,840000,Ja,Ja
+31-35,4,5,"in-house, privat sektor",Oslo,fullstack,50 - 100,840000,Ja,Nei
+26-30,5,5,"in-house, privat sektor",Oslo,fullstack,500 - 1.000,840000,Ja,Nei
+31-35,3,9,"in-house, offentlig/kommunal sektor",Agder,backend,over 10.000,840000,Nei,Ja
+31-35,3,4,"in-house, offentlig/kommunal sektor",Oslo,backend,over 10.000,840000,Nei,Ja
+41-45,3,20,"in-house, privat sektor",Oslo,fullstack,over 10.000,840000,Nei,Ja
+26-30,5,6,"in-house, privat sektor",Trøndelag,fullstack,under 10,840000,Nei,Ja
+31-35,3,4,konsulent,Oslo,backend,under 10,840000,Ja,Ja
+31-35,5,11,"in-house, privat sektor",Oslo,fullstack,under 10,840000,Nei,Nei
+36-40,0,17,"in-house, privat sektor",Trøndelag,backend,10 - 50,841500,Nei,Ja
+31-35,3,5,konsulent,Oslo,backend,100 - 500,843774,Nei,Ja
+31-35,3,4,konsulent,Agder,fullstack,10 - 50,845000,Nei,Ja
+31-35,5,9,konsulent,Vestfold og Telemark,frontend,over 10.000,845000,Ja,Nei
+26-30,,5,konsulent,Oslo,backend,1.000 - 10.000,846000,Nei,Ja
+36-40,5,10,"in-house, privat sektor",Viken,embedded/IOT/maskinvare,1.000 - 10.000,847000,Nei,Ja
+26-30,5,3,konsulent,Oslo,fullstack,1.000 - 10.000,850000,Ja,Ja
+26-30,5,6,konsulent,Oslo,fullstack,1.000 - 10.000,850000,Nei,Ja
+26-30,5,5,"in-house, privat sektor",Rogaland,ledelse/administrativt,1.000 - 10.000,850000,Ja,Ja
+31-35,3,8,"in-house, privat sektor",Oslo,backend,1.000 - 10.000,850000,Ja,Nei
+31-35,5,7,konsulent,Viken,backend,1.000 - 10.000,850000,Ja,Ja
+31-35,3,11,"in-house, privat sektor",Rogaland,fullstack,1.000 - 10.000,850000,Nei,Ja
+36-40,5,15,"in-house, privat sektor",Vestland,arkitektur,1.000 - 10.000,850000,Nei,Ja
+36-40,5,14,"in-house, privat sektor",Viken,fullstack,1.000 - 10.000,850000,Nei,Nei
+36-40,3,10,konsulent,Oslo,testing,1.000 - 10.000,850000,Ja,Nei
+46-50,3,25,"in-house, offentlig/kommunal sektor",Innlandet,ledelse/administrativt,1.000 - 10.000,850000,Nei,Nei
+21-25,3,4,"in-house, privat sektor",Vestland,fullstack,10 - 50,850000,Nei,Nei
+26-30,5,3,"in-house, privat sektor",Oslo,fullstack,10 - 50,850000,Nei,Ja
+26-30,5,3,"in-house, privat sektor",Oslo,fullstack,10 - 50,850000,Nei,Ja
+31-35,3,3,konsulent,Oslo,app,10 - 50,850000,Ja,Ja
+31-35,0,4,konsulent,Oslo,automatisering,10 - 50,850000,Nei,Ja
+31-35,0,10,konsulent,Oslo,ledelse/administrativt,10 - 50,850000,Nei,Nei
+31-35,1,2,"in-house, privat sektor",Oslo,testing,10 - 50,850000,Nei,Ja
+36-40,3,11,konsulent,Vestland,arkitektur,10 - 50,850000,Nei,Ja
+36-40,3,6,konsulent,Oslo,frontend,10 - 50,850000,Ja,Ja
+36-40,3,10,"in-house, privat sektor",Vestland,fullstack,10 - 50,850000,Nei,Ja
+41-45,0,16,"in-house, privat sektor",Agder,backend,10 - 50,850000,Nei,Ja
+41-45,2,4,"in-house, privat sektor",Agder,fullstack,10 - 50,850000,Nei,Ja
+46-50,3,25,"in-house, privat sektor",Vestfold og Telemark,arkitektur,10 - 50,850000,Nei,Ja
+46-50,4,24,"in-house, privat sektor",Oslo,fullstack,10 - 50,850000,Nei,Ja
+21-25,3,2,konsulent,Vestland,fullstack,100 - 500,850000,Ja,Ja
+26-30,3,3,"in-house, privat sektor",Oslo,app,100 - 500,850000,Ja,Ja
+26-30,3,6,"in-house, privat sektor",Oslo,backend,100 - 500,850000,Ja,Ja
+26-30,3,8,konsulent,Oslo,backend,100 - 500,850000,Nei,Nei
+26-30,5,2,"in-house, privat sektor",Trøndelag,data science,100 - 500,850000,Ja,Ja
+26-30,0,7,"in-house, privat sektor",Oslo,fullstack,100 - 500,850000,Nei,Nei
+26-30,3,7,konsulent,Oslo,fullstack,100 - 500,850000,Ja,Nei
+26-30,3,3,"in-house, privat sektor",utlandet,programvare,100 - 500,850000,Ja,Nei
+31-35,3,7,"in-house, offentlig/kommunal sektor",Oslo,backend,100 - 500,850000,Nei,Ja
+31-35,5,3,konsulent,Oslo,data science,100 - 500,850000,Ja,Ja
+31-35,5,7,konsulent,Viken,embedded/IOT/maskinvare,100 - 500,850000,Ja,Ja
+31-35,5,11,"in-house, privat sektor",Viken,embedded/IOT/maskinvare,100 - 500,850000,Ja,Ja
+31-35,4,4,"in-house, privat sektor",Oslo,ledelse/administrativt,100 - 500,850000,Nei,Ja
+36-40,5,11,"in-house, privat sektor",Trøndelag,backend,100 - 500,850000,Ja,Ja
+46-50,4,25,"in-house, privat sektor",Møre og Romsdal,automatisering,100 - 500,850000,Nei,Ja
+46-50,4,8,"in-house, privat sektor",Oslo,backend,100 - 500,850000,Nei,Nei
+46-50,3,24,"in-house, privat sektor",Viken,embedded/IOT/maskinvare,100 - 500,850000,Ja,Ja
+51-55,3,25,"in-house, privat sektor",Oslo,backend,100 - 500,850000,Nei,Nei
+36-40,3,15,"in-house, privat sektor",Rogaland,backend,50 - 100,850000,Nei,Nei
+36-40,3,15,konsulent,Oslo,ledelse/administrativt,50 - 100,850000,Nei,Ja
+41-45,5,16,"in-house, privat sektor",Vestfold og Telemark,fullstack,50 - 100,850000,Nei,Nei
+41-45,5,15,konsulent,Møre og Romsdal,fullstack,50 - 100,850000,Nei,Nei
+26-30,3,4,"in-house, offentlig/kommunal sektor",Oslo,backend,500 - 1.000,850000,Nei,Ja
+26-30,5,4,"in-house, privat sektor",Oslo,fullstack,500 - 1.000,850000,Ja,Nei
+36-40,,18,"in-house, privat sektor",Rogaland,fullstack,500 - 1.000,850000,Nei,Nei
+41-45,1,8,"in-house, privat sektor",Oslo,backend,500 - 1.000,850000,Nei,Ja
+21-25,2,0,"in-house, privat sektor",Oslo,backend,over 10.000,850000,Ja,Nei
+26-30,3,2,konsulent,utlandet,sikkerhet,over 10.000,850000,Ja,Ja
+26-30,2,5,konsulent,Rogaland,testing,over 10.000,850000,Ja,Ja
+36-40,3,12,"in-house, privat sektor",Oslo,backend,over 10.000,850000,Nei,Nei
+36-40,5,14,"in-house, privat sektor",Viken,ledelse/administrativt,over 10.000,850000,Ja,Nei
+46-50,3,26,"in-house, privat sektor",Møre og Romsdal,backend,over 10.000,850000,Nei,Ja
+26-30,3,7,"in-house, privat sektor",Oslo,ingen av disse,under 10,850000,Nei,Ja
+31-35,3,10,frilans / selvstendig næringsdrivende,Innlandet,devops,under 10,850000,Nei,Ja
+41-45,1,18,"in-house, privat sektor",Møre og Romsdal,fullstack,under 10,850000,Nei,Ja
+31-35,0,11,konsulent,Rogaland,fullstack,10 - 50,851000,Nei,Nei
+51-55,,27,"in-house, privat sektor",Oslo,fullstack,over 10.000,854000,Nei,Ja
+26-30,3,5,konsulent,Oslo,fullstack,1.000 - 10.000,855000,Ja,Ja
+31-35,3,9,konsulent,Oslo,fullstack,under 10,855000,Ja,Ja
+46-50,4,21,"in-house, offentlig/kommunal sektor",Oslo,backend,1.000 - 10.000,856250,Nei,Ja
+31-35,4,5,"in-house, privat sektor",Agder,frontend,500 - 1.000,858000,Ja,Nei
+26-30,5,1,"in-house, privat sektor",Trøndelag,data science,1.000 - 10.000,860000,Nei,Ja
+31-35,3,7,konsulent,Oslo,fullstack,1.000 - 10.000,860000,Ja,Ja
+31-35,5,6,konsulent,Oslo,fullstack,1.000 - 10.000,860000,Ja,Nei
+31-35,5,9,konsulent,Rogaland,fullstack,1.000 - 10.000,860000,Ja,Ja
+36-40,5,15,konsulent,Oslo,devops,1.000 - 10.000,860000,Nei,Nei
+41-45,,23,"in-house, offentlig/kommunal sektor",Viken,arkitektur,1.000 - 10.000,860000,Nei,Ja
+46-50,3,22,"in-house, privat sektor",Innlandet,fullstack,1.000 - 10.000,860000,Ja,Ja
+56-60,3,35,"in-house, privat sektor",Oslo,sikkerhet,1.000 - 10.000,860000,Ja,Ja
+36-40,6,10,"in-house, privat sektor",Møre og Romsdal,automatisering,10 - 50,860000,Nei,Ja
+36-40,0,15,konsulent,Innlandet,UX / design,10 - 50,860000,Nei,Nei
+41-45,4,15,"in-house, privat sektor",Vestland,embedded/IOT/maskinvare,10 - 50,860000,Nei,Ja
+26-30,3,8,"in-house, privat sektor",Vestland,frontend,100 - 500,860000,Ja,Ja
+26-30,5,3,konsulent,Oslo,fullstack,100 - 500,860000,Ja,Ja
+26-30,5,3,konsulent,Oslo,ledelse/administrativt,100 - 500,860000,Nei,Nei
+31-35,3,6,"in-house, privat sektor",Oslo,backend,100 - 500,860000,Ja,Nei
+31-35,0,3,"in-house, privat sektor",Oslo,fullstack,100 - 500,860000,Nei,Ja
+31-35,5,5,"in-house, offentlig/kommunal sektor",Oslo,ledelse/administrativt,100 - 500,860000,Ja,Ja
+31-35,5,6,"in-house, offentlig/kommunal sektor",Viken,sikkerhet,100 - 500,860000,Nei,Ja
+36-40,7,10,"in-house, privat sektor",Viken,frontend,50 - 100,860000,Ja,Ja
+36-40,6,15,"in-house, privat sektor",Innlandet,fullstack,500 - 1.000,860000,Ja,Ja
+51-55,2,23,"in-house, offentlig/kommunal sektor",Vestland,devops,500 - 1.000,860000,Nei,Nei
+26-30,3,6,"in-house, privat sektor",Oslo,UX / design,over 10.000,860000,Ja,Nei
+36-40,5,10,"in-house, offentlig/kommunal sektor",Oslo,data science,over 10.000,860000,Nei,Ja
+36-40,,23,konsulent,Agder,programvare,over 10.000,860000,Nei,Nei
+31-35,2,8,"in-house, offentlig/kommunal sektor",Vestland,backend,under 10,860000,Nei,Nei
+41-45,5,26,"in-house, privat sektor",Vestland,embedded/IOT/maskinvare,under 10,860000,Nei,Nei
+26-30,4,8,konsulent,Oslo,fullstack,1.000 - 10.000,862000,Ja,Nei
+26-30,3,5,"in-house, privat sektor",Oslo,fullstack,100 - 500,862000,Ja,Nei
+36-40,8,14,"in-house, offentlig/kommunal sektor",Trøndelag,backend,100 - 500,864000,Nei,Nei
+36-40,3,8,"in-house, privat sektor",Oslo,data science,1.000 - 10.000,865000,Nei,Ja
+36-40,3,14,konsulent,Oslo,app,10 - 50,865000,Nei,Nei
+36-40,0,15,"in-house, privat sektor",Vestfold og Telemark,backend,500 - 1.000,865000,Nei,Ja
+31-35,5,9,konsulent,Oslo,arkitektur,1.000 - 10.000,870000,Nei,Ja
+31-35,5,8,konsulent,Oslo,sikkerhet,1.000 - 10.000,870000,Ja,Nei
+56-60,8,34,"in-house, privat sektor",Oslo,fullstack,1.000 - 10.000,870000,Nei,Ja
+36-40,3,11,"in-house, privat sektor",Agder,backend,10 - 50,870000,Nei,Ja
+26-30,3,4,konsulent,Oslo,fullstack,100 - 500,870000,Ja,Nei
+31-35,5,7,konsulent,Viken,backend,100 - 500,870000,Ja,Ja
+31-35,3,6,konsulent,Rogaland,devops,100 - 500,870000,Ja,Ja
+36-40,5,13,"in-house, privat sektor",Innlandet,backend,100 - 500,870000,Ja,Nei
+41-45,,23,"in-house, privat sektor",Viken,ledelse/administrativt,100 - 500,870000,Nei,Nei
+41-45,0,19,konsulent,Oslo,frontend,50 - 100,870000,Nei,Ja
+46-50,4,27,"in-house, offentlig/kommunal sektor",Oslo,frontend,50 - 100,870000,Nei,Nei
+31-35,3,8,"in-house, privat sektor",Oslo,frontend,500 - 1.000,870000,Nei,Ja
+31-35,5,6,"in-house, offentlig/kommunal sektor",Oslo,UX / design,500 - 1.000,870000,Nei,Ja
+26-30,5,5,konsulent,Oslo,data science,over 10.000,870000,Ja,Ja
+36-40,5,13,"in-house, offentlig/kommunal sektor",Oslo,backend,10 - 50,874192,Nei,Ja
+31-35,4,10,"in-house, privat sektor",Oslo,app,1.000 - 10.000,875000,Nei,Nei
+36-40,4,11,"in-house, offentlig/kommunal sektor",Oslo,fullstack,1.000 - 10.000,875000,Nei,Ja
+41-45,3,20,"in-house, privat sektor",Viken,backend,1.000 - 10.000,875000,Nei,Nei
+26-30,6,4,konsulent,Oslo,fullstack,10 - 50,875000,Ja,Nei
+31-35,4,5,"in-house, privat sektor",Vestland,fullstack,10 - 50,875000,Ja,Nei
+36-40,0,6,"in-house, privat sektor",Oslo,frontend,10 - 50,875000,Ja,Nei
+31-35,5,6,"in-house, privat sektor",Vestfold og Telemark,devops,50 - 100,875000,Nei,Ja
+41-45,5,17,"in-house, privat sektor",Oslo,frontend,500 - 1.000,875000,Nei,Nei
+46-50,3,11,konsulent,Møre og Romsdal,fullstack,over 10.000,875000,Nei,Ja
+31-35,5,6,"in-house, privat sektor",Oslo,data science,under 10,875000,Nei,Ja
+31-35,5,11,"in-house, privat sektor",Oslo,fullstack,under 10,875000,Nei,Nei
+36-40,0,13,"in-house, privat sektor",Oslo,backend,1.000 - 10.000,880000,Nei,Ja
+41-45,4,20,"in-house, offentlig/kommunal sektor",Viken,fullstack,1.000 - 10.000,880000,Nei,Nei
+26-30,2,2,"in-house, privat sektor",Oslo,fullstack,10 - 50,880000,Ja,Ja
+26-30,5,4,konsulent,Oslo,fullstack,10 - 50,880000,Nei,Ja
+36-40,1,10,"in-house, privat sektor",Oslo,frontend,10 - 50,880000,Nei,Ja
+41-45,1,20,"in-house, privat sektor",Oslo,automatisering,10 - 50,880000,Nei,Nei
+46-50,7,19,"in-house, privat sektor",Oslo,fullstack,10 - 50,880000,Nei,Ja
+26-30,3,6,konsulent,Oslo,frontend,100 - 500,880000,Nei,Ja
+31-35,5,4,"in-house, privat sektor",Troms og Finnmark,ledelse/administrativt,100 - 500,880000,Nei,Ja
+31-35,3,6,"in-house, privat sektor",Nordland,sikkerhet,100 - 500,880000,Ja,Ja
+36-40,0,12,"in-house, privat sektor",Oslo,devops,100 - 500,880000,Nei,Nei
+31-35,6,6,"in-house, privat sektor",Vestfold og Telemark,fullstack,50 - 100,880000,Ja,Ja
+46-50,6,24,"in-house, privat sektor",Innlandet,fullstack,50 - 100,880000,Nei,Nei
+31-35,2,11,"in-house, privat sektor",Vestland,backend,over 10.000,880000,Ja,Nei
+31-35,3,5,"in-house, offentlig/kommunal sektor",Agder,frontend,over 10.000,880000,Nei,Ja
+26-30,3,4,konsulent,Oslo,backend,under 10,880000,Ja,Ja
+41-45,4,21,"in-house, privat sektor",Vestland,fullstack,10 - 50,885000,Nei,Ja
+41-45,5,17,"in-house, privat sektor",Trøndelag,ledelse/administrativt,100 - 500,885000,Nei,Nei
+31-35,5,10,"in-house, offentlig/kommunal sektor",Oslo,frontend,over 10.000,888000,Nei,Nei
+31-35,3,4,konsulent,Oslo,fullstack,1.000 - 10.000,890000,Ja,Nei
+36-40,5,13,"in-house, privat sektor",Viken,frontend,1.000 - 10.000,890000,Nei,Nei
+36-40,3,14,"in-house, privat sektor",Oslo,ledelse/administrativt,1.000 - 10.000,890000,Nei,Nei
+31-35,0,4,"in-house, privat sektor",Nordland,ledelse/administrativt,10 - 50,890000,Ja,Ja
+36-40,8,10,konsulent,Møre og Romsdal,data science,10 - 50,890000,Nei,Ja
+41-45,6,15,konsulent,Viken,frontend,10 - 50,890000,Nei,Nei
+26-30,5,3,konsulent,Oslo,fullstack,100 - 500,890000,Ja,Ja
+46-50,3,19,"in-house, offentlig/kommunal sektor",Oslo,backend,100 - 500,890000,Nei,Nei
+31-35,5,5,konsulent,Oslo,fullstack,50 - 100,890000,Ja,Ja
+36-40,3,10,"in-house, privat sektor",Rogaland,ledelse/administrativt,500 - 1.000,890000,Nei,Ja
+36-40,6,19,"in-house, privat sektor",Oslo,arkitektur,1.000 - 10.000,891000,Nei,Nei
+41-45,5,18,"in-house, privat sektor",Viken,automatisering,500 - 1.000,892000,Nei,Nei
+26-30,3,6,konsulent,Rogaland,frontend,1.000 - 10.000,895000,Ja,Ja
+46-50,9,20,"in-house, privat sektor",Vestland,fullstack,10 - 50,895400,Nei,Nei
+21-25,2,5,konsulent,Trøndelag,devops,1.000 - 10.000,900000,Ja,Ja
+21-25,3,5,"in-house, privat sektor",Oslo,frontend,1.000 - 10.000,900000,Ja,Ja
+26-30,5,1,"in-house, privat sektor",Oslo,backend,1.000 - 10.000,900000,Ja,Ja
+31-35,4,15,"in-house, privat sektor",Trøndelag,arkitektur,1.000 - 10.000,900000,Ja,Ja
+31-35,5,5,konsulent,Oslo,arkitektur,1.000 - 10.000,900000,Nei,Nei
+31-35,3,4,konsulent,Oslo,devops,1.000 - 10.000,900000,Ja,Nei
+31-35,5,7,"in-house, privat sektor",utlandet,ledelse/administrativt,1.000 - 10.000,900000,Ja,Ja
+31-35,1,5,"in-house, privat sektor",Oslo,programvare,1.000 - 10.000,900000,Nei,Ja
+36-40,5,12,"in-house, privat sektor",Oslo,arkitektur,1.000 - 10.000,900000,Nei,Nei
+36-40,5,10,konsulent,Trøndelag,fullstack,1.000 - 10.000,900000,Ja,Nei
+36-40,5,10,konsulent,Viken,fullstack,1.000 - 10.000,900000,Ja,Nei
+36-40,3,10,"in-house, privat sektor",Viken,ledelse/administrativt,1.000 - 10.000,900000,Nei,Ja
+41-45,3,18,konsulent,Oslo,programvare,1.000 - 10.000,900000,Ja,Nei
+41-45,1,15,konsulent,Trøndelag,UX / design,1.000 - 10.000,900000,Ja,Ja
+46-50,3,17,"in-house, offentlig/kommunal sektor",Oslo,backend,1.000 - 10.000,900000,Nei,Ja
+26-30,3,4,"in-house, privat sektor",Oslo,frontend,10 - 50,900000,Nei,Ja
+26-30,5,4,konsulent,Oslo,fullstack,10 - 50,900000,Ja,Ja
+26-30,5,5,"in-house, privat sektor",Oslo,fullstack,10 - 50,900000,Nei,Ja
+31-35,3,9,konsulent,Oslo,app,10 - 50,900000,Ja,Ja
+31-35,5,4,konsulent,Oslo,fullstack,10 - 50,900000,Ja,Ja
+31-35,5,3,"in-house, privat sektor",Trøndelag,ledelse/administrativt,10 - 50,900000,Nei,Ja
+31-35,0,6,"in-house, privat sektor",Vestfold og Telemark,ledelse/administrativt,10 - 50,900000,Nei,Nei
+31-35,5,6,konsulent,Vestland,UX / design,10 - 50,900000,Ja,Ja
+36-40,3,11,"in-house, privat sektor",Oslo,backend,10 - 50,900000,Nei,Nei
+36-40,3,14,"in-house, privat sektor",Vestfold og Telemark,fullstack,10 - 50,900000,Nei,Nei
+36-40,0,2,"in-house, privat sektor",Vestfold og Telemark,fullstack,10 - 50,900000,Nei,Ja
+36-40,8,13,"in-house, privat sektor",Oslo,fullstack,10 - 50,900000,Ja,Ja
+36-40,,5,"in-house, privat sektor",Oslo,programvare,10 - 50,900000,Nei,Ja
+36-40,3,16,"in-house, privat sektor",Vestfold og Telemark,programvare,10 - 50,900000,Nei,Ja
+41-45,3,6,"in-house, privat sektor",Oslo,fullstack,10 - 50,900000,Nei,Ja
+51-55,,27,"in-house, privat sektor",Oslo,automatisering,10 - 50,900000,Nei,Ja
+51-55,5,22,"in-house, privat sektor",Oslo,backend,10 - 50,900000,Ja,Ja
+26-30,3,5,konsulent,Oslo,backend,100 - 500,900000,Nei,Ja
+26-30,5,4,konsulent,Oslo,backend,100 - 500,900000,Ja,Nei
+26-30,5,6,konsulent,Oslo,backend,100 - 500,900000,Nei,Ja
+26-30,5,4,konsulent,Rogaland,embedded/IOT/maskinvare,100 - 500,900000,Nei,Ja
+26-30,4,4,konsulent,Oslo,frontend,100 - 500,900000,Nei,Ja
+31-35,5,11,"in-house, privat sektor",Rogaland,fullstack,100 - 500,900000,Nei,Nei
+36-40,4,10,konsulent,Oslo,backend,100 - 500,900000,Ja,Nei
+36-40,1,11,"in-house, privat sektor",Oslo,backend,100 - 500,900000,Nei,Ja
+36-40,7,7,konsulent,Oslo,data science,100 - 500,900000,Ja,Ja
+36-40,5,20,konsulent,Oslo,frontend,100 - 500,900000,Nei,Nei
+36-40,3,15,"in-house, privat sektor",Vestland,fullstack,100 - 500,900000,Ja,Ja
+36-40,3,15,"in-house, privat sektor",Vestland,fullstack,100 - 500,900000,Nei,Ja
+36-40,3,10,"in-house, privat sektor",Rogaland,ledelse/administrativt,100 - 500,900000,Nei,Ja
+36-40,5,14,"in-house, offentlig/kommunal sektor",Oslo,programvare,100 - 500,900000,Nei,Nei
+41-45,3,12,"in-house, offentlig/kommunal sektor",Oslo,sikkerhet,100 - 500,900000,Nei,Ja
+41-45,3,6,"in-house, privat sektor",Oslo,UX / design,100 - 500,900000,Nei,Ja
+46-50,3,21,"in-house, privat sektor",Vestland,backend,100 - 500,900000,Ja,Nei
+46-50,3,24,"in-house, privat sektor",Vestfold og Telemark,databaser,100 - 500,900000,Nei,Ja
+51-55,,26,"in-house, privat sektor",Oslo,arkitektur,100 - 500,900000,Nei,Ja
+26-30,3,6,konsulent,Trøndelag,frontend,50 - 100,900000,Ja,Ja
+26-30,0,8,"in-house, privat sektor",Oslo,sikkerhet,50 - 100,900000,Ja,Ja
+31-35,3,10,"in-house, privat sektor",Oslo,arkitektur,50 - 100,900000,Nei,Ja
+31-35,5,7,konsulent,Oslo,backend,50 - 100,900000,Nei,Ja
+31-35,5,6,konsulent,Trøndelag,frontend,50 - 100,900000,Ja,Ja
+31-35,6,10,"in-house, privat sektor",Troms og Finnmark,fullstack,50 - 100,900000,Ja,Ja
+36-40,10,8,"in-house, privat sektor",Troms og Finnmark,data science,50 - 100,900000,Nei,Nei
+36-40,3,15,"in-house, privat sektor",Oslo,fullstack,50 - 100,900000,Nei,Nei
+41-45,5,19,"in-house, privat sektor",Trøndelag,app,50 - 100,900000,Nei,Nei
+26-30,4,4,"in-house, privat sektor",Oslo,app,500 - 1.000,900000,Ja,Ja
+26-30,5,5,konsulent,Oslo,backend,500 - 1.000,900000,Ja,Ja
+31-35,4,7,"in-house, privat sektor",Oslo,frontend,500 - 1.000,900000,Ja,Nei
+31-35,2,10,"in-house, privat sektor",Rogaland,fullstack,500 - 1.000,900000,Nei,Nei
+36-40,0,11,konsulent,Oslo,data science,500 - 1.000,900000,Nei,Ja
+46-50,0,27,"in-house, privat sektor",Oslo,frontend,500 - 1.000,900000,Nei,Ja
+26-30,9,2,"in-house, privat sektor",Vestland,ingen av disse,over 10.000,900000,Ja,Ja
+31-35,5,8,konsulent,Oslo,backend,over 10.000,900000,Nei,Ja
+31-35,3,7,"in-house, offentlig/kommunal sektor",Oslo,ledelse/administrativt,over 10.000,900000,Nei,Ja
+36-40,6,6,"in-house, privat sektor",Oslo,embedded/IOT/maskinvare,over 10.000,900000,Ja,Ja
+41-45,6,16,"in-house, offentlig/kommunal sektor",Vestland,fullstack,over 10.000,900000,Nei,Nei
+26-30,4,5,"in-house, privat sektor",Vestland,frontend,under 10,900000,Ja,Ja
+31-35,5,5,konsulent,Oslo,frontend,under 10,900000,Nei,Ja
+31-35,3,13,"in-house, privat sektor",Vestland,fullstack,under 10,900000,Nei,Ja
+36-40,4,20,frilans / selvstendig næringsdrivende,Vestland,ingen av disse,under 10,900000,Ja,Ja
+46-50,5,23,"in-house, privat sektor",Vestland,fullstack,10 - 50,901000,Ja,Nei
+46-50,3,12,"in-house, offentlig/kommunal sektor",Oslo,backend,50 - 100,905000,Ja,Ja
+26-30,0,5,"in-house, privat sektor",Oslo,frontend,500 - 1.000,905000,Nei,Ja
+26-30,0,7,"in-house, privat sektor",Nordland,backend,10 - 50,906000,Nei,Ja
+26-30,5,6,"in-house, offentlig/kommunal sektor",Oslo,backend,1.000 - 10.000,910000,Nei,Ja
+31-35,,5,konsulent,Oslo,fullstack,10 - 50,910000,Ja,Ja
+31-35,6,12,"in-house, offentlig/kommunal sektor",Vestfold og Telemark,fullstack,10 - 50,910000,Nei,Ja
+36-40,5,11,"in-house, privat sektor",Oslo,fullstack,10 - 50,910000,Nei,Ja
+41-45,3,16,konsulent,Oslo,arkitektur,10 - 50,910000,Ja,Ja
+26-30,7,9,"in-house, privat sektor",Oslo,automatisering,100 - 500,910000,Nei,Ja
+36-40,,12,"in-house, privat sektor",Oslo,ledelse/administrativt,50 - 100,910000,Nei,Ja
+41-45,3,15,"in-house, privat sektor",Møre og Romsdal,fullstack,over 10.000,910000,Ja,Ja
+36-40,3,4,konsulent,Vestland,testing,10 - 50,910602,Ja,Ja
+41-45,2,23,"in-house, privat sektor",Oslo,data science,100 - 500,911000,Nei,Ja
+31-35,5,5,konsulent,Oslo,backend,100 - 500,915000,Ja,Ja
+31-35,4,11,"in-house, privat sektor",Innlandet,backend,100 - 500,915000,Nei,Ja
+31-35,3,12,"in-house, privat sektor",Trøndelag,UX / design,100 - 500,915000,Ja,Nei
+51-55,3,27,"in-house, privat sektor",Rogaland,backend,100 - 500,915000,Nei,Ja
+36-40,3,10,"in-house, offentlig/kommunal sektor",Oslo,backend,1.000 - 10.000,920000,Nei,Ja
+26-30,5,3,"in-house, privat sektor",Oslo,devops,10 - 50,920000,Nei,Ja
+31-35,2,8,"in-house, privat sektor",Oslo,fullstack,10 - 50,920000,Nei,Ja
+41-45,0,8,konsulent,Oslo,fullstack,10 - 50,920000,Nei,Ja
+51-55,,24,"in-house, privat sektor",Oslo,backend,10 - 50,920000,Nei,Ja
+26-30,5,5,konsulent,Oslo,backend,100 - 500,920000,Nei,Nei
+26-30,3,5,konsulent,Rogaland,fullstack,100 - 500,920000,Nei,Ja
+31-35,9,7,konsulent,Oslo,fullstack,100 - 500,920000,Nei,Ja
+41-45,3,15,"in-house, privat sektor",Oslo,data science,100 - 500,920000,Nei,Ja
+26-30,5,5,konsulent,Oslo,fullstack,500 - 1.000,920000,Nei,Ja
+26-30,5,6,konsulent,Oslo,fullstack,500 - 1.000,920000,Nei,Nei
+31-35,0,5,konsulent,Oslo,fullstack,500 - 1.000,920000,Nei,Ja
+41-45,2,22,"in-house, privat sektor",Vestfold og Telemark,automatisering,over 10.000,920000,Nei,Ja
+41-45,6,16,"in-house, privat sektor",Vestland,arkitektur,1.000 - 10.000,924000,Nei,Ja
+51-55,5,27,"in-house, privat sektor",Innlandet,fullstack,100 - 500,924000,Nei,Nei
+46-50,5,15,"in-house, offentlig/kommunal sektor",Innlandet,fullstack,10 - 50,925000,Nei,Ja
+31-35,5,13,konsulent,Oslo,frontend,over 10.000,925000,Ja,Ja
+36-40,5,13,konsulent,Rogaland,databaser,over 10.000,925000,Ja,Ja
+31-35,2,11,"in-house, privat sektor",Rogaland,fullstack,under 10,925000,Nei,Ja
+36-40,5,15,"in-house, privat sektor",Møre og Romsdal,fullstack,100 - 500,926000,Nei,Ja
+36-40,3,5,"in-house, privat sektor",Oslo,fullstack,1.000 - 10.000,930000,Nei,Nei
+41-45,8,15,"in-house, offentlig/kommunal sektor",Trøndelag,arkitektur,1.000 - 10.000,930000,Nei,Ja
+46-50,6,16,"in-house, privat sektor",Oslo,backend,10 - 50,930000,Nei,Nei
+56-60,2,35,"in-house, privat sektor",Agder,ledelse/administrativt,10 - 50,930000,Nei,Ja
+26-30,3,5,"in-house, privat sektor",Vestfold og Telemark,backend,100 - 500,930000,Nei,Ja
+31-35,5,9,konsulent,Oslo,backend,100 - 500,930000,Nei,Ja
+31-35,5,10,"in-house, offentlig/kommunal sektor",Rogaland,devops,100 - 500,930000,Nei,Ja
+31-35,5,7,konsulent,Oslo,frontend,100 - 500,930000,Ja,Nei
+36-40,3,16,"in-house, privat sektor",Oslo,fullstack,100 - 500,930000,Nei,Ja
+36-40,3,19,"in-house, privat sektor",Oslo,fullstack,100 - 500,930000,Nei,Ja
+36-40,4,15,konsulent,Oslo,UX / design,100 - 500,930000,Nei,Ja
+26-30,5,7,konsulent,Oslo,devops,500 - 1.000,930000,Nei,Ja
+41-45,5,15,"in-house, offentlig/kommunal sektor",Oslo,UX / design,500 - 1.000,930000,Nei,Ja
+31-35,3,7,"in-house, privat sektor",Oslo,frontend,100 - 500,935000,Ja,Ja
+36-40,3,11,"in-house, privat sektor",Oslo,backend,100 - 500,935000,Nei,Ja
+36-40,3,10,"in-house, offentlig/kommunal sektor",Agder,fullstack,over 10.000,935300,Nei,Ja
+31-35,5,6,konsulent,Oslo,fullstack,100 - 500,936000,Nei,Ja
+41-45,4,22,"in-house, privat sektor",Rogaland,arkitektur,under 10,936000,Nei,Ja
+46-50,3,12,"in-house, privat sektor",Oslo,fullstack,100 - 500,937000,Nei,Nei
+46-50,3,18,"in-house, privat sektor",Oslo,fullstack,100 - 500,937000,Nei,Nei
+31-35,,10,konsulent,Viken,backend,500 - 1.000,939000,Ja,Nei
+36-40,4,16,"in-house, privat sektor",Viken,ledelse/administrativt,1.000 - 10.000,940000,Nei,Nei
+41-45,3,24,"in-house, privat sektor",Agder,sikkerhet,1.000 - 10.000,940000,Nei,Nei
+31-35,5,5,konsulent,Oslo,frontend,10 - 50,940000,Nei,Ja
+21-25,1,7,"in-house, privat sektor",utlandet,devops,100 - 500,940000,Nei,Ja
+26-30,3,5,"in-house, privat sektor",Oslo,data science,100 - 500,940000,Nei,Ja
+41-45,3,17,"in-house, privat sektor",Vestland,sikkerhet,500 - 1.000,940000,Ja,Ja
+46-50,5,17,"in-house, privat sektor",Oslo,ledelse/administrativt,10 - 50,945000,Ja,Nei
+36-40,5,14,"in-house, privat sektor",Oslo,fullstack,50 - 100,945000,Nei,Nei
+26-30,2,7,"in-house, privat sektor",Vestland,ledelse/administrativt,under 10,947000,Nei,Ja
+31-35,0,13,"in-house, privat sektor",Rogaland,sikkerhet,1.000 - 10.000,950000,Ja,Ja
+36-40,,10,"in-house, privat sektor",Oslo,backend,1.000 - 10.000,950000,Ja,Nei
+36-40,0,15,"in-house, privat sektor",Rogaland,sikkerhet,1.000 - 10.000,950000,Nei,Nei
+41-45,3,17,konsulent,Oslo,frontend,1.000 - 10.000,950000,Nei,Ja
+41-45,3,13,"in-house, privat sektor",Møre og Romsdal,ingen av disse,1.000 - 10.000,950000,Ja,Ja
+26-30,5,3,konsulent,Oslo,fullstack,10 - 50,950000,Nei,Ja
+31-35,0,4,"in-house, privat sektor",Trøndelag,automatisering,10 - 50,950000,Nei,Ja
+31-35,4,7,konsulent,Vestland,backend,10 - 50,950000,Nei,Ja
+31-35,3,9,"in-house, privat sektor",Vestfold og Telemark,frontend,10 - 50,950000,Nei,Ja
+31-35,5,8,"in-house, privat sektor",Oslo,fullstack,10 - 50,950000,Nei,Ja
+31-35,3,7,"in-house, privat sektor",Oslo,fullstack,10 - 50,950000,Nei,Ja
+31-35,0,14,"in-house, privat sektor",Vestland,ledelse/administrativt,10 - 50,950000,Nei,Ja
+31-35,2,8,konsulent,Oslo,sikkerhet,10 - 50,950000,Ja,Ja
+36-40,0,5,"in-house, privat sektor",Rogaland,frontend,10 - 50,950000,Nei,Ja
+36-40,2,10,"in-house, privat sektor",Agder,ledelse/administrativt,10 - 50,950000,Nei,Nei
+46-50,5,25,"in-house, privat sektor",Rogaland,fullstack,10 - 50,950000,Nei,Ja
+61-65,6,37,"in-house, privat sektor",Nordland,arkitektur,10 - 50,950000,Nei,Ja
+26-30,5,4,konsulent,Oslo,arkitektur,100 - 500,950000,Ja,Nei
+26-30,3,6,konsulent,Agder,backend,100 - 500,950000,Nei,Ja
+26-30,4,6,"in-house, privat sektor",Oslo,devops,100 - 500,950000,Ja,Ja
+26-30,5,5,konsulent,Oslo,devops,100 - 500,950000,Nei,Ja
+26-30,5,3,konsulent,Oslo,frontend,100 - 500,950000,Ja,Ja
+26-30,5,5,konsulent,Oslo,fullstack,100 - 500,950000,Nei,Ja
+31-35,3,10,"in-house, privat sektor",Viken,backend,100 - 500,950000,Ja,Ja
+31-35,3,5,konsulent,Vestland,fullstack,100 - 500,950000,Ja,Ja
+36-40,5,11,"in-house, privat sektor",Oslo,app,100 - 500,950000,Nei,Ja
+36-40,,12,konsulent,Oslo,frontend,100 - 500,950000,Nei,Nei
+36-40,3,9,konsulent,Oslo,ledelse/administrativt,100 - 500,950000,Nei,Nei
+36-40,7,10,"in-house, privat sektor",Oslo,UX / design,100 - 500,950000,Nei,Ja
+41-45,8,23,"in-house, privat sektor",Vestfold og Telemark,backend,100 - 500,950000,Nei,Ja
+46-50,5,15,"in-house, offentlig/kommunal sektor",Oslo,ledelse/administrativt,100 - 500,950000,Nei,Ja
+51-55,5,21,"in-house, privat sektor",Vestfold og Telemark,backend,100 - 500,950000,Ja,Ja
+21-25,3,4,konsulent,Vestland,fullstack,50 - 100,950000,Nei,Ja
+26-30,5,4,"in-house, privat sektor",Vestland,fullstack,50 - 100,950000,Nei,Nei
+31-35,3,8,konsulent,Oslo,app,50 - 100,950000,Nei,Ja
+31-35,3,12,konsulent,Viken,fullstack,50 - 100,950000,Nei,Ja
+36-40,0,12,konsulent,Trøndelag,backend,50 - 100,950000,Ja,Ja
+36-40,3,17,"in-house, privat sektor",Rogaland,backend,50 - 100,950000,Nei,Ja
+46-50,5,25,"in-house, privat sektor",Agder,backend,50 - 100,950000,Nei,Ja
+46-50,3,24,"in-house, privat sektor",Oslo,fullstack,50 - 100,950000,Ja,Nei
+26-30,5,4,"in-house, privat sektor",Oslo,data science,500 - 1.000,950000,Nei,Ja
+26-30,4,6,"in-house, privat sektor",Oslo,frontend,500 - 1.000,950000,Ja,Ja
+31-35,5,8,"in-house, privat sektor",Oslo,arkitektur,500 - 1.000,950000,Nei,Ja
+31-35,5,6,"in-house, offentlig/kommunal sektor",Rogaland,backend,500 - 1.000,950000,Nei,Ja
+31-35,3,7,konsulent,Oslo,fullstack,500 - 1.000,950000,Ja,Ja
+36-40,3,17,"in-house, offentlig/kommunal sektor",Oslo,frontend,500 - 1.000,950000,Nei,Ja
+36-40,5,10,konsulent,Oslo,ledelse/administrativt,500 - 1.000,950000,Ja,Ja
+36-40,3,10,"in-house, privat sektor",Oslo,UX / design,500 - 1.000,950000,Nei,Ja
+41-45,4,6,"in-house, privat sektor",Innlandet,backend,500 - 1.000,950000,Ja,Ja
+46-50,3,26,"in-house, privat sektor",Trøndelag,backend,500 - 1.000,950000,Nei,Ja
+61-65,4,45,"in-house, privat sektor",Vestland,backend,500 - 1.000,950000,Nei,Ja
+26-30,3,3,"in-house, privat sektor",Oslo,backend,over 10.000,950000,Ja,Ja
+26-30,5,2,"in-house, privat sektor",Oslo,backend,over 10.000,950000,Ja,Ja
+26-30,5,6,konsulent,Oslo,ledelse/administrativt,over 10.000,950000,Ja,Ja
+36-40,5,11,konsulent,Rogaland,fullstack,over 10.000,950000,Ja,Ja
+56-60,3,35,"in-house, privat sektor",Troms og Finnmark,data science,over 10.000,950000,Nei,Nei
+31-35,5,6,konsulent,Trøndelag,backend,under 10,950000,Ja,Ja
+36-40,0,10,"in-house, privat sektor",Oslo,frontend,under 10,950000,Ja,Ja
+36-40,2,20,"in-house, privat sektor",Trøndelag,ingen av disse,under 10,950000,Nei,Nei
+46-50,4,25,frilans / selvstendig næringsdrivende,Viken,fullstack,under 10,950000,Nei,Ja
+26-30,5,5,konsulent,Oslo,frontend,100 - 500,953000,Nei,Ja
+36-40,3,10,konsulent,Trøndelag,frontend,50 - 100,954000,Nei,Ja
+31-35,3,4,"in-house, privat sektor",Oslo,fullstack,10 - 50,955000,Nei,Ja
+36-40,4,14,"in-house, offentlig/kommunal sektor",Oslo,backend,500 - 1.000,955000,Nei,Ja
+36-40,5,10,"in-house, privat sektor",Oslo,fullstack,10 - 50,956000,Nei,Ja
+31-35,3,12,konsulent,Oslo,backend,10 - 50,960000,Ja,Ja
+36-40,5,15,"in-house, privat sektor",Trøndelag,backend,10 - 50,960000,Nei,Nei
+36-40,0,15,"in-house, privat sektor",Oslo,embedded/IOT/maskinvare,10 - 50,960000,Ja,Nei
+26-30,6,4,konsulent,Oslo,devops,100 - 500,960000,Ja,Ja
+41-45,5,17,"in-house, privat sektor",Innlandet,backend,100 - 500,960000,Nei,Ja
+31-35,0,16,"in-house, privat sektor",Viken,ledelse/administrativt,50 - 100,960000,Nei,Ja
+41-45,0,23,"in-house, privat sektor",Oslo,ingen av disse,50 - 100,960000,Nei,Ja
+46-50,3,27,"in-house, privat sektor",Innlandet,backend,50 - 100,960000,Nei,Ja
+26-30,3,8,"in-house, privat sektor",Oslo,ledelse/administrativt,500 - 1.000,960000,Nei,Ja
+36-40,,16,"in-house, privat sektor",Oslo,arkitektur,500 - 1.000,960000,Nei,Ja
+26-30,4,7,konsulent,Oslo,backend,50 - 100,961000,Ja,Ja
+51-55,3,24,konsulent,Viken,fullstack,100 - 500,962000,Ja,Ja
+21-25,5,5,konsulent,Oslo,fullstack,100 - 500,965000,Nei,Ja
+31-35,5,5,konsulent,Oslo,backend,1.000 - 10.000,970000,Nei,Nei
+31-35,4,9,"in-house, privat sektor",Oslo,fullstack,1.000 - 10.000,970000,Ja,Nei
+31-35,7,8,konsulent,Oslo,ledelse/administrativt,1.000 - 10.000,970000,Ja,Ja
+41-45,3,23,"in-house, privat sektor",Oslo,fullstack,1.000 - 10.000,970000,Nei,Ja
+41-45,5,17,"in-house, offentlig/kommunal sektor",Oslo,ledelse/administrativt,100 - 500,970000,Nei,Nei
+31-35,3,9,konsulent,Oslo,app,50 - 100,970000,Nei,Ja
+36-40,3,15,"in-house, privat sektor",Vestland,devops,50 - 100,970000,Nei,Ja
+26-30,3,3,"in-house, privat sektor",Oslo,frontend,500 - 1.000,970000,Nei,Ja
+56-60,3,33,"in-house, privat sektor",Trøndelag,fullstack,over 10.000,970000,Ja,Ja
+46-50,6,15,konsulent,Oslo,backend,1.000 - 10.000,975000,Nei,Nei
+31-35,5,6,konsulent,Oslo,ledelse/administrativt,10 - 50,975000,Ja,Ja
+36-40,4,12,"in-house, privat sektor",Vestland,fullstack,10 - 50,975000,Nei,Nei
+31-35,,8,"in-house, privat sektor",Oslo,ledelse/administrativt,100 - 500,975000,Nei,Nei
+31-35,5,3,"in-house, privat sektor",Oslo,sikkerhet,100 - 500,975000,Ja,Ja
+26-30,5,6,konsulent,Oslo,fullstack,500 - 1.000,975000,Nei,Ja
+41-45,5,16,"in-house, privat sektor",Vestland,backend,500 - 1.000,975000,Nei,Ja
+26-30,0,9,"in-house, privat sektor",Innlandet,fullstack,under 10,975000,Nei,Nei
+36-40,3,13,konsulent,Oslo,app,1.000 - 10.000,980000,Ja,Nei
+36-40,3,10,"in-house, privat sektor",Oslo,arkitektur,1.000 - 10.000,980000,Nei,Nei
+51-55,0,36,konsulent,Agder,ingen av disse,1.000 - 10.000,980000,Nei,Ja
+36-40,3,16,konsulent,Trøndelag,fullstack,10 - 50,980000,Ja,Ja
+41-45,5,17,"in-house, privat sektor",Agder,ledelse/administrativt,10 - 50,980000,Ja,Ja
+31-35,5,6,konsulent,Oslo,backend,100 - 500,980000,Nei,Nei
+31-35,4,10,"in-house, privat sektor",Oslo,frontend,100 - 500,980000,Nei,Nei
+41-45,5,18,"in-house, privat sektor",Trøndelag,backend,100 - 500,980000,Ja,Ja
+46-50,3,23,"in-house, privat sektor",Trøndelag,fullstack,100 - 500,980000,Ja,Ja
+31-35,3,12,"in-house, privat sektor",Oslo,app,50 - 100,980000,Nei,Ja
+31-35,4,7,konsulent,Oslo,fullstack,50 - 100,980000,Nei,Ja
+36-40,3,4,konsulent,Vestland,backend,50 - 100,980000,Nei,Ja
+41-45,,22,"in-house, privat sektor",Troms og Finnmark,programvare,50 - 100,980000,Ja,Nei
+51-55,3,30,"in-house, privat sektor",Oslo,app,50 - 100,980000,Nei,Ja
+46-50,5,25,"in-house, privat sektor",Vestland,backend,50 - 100,985000,Nei,Nei
+36-40,5,5,konsulent,Oslo,backend,500 - 1.000,985000,Nei,Ja
+51-55,5,25,"in-house, offentlig/kommunal sektor",Vestfold og Telemark,frontend,over 10.000,986000,Nei,Ja
+41-45,5,20,"in-house, privat sektor",Oslo,fullstack,under 10,986000,Ja,Nei
+41-45,,15,"in-house, privat sektor",Oslo,data science,500 - 1.000,986500,Nei,Ja
+46-50,5,17,konsulent,Rogaland,ledelse/administrativt,1.000 - 10.000,990000,Nei,Ja
+36-40,3,15,"in-house, privat sektor",Vestland,backend,100 - 500,990000,Ja,Ja
+36-40,4,10,"in-house, privat sektor",Troms og Finnmark,ledelse/administrativt,under 10,990000,Nei,Ja
+36-40,5,11,konsulent,Oslo,backend,1.000 - 10.000,991613,Nei,Ja
+31-35,0,15,"in-house, privat sektor",Oslo,fullstack,100 - 500,992748,Nei,Ja
+31-35,5,7,konsulent,Agder,fullstack,100 - 500,997500,Nei,Ja
+31-35,0,10,"in-house, privat sektor",Oslo,fullstack,100 - 500,998000,Nei,Nei
+26-30,3,5,konsulent,Møre og Romsdal,backend,1.000 - 10.000,1000000,Nei,Ja
+26-30,4,12,konsulent,utlandet,devops,1.000 - 10.000,1000000,Nei,Ja
+26-30,5,7,"in-house, privat sektor",Viken,fullstack,1.000 - 10.000,1000000,Ja,Nei
+31-35,5,8,"in-house, privat sektor",Oslo,fullstack,1.000 - 10.000,1000000,Ja,Ja
+31-35,5,8,konsulent,Møre og Romsdal,fullstack,1.000 - 10.000,1000000,Nei,Ja
+31-35,0,6,konsulent,Rogaland,ledelse/administrativt,1.000 - 10.000,1000000,Ja,Ja
+36-40,3,11,"in-house, privat sektor",Oslo,automatisering,1.000 - 10.000,1000000,Ja,Ja
+36-40,0,15,"in-house, privat sektor",Oslo,devops,1.000 - 10.000,1000000,Ja,Ja
+36-40,0,20,konsulent,Rogaland,fullstack,1.000 - 10.000,1000000,Ja,Ja
+36-40,3,15,konsulent,Trøndelag,fullstack,1.000 - 10.000,1000000,Ja,Ja
+36-40,5,12,konsulent,Oslo,ledelse/administrativt,1.000 - 10.000,1000000,Ja,Ja
+41-45,3,20,"in-house, privat sektor",Vestland,automatisering,1.000 - 10.000,1000000,Ja,Nei
+46-50,,26,"in-house, privat sektor",Oslo,automatisering,1.000 - 10.000,1000000,Ja,Nei
+46-50,2,3,"in-house, privat sektor",Møre og Romsdal,automatisering,1.000 - 10.000,1000000,Ja,Nei
+46-50,3,27,"in-house, privat sektor",Trøndelag,backend,1.000 - 10.000,1000000,Nei,Nei
+46-50,2,25,konsulent,Oslo,fullstack,1.000 - 10.000,1000000,Ja,Ja
+46-50,3,25,"in-house, privat sektor",Oslo,ledelse/administrativt,1.000 - 10.000,1000000,Nei,Ja
+51-55,4,25,"in-house, privat sektor",Oslo,arkitektur,1.000 - 10.000,1000000,Nei,Ja
+51-55,7,28,konsulent,Agder,backend,1.000 - 10.000,1000000,Nei,Ja
+51-55,3,25,konsulent,Vestfold og Telemark,fullstack,1.000 - 10.000,1000000,Ja,Ja
+21-25,3,2,"in-house, privat sektor",Viken,ledelse/administrativt,10 - 50,1000000,Nei,Ja
+26-30,3,5,konsulent,Oslo,fullstack,10 - 50,1000000,Ja,Ja
+26-30,5,8,"in-house, privat sektor",Innlandet,ledelse/administrativt,10 - 50,1000000,Nei,Ja
+31-35,5,6,konsulent,Viken,app,10 - 50,1000000,Ja,Ja
+31-35,3,6,konsulent,Vestland,frontend,10 - 50,1000000,Nei,Ja
+31-35,5,9,konsulent,Oslo,fullstack,10 - 50,1000000,Ja,Ja
+36-40,5,9,konsulent,Oslo,devops,10 - 50,1000000,Nei,Ja
+36-40,5,14,"in-house, privat sektor",Oslo,embedded/IOT/maskinvare,10 - 50,1000000,Nei,Ja
+36-40,3,13,"in-house, privat sektor",Vestfold og Telemark,frontend,10 - 50,1000000,Nei,Ja
+36-40,5,16,"in-house, privat sektor",Viken,ledelse/administrativt,10 - 50,1000000,Nei,Ja
+41-45,0,21,"in-house, privat sektor",Innlandet,fullstack,10 - 50,1000000,Nei,Ja
+41-45,0,8,"in-house, privat sektor",Vestland,ledelse/administrativt,10 - 50,1000000,Nei,Ja
+41-45,3,23,"in-house, privat sektor",Rogaland,ledelse/administrativt,10 - 50,1000000,Nei,Ja
+41-45,3,18,konsulent,Oslo,ledelse/administrativt,10 - 50,1000000,Nei,Nei
+51-55,0,15,"in-house, privat sektor",Viken,fullstack,10 - 50,1000000,Nei,Ja
+21-25,0,6,"in-house, privat sektor",Oslo,ledelse/administrativt,100 - 500,1000000,Nei,Ja
+31-35,5,6,konsulent,Oslo,frontend,100 - 500,1000000,Nei,Ja
+31-35,5,8,"in-house, privat sektor",Rogaland,fullstack,100 - 500,1000000,Ja,Ja
+31-35,4,15,"in-house, privat sektor",Rogaland,fullstack,100 - 500,1000000,Nei,Ja
+31-35,5,7,konsulent,Oslo,sikkerhet,100 - 500,1000000,Ja,Ja
+36-40,0,16,"in-house, offentlig/kommunal sektor",Innlandet,arkitektur,100 - 500,1000000,Nei,Ja
+36-40,5,12,konsulent,Oslo,fullstack,100 - 500,1000000,Nei,Ja
+36-40,5,13,"in-house, privat sektor",Viken,fullstack,100 - 500,1000000,Ja,Nei
+36-40,5,15,"in-house, privat sektor",Trøndelag,ledelse/administrativt,100 - 500,1000000,Ja,Ja
+41-45,6,18,"in-house, privat sektor",Oslo,fullstack,100 - 500,1000000,Nei,Ja
+41-45,0,25,"in-house, privat sektor",Vestfold og Telemark,fullstack,100 - 500,1000000,Nei,Ja
+41-45,0,16,konsulent,Oslo,ingen av disse,100 - 500,1000000,Nei,Ja
+46-50,6,22,"in-house, privat sektor",Oslo,fullstack,100 - 500,1000000,Ja,Nei
+46-50,3,21,konsulent,Oslo,ledelse/administrativt,100 - 500,1000000,Ja,Nei
+46-50,4,15,"in-house, privat sektor",Oslo,ledelse/administrativt,100 - 500,1000000,Nei,Ja
+46-50,5,25,"in-house, privat sektor",Trøndelag,programvare,100 - 500,1000000,Ja,Ja
+26-30,3,6,"in-house, privat sektor",Oslo,app,50 - 100,1000000,Nei,Ja
+26-30,3,8,"in-house, privat sektor",Oslo,app,50 - 100,1000000,Nei,Ja
+26-30,3,3,konsulent,Trøndelag,backend,50 - 100,1000000,Nei,Ja
+26-30,3,6,konsulent,Agder,frontend,50 - 100,1000000,Ja,Ja
+26-30,5,4,konsulent,Vestland,fullstack,50 - 100,1000000,Nei,Ja
+31-35,3,6,konsulent,Oslo,frontend,50 - 100,1000000,Nei,Ja
+31-35,6,10,"in-house, privat sektor",Viken,frontend,50 - 100,1000000,Nei,Ja
+31-35,3,10,"in-house, privat sektor",Oslo,fullstack,50 - 100,1000000,Nei,Ja
+31-35,5,10,"in-house, offentlig/kommunal sektor",Oslo,fullstack,50 - 100,1000000,Nei,Ja
+41-45,4,15,"in-house, privat sektor",Troms og Finnmark,arkitektur,50 - 100,1000000,Ja,Ja
+41-45,5,17,"in-house, privat sektor",Trøndelag,frontend,50 - 100,1000000,Ja,Nei
+46-50,,20,konsulent,Oslo,fullstack,50 - 100,1000000,Nei,Ja
+31-35,5,11,konsulent,Oslo,frontend,500 - 1.000,1000000,Nei,Ja
+31-35,4,10,konsulent,Oslo,testing,500 - 1.000,1000000,Nei,Ja
+36-40,3,16,konsulent,Oslo,arkitektur,500 - 1.000,1000000,Nei,Ja
+36-40,5,10,"in-house, privat sektor",Oslo,automatisering,500 - 1.000,1000000,Ja,Nei
+36-40,5,11,"in-house, privat sektor",Vestland,backend,500 - 1.000,1000000,Nei,Ja
+36-40,5,13,"in-house, privat sektor",Vestland,fullstack,500 - 1.000,1000000,Ja,Ja
+26-30,3,6,konsulent,Vestland,fullstack,over 10.000,1000000,Nei,Ja
+36-40,6,4,"in-house, privat sektor",Oslo,data science,over 10.000,1000000,Ja,Ja
+36-40,,12,"in-house, offentlig/kommunal sektor",Viken,ingen av disse,over 10.000,1000000,Nei,Nei
+41-45,5,20,"in-house, privat sektor",utlandet,arkitektur,over 10.000,1000000,Ja,Ja
+41-45,4,15,"in-house, privat sektor",Troms og Finnmark,frontend,over 10.000,1000000,Ja,Ja
+46-50,,23,"in-house, privat sektor",Oslo,arkitektur,over 10.000,1000000,Nei,Nei
+46-50,4,20,"in-house, privat sektor",Oslo,ledelse/administrativt,over 10.000,1000000,Ja,Ja
+31-35,3,4,"in-house, privat sektor",Oslo,backend,under 10,1000000,Ja,Ja
+31-35,6,8,frilans / selvstendig næringsdrivende,Oslo,fullstack,under 10,1000000,Nei,Ja
+31-35,3,8,"in-house, privat sektor",Oslo,testing,under 10,1000000,Nei,Ja
+36-40,5,8,konsulent,Oslo,backend,under 10,1000000,Ja,Ja
+36-40,0,16,"in-house, privat sektor",Oslo,data science,under 10,1000000,Ja,Ja
+36-40,4,10,frilans / selvstendig næringsdrivende,Oslo,ledelse/administrativt,under 10,1000000,Ja,Ja
+61-65,5,40,konsulent,Oslo,arkitektur,under 10,1000000,Nei,Ja
+31-35,3,12,"in-house, privat sektor",Oslo,backend,50 - 100,1000020,Nei,Ja
+36-40,10,10,konsulent,Oslo,fullstack,50 - 100,1004500,Nei,Ja
+31-35,3,10,konsulent,Vestland,fullstack,10 - 50,1005000,Ja,Nei
+36-40,2,18,"in-house, privat sektor",Rogaland,automatisering,500 - 1.000,1005000,Nei,Ja
+31-35,5,12,"in-house, privat sektor",Vestland,arkitektur,1.000 - 10.000,1008500,Nei,Ja
+51-55,7,18,konsulent,Oslo,backend,1.000 - 10.000,1010000,Ja,Nei
+36-40,3,16,"in-house, privat sektor",Vestland,ledelse/administrativt,10 - 50,1010000,Nei,Ja
+31-35,5,8,"in-house, privat sektor",Oslo,backend,100 - 500,1010000,Ja,Nei
+36-40,3,14,konsulent,Viken,backend,100 - 500,1010000,Ja,Ja
+31-35,3,7,"in-house, privat sektor",Viken,ledelse/administrativt,50 - 100,1010000,Nei,Nei
+31-35,5,10,"in-house, privat sektor",Vestland,app,500 - 1.000,1010000,Nei,Ja
+36-40,3,13,konsulent,Oslo,fullstack,500 - 1.000,1010000,Nei,Ja
+36-40,3,11,"in-house, privat sektor",Oslo,ledelse/administrativt,500 - 1.000,1013000,Nei,Ja
+41-45,3,20,"in-house, privat sektor",Oslo,ledelse/administrativt,500 - 1.000,1016320,Nei,Ja
+36-40,3,12,konsulent,Oslo,fullstack,50 - 100,1016479,Nei,Ja
+46-50,8,18,konsulent,Oslo,backend,1.000 - 10.000,1017000,Nei,Ja
+36-40,5,11,konsulent,Trøndelag,fullstack,1.000 - 10.000,1020000,Ja,Ja
+46-50,1,23,"in-house, privat sektor",Agder,sikkerhet,1.000 - 10.000,1020000,Nei,Ja
+26-30,6,0,konsulent,Oslo,devops,10 - 50,1020000,Ja,Ja
+31-35,5,5,"in-house, privat sektor",Oslo,backend,50 - 100,1020000,Nei,Ja
+41-45,4,20,"in-house, offentlig/kommunal sektor",Vestland,fullstack,50 - 100,1020000,Nei,Ja
+31-35,5,5,konsulent,Trøndelag,fullstack,10 - 50,1021000,Nei,Ja
+46-50,6,23,"in-house, privat sektor",Trøndelag,devops,100 - 500,1022000,Nei,Ja
+26-30,0,12,"in-house, offentlig/kommunal sektor",Oslo,fullstack,over 10.000,1024000,Nei,Ja
+41-45,5,16,"in-house, offentlig/kommunal sektor",Vestland,backend,over 10.000,1024200,Nei,Ja
+36-40,3,7,konsulent,Oslo,fullstack,50 - 100,1025000,Ja,Ja
+41-45,5,18,"in-house, privat sektor",Agder,arkitektur,500 - 1.000,1025000,Nei,Ja
+36-40,3,16,"in-house, privat sektor",Vestland,frontend,1.000 - 10.000,1029500,Nei,Nei
+51-55,4,30,"in-house, offentlig/kommunal sektor",Oslo,devops,1.000 - 10.000,1030000,Nei,Ja
+36-40,0,21,konsulent,Oslo,arkitektur,100 - 500,1030000,Nei,Ja
+51-55,5,22,"in-house, offentlig/kommunal sektor",Viken,fullstack,100 - 500,1030000,Nei,Ja
+36-40,5,12,"in-house, privat sektor",Oslo,backend,50 - 100,1030000,Ja,Ja
+36-40,,15,"in-house, offentlig/kommunal sektor",Rogaland,frontend,500 - 1.000,1030000,Ja,Ja
+31-35,5,10,"in-house, privat sektor",Rogaland,backend,over 10.000,1030000,Ja,Ja
+41-45,9,18,konsulent,Vestland,arkitektur,over 10.000,1030000,Ja,Ja
+31-35,5,10,"in-house, privat sektor",Oslo,fullstack,50 - 100,1034000,Ja,Ja
+36-40,5,10,"in-house, privat sektor",Oslo,devops,1.000 - 10.000,1036000,Nei,Nei
+36-40,9,8,"in-house, privat sektor",Vestland,backend,1.000 - 10.000,1037000,Nei,Ja
+31-35,5,8,konsulent,Oslo,fullstack,1.000 - 10.000,1040000,Nei,Ja
+41-45,2,22,"in-house, privat sektor",Rogaland,ledelse/administrativt,100 - 500,1040000,Nei,Ja
+56-60,7,30,"in-house, privat sektor",Oslo,fullstack,100 - 500,1040000,Nei,Ja
+36-40,0,13,"in-house, privat sektor",Rogaland,fullstack,50 - 100,1040000,Ja,Ja
+41-45,0,22,"in-house, privat sektor",Vestland,ledelse/administrativt,10 - 50,1044000,Nei,Ja
+36-40,5,13,konsulent,Oslo,frontend,50 - 100,1044000,Nei,Ja
+41-45,4,18,konsulent,Viken,backend,1.000 - 10.000,1045000,Ja,Ja
+36-40,5,10,konsulent,Oslo,fullstack,500 - 1.000,1045000,Nei,Ja
+26-30,4,4,"in-house, privat sektor",Oslo,backend,1.000 - 10.000,1050000,Ja,Ja
+31-35,3,5,konsulent,Oslo,frontend,1.000 - 10.000,1050000,Ja,Ja
+46-50,4,21,konsulent,Oslo,ledelse/administrativt,1.000 - 10.000,1050000,Nei,Ja
+31-35,7,6,"in-house, privat sektor",Oslo,ledelse/administrativt,10 - 50,1050000,Nei,Ja
+36-40,5,15,"in-house, privat sektor",Vestland,fullstack,10 - 50,1050000,Ja,Ja
+36-40,3,14,"in-house, privat sektor",Rogaland,ledelse/administrativt,10 - 50,1050000,Nei,Ja
+41-45,5,18,"in-house, privat sektor",Vestland,app,10 - 50,1050000,Nei,Nei
+41-45,5,17,konsulent,Vestland,fullstack,10 - 50,1050000,Ja,Ja
+41-45,4,24,"in-house, privat sektor",Oslo,ledelse/administrativt,10 - 50,1050000,Nei,Ja
+51-55,2,26,"in-house, privat sektor",Oslo,databaser,10 - 50,1050000,Nei,Ja
+31-35,5,12,konsulent,Rogaland,fullstack,100 - 500,1050000,Nei,Ja
+36-40,3,14,konsulent,Oslo,arkitektur,100 - 500,1050000,Nei,Ja
+36-40,3,12,"in-house, privat sektor",Oslo,backend,100 - 500,1050000,Nei,Ja
+36-40,2,15,konsulent,Viken,devops,100 - 500,1050000,Ja,Ja
+36-40,,10,konsulent,Oslo,fullstack,100 - 500,1050000,Ja,Ja
+41-45,5,19,"in-house, privat sektor",Oslo,devops,100 - 500,1050000,Nei,Ja
+41-45,5,19,"in-house, privat sektor",Agder,devops,100 - 500,1050000,Nei,Nei
+46-50,3,23,konsulent,Oslo,fullstack,100 - 500,1050000,Ja,Ja
+51-55,3,29,konsulent,Oslo,frontend,100 - 500,1050000,Nei,Nei
+51-55,7,25,konsulent,Oslo,ledelse/administrativt,100 - 500,1050000,Ja,Nei
+31-35,3,11,konsulent,Oslo,backend,50 - 100,1050000,Ja,Nei
+31-35,3,8,konsulent,Oslo,frontend,50 - 100,1050000,Ja,Ja
+51-55,5,30,"in-house, privat sektor",Rogaland,arkitektur,50 - 100,1050000,Ja,Nei
+31-35,5,8,konsulent,Oslo,fullstack,500 - 1.000,1050000,Nei,Ja
+31-35,3,11,"in-house, privat sektor",Oslo,fullstack,500 - 1.000,1050000,Ja,Ja
+36-40,3,15,konsulent,Oslo,backend,500 - 1.000,1050000,Nei,Ja
+46-50,,20,"in-house, offentlig/kommunal sektor",Trøndelag,ingen av disse,over 10.000,1050000,Nei,Ja
+51-55,0,30,"in-house, privat sektor",Oslo,devops,over 10.000,1050000,Nei,Ja
+51-55,,25,frilans / selvstendig næringsdrivende,Rogaland,arkitektur,under 10,1050000,Ja,Ja
+41-45,3,19,"in-house, privat sektor",Vestland,backend,500 - 1.000,1056000,Nei,Ja
+36-40,5,11,konsulent,Innlandet,frontend,10 - 50,1060000,Nei,Ja
+41-45,5,15,konsulent,Oslo,backend,100 - 500,1060000,Ja,Ja
+41-45,5,20,"in-house, privat sektor",Oslo,backend,50 - 100,1060000,Nei,Nei
+41-45,5,17,"in-house, privat sektor",Viken,fullstack,over 10.000,1060000,Ja,Ja
+31-35,3,7,konsulent,Oslo,devops,500 - 1.000,1065000,Ja,Nei
+31-35,7,7,konsulent,Trøndelag,fullstack,500 - 1.000,1065000,Ja,Ja
+31-35,3,12,"in-house, privat sektor",Vestland,app,10 - 50,1070000,Nei,Ja
+36-40,3,20,"in-house, offentlig/kommunal sektor",Oslo,fullstack,100 - 500,1070000,Nei,Ja
+31-35,3,9,konsulent,Oslo,arkitektur,1.000 - 10.000,1074000,Nei,Ja
+46-50,5,22,"in-house, privat sektor",Trøndelag,devops,100 - 500,1074500,Nei,Ja
+31-35,3,11,konsulent,Oslo,fullstack,50 - 100,1075000,Nei,Ja
+26-30,5,1,konsulent,Vestland,app,50 - 100,1080000,Nei,Ja
+26-30,3,6,"in-house, privat sektor",Oslo,fullstack,500 - 1.000,1080000,Nei,Nei
+31-35,3,13,"in-house, privat sektor",Troms og Finnmark,fullstack,10 - 50,1090000,Ja,Ja
+21-25,4,8,"in-house, privat sektor",Vestland,ingen av disse,1.000 - 10.000,1100000,Nei,Ja
+26-30,6,2,"in-house, privat sektor",Oslo,devops,1.000 - 10.000,1100000,Ja,Nei
+26-30,3,4,"in-house, privat sektor",Oslo,frontend,1.000 - 10.000,1100000,Ja,Ja
+36-40,5,15,"in-house, privat sektor",Nordland,arkitektur,1.000 - 10.000,1100000,Ja,Ja
+36-40,3,7,"in-house, privat sektor",Oslo,backend,1.000 - 10.000,1100000,Ja,Ja
+46-50,3,20,"in-house, privat sektor",Vestland,arkitektur,1.000 - 10.000,1100000,Nei,Nei
+46-50,6,18,konsulent,Oslo,backend,1.000 - 10.000,1100000,Ja,Nei
+46-50,3,25,"in-house, privat sektor",Rogaland,fullstack,1.000 - 10.000,1100000,Ja,Ja
+46-50,5,15,"in-house, privat sektor",Oslo,ledelse/administrativt,1.000 - 10.000,1100000,Ja,Ja
+46-50,4,24,konsulent,Møre og Romsdal,sikkerhet,1.000 - 10.000,1100000,Ja,Ja
+51-55,3,33,"in-house, privat sektor",Møre og Romsdal,arkitektur,1.000 - 10.000,1100000,Nei,Ja
+56-60,6,20,"in-house, privat sektor",Oslo,arkitektur,1.000 - 10.000,1100000,Nei,Ja
+61-65,4,38,"in-house, privat sektor",Oslo,automatisering,1.000 - 10.000,1100000,Nei,Ja
+26-30,3,4,konsulent,Vestland,backend,10 - 50,1100000,Nei,Ja
+26-30,3,8,konsulent,Oslo,backend,10 - 50,1100000,Nei,Ja
+26-30,5,3,konsulent,Oslo,frontend,10 - 50,1100000,Nei,Ja
+26-30,0,5,konsulent,Oslo,frontend,10 - 50,1100000,Nei,Ja
+26-30,5,3,konsulent,Trøndelag,fullstack,10 - 50,1100000,Ja,Ja
+31-35,5,8,"in-house, privat sektor",Oslo,arkitektur,10 - 50,1100000,Ja,Nei
+31-35,3,10,"in-house, privat sektor",Oslo,embedded/IOT/maskinvare,10 - 50,1100000,Nei,Ja
+31-35,5,9,"in-house, privat sektor",Oslo,fullstack,10 - 50,1100000,Ja,Ja
+36-40,2,19,konsulent,Vestland,devops,10 - 50,1100000,Nei,Ja
+36-40,3,19,"in-house, privat sektor",Oslo,fullstack,10 - 50,1100000,Nei,Ja
+41-45,0,10,konsulent,Oslo,arkitektur,10 - 50,1100000,Ja,Ja
+41-45,4,14,"in-house, privat sektor",Oslo,frontend,10 - 50,1100000,Nei,Ja
+41-45,7,15,"in-house, privat sektor",Vestland,fullstack,10 - 50,1100000,Ja,Ja
+46-50,4,24,"in-house, privat sektor",Vestfold og Telemark,fullstack,10 - 50,1100000,Nei,Ja
+46-50,5,28,"in-house, privat sektor",Oslo,ledelse/administrativt,10 - 50,1100000,Ja,Nei
+51-55,4,28,konsulent,Oslo,arkitektur,10 - 50,1100000,Ja,Ja
+51-55,5,25,"in-house, privat sektor",Rogaland,backend,10 - 50,1100000,Nei,Ja
+61-65,2,39,"in-house, privat sektor",Oslo,fullstack,10 - 50,1100000,Nei,Ja
+26-30,3,5,konsulent,Oslo,backend,100 - 500,1100000,Ja,Ja
+26-30,5,5,konsulent,Rogaland,frontend,100 - 500,1100000,Nei,Ja
+26-30,5,4,konsulent,Vestland,frontend,100 - 500,1100000,Nei,Ja
+31-35,5,7,konsulent,Oslo,backend,100 - 500,1100000,Nei,Ja
+31-35,5,5,konsulent,Oslo,backend,100 - 500,1100000,Nei,Ja
+31-35,5,8,konsulent,Vestland,fullstack,100 - 500,1100000,Ja,Ja
+31-35,0,14,"in-house, privat sektor",Oslo,ledelse/administrativt,100 - 500,1100000,Nei,Ja
+36-40,3,15,konsulent,Oslo,arkitektur,100 - 500,1100000,Nei,Ja
+36-40,5,9,konsulent,Oslo,backend,100 - 500,1100000,Nei,Ja
+36-40,0,7,konsulent,Vestfold og Telemark,fullstack,100 - 500,1100000,Ja,Ja
+41-45,5,18,"in-house, privat sektor",Oslo,backend,100 - 500,1100000,Nei,Ja
+41-45,6,18,konsulent,Oslo,fullstack,100 - 500,1100000,Nei,Nei
+41-45,4,20,"in-house, privat sektor",Oslo,ledelse/administrativt,100 - 500,1100000,Nei,Ja
+46-50,3,26,"in-house, offentlig/kommunal sektor",Oslo,frontend,100 - 500,1100000,Nei,Ja
+46-50,6,25,konsulent,Oslo,frontend,100 - 500,1100000,Nei,Ja
+26-30,3,2,konsulent,Vestland,fullstack,50 - 100,1100000,Nei,Ja
+31-35,3,8,konsulent,Vestland,app,50 - 100,1100000,Ja,Ja
+31-35,3,5,konsulent,Oslo,backend,50 - 100,1100000,Nei,Nei
+31-35,3,6,konsulent,Trøndelag,backend,50 - 100,1100000,Ja,Ja
+31-35,5,7,"in-house, privat sektor",Oslo,data science,50 - 100,1100000,Nei,Nei
+36-40,3,11,konsulent,Oslo,devops,50 - 100,1100000,Ja,Ja
+36-40,3,12,konsulent,Oslo,frontend,50 - 100,1100000,Ja,Ja
+36-40,0,10,konsulent,Oslo,testing,50 - 100,1100000,Ja,Nei
+46-50,6,20,"in-house, privat sektor",Oslo,programvare,50 - 100,1100000,Nei,Nei
+31-35,5,6,konsulent,Rogaland,fullstack,500 - 1.000,1100000,Nei,Ja
+31-35,3,8,konsulent,Vestland,fullstack,500 - 1.000,1100000,Nei,Ja
+36-40,3,15,"in-house, privat sektor",Viken,arkitektur,500 - 1.000,1100000,Ja,Ja
+36-40,0,20,konsulent,Trøndelag,devops,500 - 1.000,1100000,Nei,Ja
+36-40,3,14,"in-house, privat sektor",Vestland,ledelse/administrativt,500 - 1.000,1100000,Nei,Nei
+36-40,5,16,"in-house, privat sektor",Oslo,sikkerhet,500 - 1.000,1100000,Nei,Ja
+41-45,4,15,"in-house, privat sektor",Oslo,ledelse/administrativt,500 - 1.000,1100000,Nei,Ja
+41-45,3,18,"in-house, privat sektor",Agder,ledelse/administrativt,500 - 1.000,1100000,Nei,Ja
+46-50,3,27,"in-house, offentlig/kommunal sektor",Møre og Romsdal,arkitektur,500 - 1.000,1100000,Nei,Ja
+31-35,,5,"in-house, privat sektor",Oslo,programvare,over 10.000,1100000,Ja,Ja
+46-50,5,24,konsulent,Trøndelag,ledelse/administrativt,over 10.000,1100000,Nei,Nei
+56-60,5,41,"in-house, privat sektor",Trøndelag,fullstack,over 10.000,1100000,Ja,Ja
+26-30,3,4,konsulent,Oslo,fullstack,under 10,1100000,Nei,Ja
+36-40,5,13,konsulent,Oslo,backend,under 10,1100000,Ja,Ja
+36-40,3,16,frilans / selvstendig næringsdrivende,Viken,fullstack,under 10,1100000,Nei,Ja
+41-45,5,18,"in-house, privat sektor",Oslo,fullstack,under 10,1100000,Nei,Nei
+36-40,5,12,konsulent,Oslo,fullstack,500 - 1.000,1110000,Nei,Ja
+36-40,5,13,"in-house, privat sektor",Trøndelag,fullstack,100 - 500,1119116,Nei,Ja
+31-35,5,8,konsulent,Oslo,frontend,100 - 500,1125000,Nei,Ja
+36-40,5,18,konsulent,Viken,fullstack,1.000 - 10.000,1127000,Ja,Nei
+51-55,3,42,"in-house, privat sektor",Møre og Romsdal,backend,10 - 50,1130000,Nei,Nei
+36-40,9,12,"in-house, privat sektor",Oslo,ledelse/administrativt,100 - 500,1130000,Nei,Ja
+36-40,3,16,"in-house, privat sektor",Oslo,devops,over 10.000,1130000,Nei,Ja
+36-40,10,8,"in-house, privat sektor",Rogaland,fullstack,over 10.000,1130000,Ja,Ja
+46-50,5,22,konsulent,Vestland,backend,50 - 100,1136000,Ja,Ja
+46-50,5,15,konsulent,Oslo,UX / design,100 - 500,1140000,Nei,Nei
+46-50,4,25,konsulent,Trøndelag,fullstack,1.000 - 10.000,1150000,Ja,Ja
+26-30,3,8,"in-house, privat sektor",Oslo,frontend,10 - 50,1150000,Nei,Ja
+41-45,3,15,konsulent,Oslo,frontend,10 - 50,1150000,Ja,Ja
+46-50,0,23,konsulent,Oslo,arkitektur,10 - 50,1150000,Ja,Nei
+26-30,3,5,konsulent,Oslo,backend,100 - 500,1150000,Nei,Ja
+31-35,5,8,konsulent,Oslo,backend,100 - 500,1150000,Ja,Nei
+31-35,5,9,konsulent,Oslo,frontend,100 - 500,1150000,Nei,Ja
+36-40,5,14,"in-house, privat sektor",Oslo,arkitektur,100 - 500,1150000,Ja,Nei
+41-45,6,16,"in-house, privat sektor",Oslo,backend,100 - 500,1150000,Ja,Nei
+41-45,3,3,frilans / selvstendig næringsdrivende,Rogaland,data science,100 - 500,1150000,Ja,Ja
+41-45,5,15,"in-house, privat sektor",Oslo,sikkerhet,100 - 500,1150000,Nei,Ja
+46-50,3,21,"in-house, privat sektor",Oslo,ledelse/administrativt,100 - 500,1150000,Ja,Ja
+51-55,3,30,konsulent,Rogaland,automatisering,100 - 500,1150000,Ja,Ja
+31-35,5,9,"in-house, privat sektor",Oslo,fullstack,50 - 100,1150000,Ja,Ja
+56-60,4,25,"in-house, privat sektor",Oslo,automatisering,over 10.000,1150000,Ja,Nei
+26-30,3,4,"in-house, privat sektor",utlandet,fullstack,100 - 500,1155000,Nei,Ja
+36-40,5,6,konsulent,Oslo,backend,100 - 500,1155000,Nei,Ja
+36-40,6,9,konsulent,Oslo,backend,50 - 100,1155000,Ja,Ja
+51-55,0,24,"in-house, privat sektor",Oslo,fullstack,under 10,1160000,Nei,Ja
+26-30,0,10,"in-house, privat sektor",Viken,ledelse/administrativt,1.000 - 10.000,1175000,Nei,Ja
+36-40,3,22,"in-house, privat sektor",Oslo,sikkerhet,100 - 500,1175000,Nei,Ja
+41-45,3,14,konsulent,Oslo,backend,10 - 50,1180000,Ja,Ja
+31-35,5,8,konsulent,Oslo,sikkerhet,1.000 - 10.000,1200000,Nei,Ja
+36-40,2,20,konsulent,Møre og Romsdal,arkitektur,1.000 - 10.000,1200000,Nei,Ja
+36-40,3,16,konsulent,Vestland,devops,1.000 - 10.000,1200000,Ja,Ja
+41-45,7,12,konsulent,Oslo,sikkerhet,1.000 - 10.000,1200000,Ja,Nei
+46-50,3,24,"in-house, privat sektor",Oslo,backend,1.000 - 10.000,1200000,Ja,Ja
+46-50,3,29,"in-house, offentlig/kommunal sektor",Nordland,ingen av disse,1.000 - 10.000,1200000,Nei,Ja
+46-50,6,18,konsulent,Rogaland,ledelse/administrativt,1.000 - 10.000,1200000,Nei,Nei
+51-55,5,29,"in-house, privat sektor",Oslo,arkitektur,1.000 - 10.000,1200000,Nei,Ja
+51-55,3,30,"in-house, privat sektor",Oslo,frontend,1.000 - 10.000,1200000,Ja,Ja
+26-30,3,7,"in-house, privat sektor",Viken,automatisering,10 - 50,1200000,Nei,Ja
+26-30,5,2,konsulent,Oslo,backend,10 - 50,1200000,Nei,Ja
+26-30,5,3,konsulent,Oslo,fullstack,10 - 50,1200000,Ja,Ja
+31-35,3,10,konsulent,Viken,app,10 - 50,1200000,Ja,Ja
+31-35,5,6,konsulent,Trøndelag,arkitektur,10 - 50,1200000,Ja,Ja
+31-35,3,10,konsulent,Oslo,backend,10 - 50,1200000,Ja,Ja
+31-35,5,9,konsulent,Oslo,backend,10 - 50,1200000,Nei,Ja
+31-35,5,12,konsulent,Oslo,fullstack,10 - 50,1200000,Ja,Ja
+31-35,0,3,"in-house, privat sektor",Oslo,testing,10 - 50,1200000,Ja,Ja
+36-40,0,9,"in-house, privat sektor",Oslo,devops,10 - 50,1200000,Nei,Nei
+36-40,3,20,"in-house, privat sektor",Trøndelag,embedded/IOT/maskinvare,10 - 50,1200000,Nei,Ja
+36-40,3,8,konsulent,Oslo,frontend,10 - 50,1200000,Ja,Ja
+36-40,5,11,"in-house, privat sektor",Oslo,fullstack,10 - 50,1200000,Ja,Ja
+36-40,2,13,"in-house, privat sektor",Møre og Romsdal,fullstack,10 - 50,1200000,Ja,Ja
+41-45,5,20,"in-house, privat sektor",Oslo,backend,10 - 50,1200000,Ja,Ja
+41-45,5,17,"in-house, privat sektor",Oslo,fullstack,10 - 50,1200000,Nei,Ja
+41-45,3,15,konsulent,Trøndelag,fullstack,10 - 50,1200000,Ja,Nei
+41-45,3,18,"in-house, privat sektor",Oslo,fullstack,10 - 50,1200000,Nei,Ja
+41-45,1,14,konsulent,Oslo,ledelse/administrativt,10 - 50,1200000,Ja,Ja
+46-50,5,21,"in-house, privat sektor",Møre og Romsdal,ledelse/administrativt,10 - 50,1200000,Nei,Ja
+26-30,5,4,konsulent,Oslo,frontend,100 - 500,1200000,Nei,Ja
+31-35,5,10,konsulent,Oslo,backend,100 - 500,1200000,Ja,Ja
+31-35,0,10,konsulent,Rogaland,fullstack,100 - 500,1200000,Nei,Ja
+31-35,4,5,konsulent,Vestfold og Telemark,fullstack,100 - 500,1200000,Ja,Ja
+31-35,5,7,konsulent,Vestland,fullstack,100 - 500,1200000,Nei,Ja
+36-40,1,15,konsulent,Oslo,sikkerhet,100 - 500,1200000,Ja,Ja
+41-45,3,23,konsulent,Rogaland,fullstack,100 - 500,1200000,Nei,Ja
+51-55,5,26,"in-house, privat sektor",Viken,embedded/IOT/maskinvare,100 - 500,1200000,Ja,Nei
+51-55,5,33,"in-house, privat sektor",Trøndelag,embedded/IOT/maskinvare,100 - 500,1200000,Nei,Ja
+51-55,0,25,konsulent,Oslo,frontend,100 - 500,1200000,Ja,Ja
+56-60,4,35,"in-house, privat sektor",Oslo,ledelse/administrativt,100 - 500,1200000,Ja,Ja
+26-30,3,4,konsulent,Oslo,frontend,50 - 100,1200000,Ja,Ja
+26-30,5,4,konsulent,Vestland,fullstack,50 - 100,1200000,Nei,Nei
+31-35,0,15,"in-house, privat sektor",Rogaland,fullstack,50 - 100,1200000,Nei,Ja
+31-35,3,10,konsulent,Oslo,fullstack,50 - 100,1200000,Ja,Nei
+31-35,5,11,"in-house, privat sektor",Oslo,ledelse/administrativt,50 - 100,1200000,Nei,Ja
+31-35,5,5,"in-house, privat sektor",Oslo,ledelse/administrativt,50 - 100,1200000,Ja,Ja
+36-40,3,12,konsulent,Rogaland,fullstack,50 - 100,1200000,Nei,Ja
+46-50,4,24,"in-house, privat sektor",Viken,arkitektur,50 - 100,1200000,Nei,Ja
+46-50,10,13,konsulent,Oslo,frontend,50 - 100,1200000,Ja,Ja
+51-55,,26,konsulent,Oslo,backend,50 - 100,1200000,Nei,Ja
+26-30,5,2,konsulent,Oslo,fullstack,500 - 1.000,1200000,Nei,Ja
+31-35,,11,konsulent,Agder,backend,500 - 1.000,1200000,Nei,Ja
+51-55,3,33,"in-house, privat sektor",Oslo,programvare,500 - 1.000,1200000,Nei,Ja
+46-50,6,25,"in-house, privat sektor",Viken,fullstack,over 10.000,1200000,Ja,Nei
+26-30,4,3,konsulent,Oslo,fullstack,under 10,1200000,Nei,Ja
+31-35,3,7,frilans / selvstendig næringsdrivende,Oslo,fullstack,under 10,1200000,Ja,Nei
+31-35,5,13,"in-house, privat sektor",Oslo,ledelse/administrativt,under 10,1200000,Nei,Ja
+41-45,5,18,"in-house, privat sektor",Agder,backend,under 10,1200000,Nei,Ja
+41-45,3,23,"in-house, privat sektor",Viken,fullstack,under 10,1200000,Nei,Ja
+51-55,,25,frilans / selvstendig næringsdrivende,Oslo,fullstack,under 10,1200000,Nei,Ja
+26-30,5,5,"in-house, privat sektor",Oslo,fullstack,10 - 50,1210000,Nei,Ja
+36-40,4,15,"in-house, privat sektor",Viken,fullstack,100 - 500,1220000,Ja,Ja
+46-50,2,10,"in-house, privat sektor",utlandet,devops,50 - 100,1220000,Nei,Ja
+31-35,3,12,"in-house, privat sektor",Rogaland,fullstack,under 10,1230000,Ja,Ja
+31-35,2,12,"in-house, privat sektor",utlandet,fullstack,100 - 500,1248000,Nei,Ja
+51-55,5,26,"in-house, privat sektor",Oslo,arkitektur,1.000 - 10.000,1250000,Nei,Ja
+26-30,0,10,konsulent,Agder,programvare,10 - 50,1250000,Nei,Ja
+31-35,3,11,konsulent,Oslo,backend,10 - 50,1250000,Ja,Ja
+31-35,3,10,konsulent,Oslo,testing,10 - 50,1250000,Ja,Nei
+36-40,3,5,"in-house, privat sektor",Viken,ledelse/administrativt,10 - 50,1250000,Ja,Ja
+26-30,3,4,konsulent,Trøndelag,frontend,100 - 500,1250000,Nei,Ja
+26-30,3,6,konsulent,Vestland,fullstack,100 - 500,1250000,Nei,Ja
+31-35,3,6,konsulent,Oslo,frontend,100 - 500,1250000,Ja,Ja
+31-35,2,15,"in-house, privat sektor",Oslo,ledelse/administrativt,100 - 500,1250000,Ja,Ja
+36-40,3,13,konsulent,Rogaland,backend,100 - 500,1250000,Nei,Ja
+36-40,5,14,"in-house, privat sektor",Oslo,ledelse/administrativt,100 - 500,1250000,Ja,Ja
+41-45,,23,konsulent,Viken,arkitektur,100 - 500,1250000,Ja,Nei
+41-45,3,18,konsulent,Innlandet,arkitektur,100 - 500,1250000,Ja,Ja
+41-45,9,17,konsulent,Oslo,arkitektur,100 - 500,1250000,Ja,Ja
+41-45,9,15,"in-house, privat sektor",Oslo,ledelse/administrativt,100 - 500,1250000,Nei,Ja
+46-50,,22,konsulent,Oslo,backend,100 - 500,1250000,Nei,Ja
+46-50,2,25,"in-house, privat sektor",Oslo,fullstack,100 - 500,1250000,Ja,Nei
+36-40,5,11,konsulent,Vestland,backend,50 - 100,1250000,Nei,Ja
+36-40,4,12,konsulent,Oslo,ledelse/administrativt,50 - 100,1250000,Ja,Ja
+41-45,5,20,konsulent,Oslo,backend,50 - 100,1250000,Ja,Ja
+46-50,5,25,"in-house, privat sektor",Oslo,frontend,50 - 100,1250000,Ja,Nei
+41-45,7,17,konsulent,Trøndelag,sikkerhet,over 10.000,1250000,Ja,Ja
+41-45,3,18,konsulent,Vestland,fullstack,10 - 50,1255000,Nei,Ja
+36-40,5,16,"in-house, privat sektor",Oslo,ledelse/administrativt,500 - 1.000,1258000,Nei,Ja
+31-35,5,10,"in-house, privat sektor",Oslo,data science,over 10.000,1260000,Ja,Ja
+46-50,5,26,"in-house, privat sektor",Viken,arkitektur,1.000 - 10.000,1270000,Ja,Ja
+31-35,3,12,konsulent,Oslo,ledelse/administrativt,10 - 50,1287405,Ja,Ja
+46-50,5,18,konsulent,Oslo,arkitektur,over 10.000,1290000,Ja,Ja
+26-30,3,4,konsulent,Oslo,fullstack,under 10,1290000,Nei,Ja
+36-40,6,17,"in-house, privat sektor",Oslo,automatisering,1.000 - 10.000,1300000,Nei,Nei
+41-45,1,23,konsulent,Oslo,databaser,1.000 - 10.000,1300000,Nei,Ja
+41-45,0,20,"in-house, privat sektor",Viken,ledelse/administrativt,1.000 - 10.000,1300000,Ja,Ja
+41-45,5,18,"in-house, privat sektor",Trøndelag,programvare,1.000 - 10.000,1300000,Ja,Ja
+46-50,,25,"in-house, privat sektor",Møre og Romsdal,arkitektur,1.000 - 10.000,1300000,Ja,Ja
+46-50,5,26,"in-house, offentlig/kommunal sektor",Oslo,devops,1.000 - 10.000,1300000,Ja,Ja
+51-55,4,28,konsulent,Oslo,arkitektur,1.000 - 10.000,1300000,Ja,Ja
+51-55,,28,konsulent,Rogaland,ledelse/administrativt,1.000 - 10.000,1300000,Nei,Ja
+61-65,3,41,konsulent,Oslo,databaser,1.000 - 10.000,1300000,Ja,Ja
+31-35,3,12,konsulent,Oslo,arkitektur,10 - 50,1300000,Ja,Ja
+31-35,0,12,"in-house, privat sektor",Oslo,ledelse/administrativt,10 - 50,1300000,Nei,Ja
+36-40,3,12,konsulent,Oslo,backend,10 - 50,1300000,Nei,Ja
+36-40,5,15,konsulent,Oslo,backend,10 - 50,1300000,Nei,Ja
+36-40,3,14,konsulent,Oslo,frontend,10 - 50,1300000,Nei,Ja
+36-40,7,14,konsulent,Oslo,fullstack,10 - 50,1300000,Ja,Ja
+36-40,5,14,konsulent,Oslo,fullstack,10 - 50,1300000,Nei,Ja
+36-40,5,18,"in-house, privat sektor",Oslo,fullstack,10 - 50,1300000,Nei,Ja
+36-40,3,15,"in-house, privat sektor",Vestland,fullstack,10 - 50,1300000,Nei,Ja
+41-45,4,16,konsulent,Møre og Romsdal,backend,10 - 50,1300000,Ja,Ja
+41-45,5,16,konsulent,Oslo,fullstack,10 - 50,1300000,Nei,Ja
+46-50,5,25,"in-house, privat sektor",Viken,fullstack,10 - 50,1300000,Ja,Ja
+51-55,8,26,konsulent,Oslo,fullstack,10 - 50,1300000,Nei,Ja
+26-30,3,3,konsulent,Vestfold og Telemark,ingen av disse,100 - 500,1300000,Ja,Ja
+31-35,5,9,konsulent,Oslo,backend,100 - 500,1300000,Ja,Ja
+36-40,3,16,"in-house, privat sektor",Oslo,arkitektur,100 - 500,1300000,Ja,Ja
+36-40,5,16,konsulent,Trøndelag,arkitektur,100 - 500,1300000,Nei,Ja
+36-40,3,10,konsulent,Oslo,backend,100 - 500,1300000,Ja,Ja
+36-40,5,11,konsulent,Oslo,backend,100 - 500,1300000,Nei,Ja
+36-40,5,19,konsulent,Viken,backend,100 - 500,1300000,Ja,Ja
+36-40,3,16,konsulent,Oslo,frontend,100 - 500,1300000,Ja,Nei
+41-45,6,16,konsulent,Oslo,backend,100 - 500,1300000,Nei,Ja
+41-45,,17,konsulent,Oslo,backend,100 - 500,1300000,Nei,Ja
+46-50,8,23,"in-house, offentlig/kommunal sektor",Oslo,arkitektur,100 - 500,1300000,Nei,Ja
+46-50,7,23,konsulent,Vestland,backend,100 - 500,1300000,Nei,Ja
+46-50,3,25,"in-house, privat sektor",Agder,ledelse/administrativt,100 - 500,1300000,Nei,Nei
+26-30,4,6,konsulent,Oslo,frontend,50 - 100,1300000,Ja,Ja
+31-35,3,10,"in-house, privat sektor",Innlandet,ledelse/administrativt,50 - 100,1300000,Nei,Ja
+51-55,5,32,"in-house, privat sektor",Oslo,sikkerhet,500 - 1.000,1300000,Ja,Ja
+41-45,,17,"in-house, privat sektor",Vestland,backend,over 10.000,1300000,Ja,Ja
+31-35,6,7,konsulent,Oslo,backend,under 10,1300000,Ja,Ja
+36-40,5,13,konsulent,Rogaland,fullstack,under 10,1300000,Nei,Ja
+41-45,3,15,konsulent,Oslo,arkitektur,under 10,1300000,Nei,Ja
+46-50,4,22,konsulent,Oslo,arkitektur,10 - 50,1310000,Nei,Ja
+31-35,3,6,"in-house, offentlig/kommunal sektor",Oslo,fullstack,over 10.000,1319000,Ja,Ja
+31-35,3,10,"in-house, privat sektor",Agder,ledelse/administrativt,1.000 - 10.000,1350000,Ja,Ja
+36-40,3,17,"in-house, privat sektor",Viken,fullstack,10 - 50,1350000,Ja,Ja
+41-45,3,22,konsulent,Oslo,backend,10 - 50,1350000,Nei,Nei
+41-45,1,24,"in-house, privat sektor",Oslo,backend,10 - 50,1350000,Nei,Ja
+46-50,5,15,konsulent,Oslo,ledelse/administrativt,10 - 50,1350000,Ja,Ja
+31-35,5,6,konsulent,Oslo,devops,100 - 500,1350000,Ja,Ja
+51-55,5,24,"in-house, privat sektor",Rogaland,fullstack,100 - 500,1350000,Ja,Ja
+26-30,3,5,konsulent,Oslo,devops,50 - 100,1350000,Nei,Ja
+46-50,5,23,konsulent,Oslo,app,10 - 50,1360000,Nei,Ja
+46-50,3,23,konsulent,Oslo,fullstack,100 - 500,1360000,Nei,Ja
+36-40,5,15,"in-house, privat sektor",Oslo,ledelse/administrativt,50 - 100,1380000,Nei,Ja
+31-35,5,8,konsulent,Oslo,arkitektur,10 - 50,1400000,Ja,Ja
+31-35,0,11,konsulent,Vestfold og Telemark,arkitektur,10 - 50,1400000,Ja,Ja
+31-35,3,10,konsulent,Oslo,fullstack,10 - 50,1400000,Nei,Ja
+31-35,3,13,"in-house, privat sektor",Oslo,ledelse/administrativt,10 - 50,1400000,Ja,Ja
+36-40,5,15,konsulent,Møre og Romsdal,backend,10 - 50,1400000,Ja,Ja
+41-45,5,11,konsulent,Oslo,backend,10 - 50,1400000,Ja,Ja
+41-45,,20,konsulent,Oslo,backend,10 - 50,1400000,Ja,Ja
+41-45,5,18,konsulent,Oslo,fullstack,10 - 50,1400000,Ja,Ja
+41-45,4,19,konsulent,Oslo,fullstack,10 - 50,1400000,Nei,Ja
+41-45,4,22,konsulent,Rogaland,ledelse/administrativt,10 - 50,1400000,Ja,Ja
+41-45,5,17,konsulent,Oslo,sikkerhet,10 - 50,1400000,Nei,Ja
+31-35,3,6,konsulent,Oslo,fullstack,100 - 500,1400000,Ja,Ja
+31-35,5,5,konsulent,Oslo,ledelse/administrativt,100 - 500,1400000,Nei,Ja
+31-35,3,9,"in-house, privat sektor",Oslo,ledelse/administrativt,100 - 500,1400000,Ja,Ja
+36-40,5,14,konsulent,Viken,ledelse/administrativt,100 - 500,1400000,Ja,Ja
+26-30,5,10,konsulent,Oslo,frontend,50 - 100,1400000,Ja,Ja
+31-35,0,15,konsulent,Rogaland,fullstack,50 - 100,1400000,Nei,Ja
+31-35,3,11,konsulent,Oslo,fullstack,50 - 100,1400000,Ja,Ja
+31-35,3,15,"in-house, privat sektor",Oslo,ledelse/administrativt,50 - 100,1400000,Nei,Ja
+26-30,5,5,"in-house, privat sektor",Oslo,ledelse/administrativt,over 10.000,1400000,Ja,Ja
+31-35,3,5,frilans / selvstendig næringsdrivende,Oslo,backend,under 10,1400000,Ja,Ja
+36-40,5,5,frilans / selvstendig næringsdrivende,Oslo,data science,under 10,1400000,Ja,Ja
+46-50,5,19,konsulent,Rogaland,embedded/IOT/maskinvare,under 10,1400000,Nei,Ja
+51-55,3,30,konsulent,Oslo,backend,under 10,1400000,Ja,Ja
+31-35,6,8,konsulent,Oslo,devops,50 - 100,1425000,Nei,Ja
+31-35,5,8,konsulent,Oslo,devops,100 - 500,1445000,Ja,Ja
+31-35,3,10,"in-house, privat sektor",Trøndelag,backend,1.000 - 10.000,1450000,Ja,Ja
+36-40,5,12,konsulent,Oslo,arkitektur,over 10.000,1450000,Ja,Ja
+26-30,5,5,konsulent,Oslo,backend,under 10,1450000,Ja,Ja
+36-40,5,11,konsulent,Oslo,ledelse/administrativt,100 - 500,1460000,Ja,Ja
+31-35,5,15,"in-house, privat sektor",Vestland,ledelse/administrativt,1.000 - 10.000,1500000,Ja,Nei
+41-45,2,26,"in-house, privat sektor",Oslo,ledelse/administrativt,1.000 - 10.000,1500000,Ja,Nei
+31-35,3,8,konsulent,Oslo,app,10 - 50,1500000,Nei,Ja
+36-40,3,10,frilans / selvstendig næringsdrivende,Trøndelag,ledelse/administrativt,10 - 50,1500000,Ja,Ja
+36-40,3,16,konsulent,Rogaland,fullstack,100 - 500,1500000,Nei,Ja
+41-45,4,25,"in-house, privat sektor",Vestfold og Telemark,ledelse/administrativt,100 - 500,1500000,Nei,Nei
+56-60,0,37,"in-house, privat sektor",Oslo,ledelse/administrativt,100 - 500,1500000,Nei,Ja
+46-50,3,15,konsulent,Oslo,sikkerhet,50 - 100,1500000,Ja,Ja
+46-50,5,25,konsulent,Oslo,sikkerhet,50 - 100,1500000,Ja,Ja
+31-35,4,10,konsulent,Oslo,fullstack,500 - 1.000,1500000,Ja,Ja
+36-40,0,15,"in-house, privat sektor",Oslo,ledelse/administrativt,500 - 1.000,1500000,Ja,Ja
+41-45,4,14,"in-house, privat sektor",Vestland,arkitektur,over 10.000,1500000,Ja,Nei
+41-45,5,17,"in-house, privat sektor",Oslo,arkitektur,over 10.000,1500000,Ja,Ja
+41-45,3,22,konsulent,Rogaland,devops,under 10,1500000,Nei,Ja
+41-45,2,15,frilans / selvstendig næringsdrivende,Viken,fullstack,under 10,1500000,Ja,Ja
+41-45,2,23,frilans / selvstendig næringsdrivende,Viken,fullstack,under 10,1500000,Nei,Ja
+46-50,1,31,frilans / selvstendig næringsdrivende,Oslo,programvare,under 10,1500000,Ja,Ja
+51-55,7,28,konsulent,Oslo,ledelse/administrativt,10 - 50,1520000,Ja,Ja
+21-25,3,5,konsulent,Vestland,fullstack,50 - 100,1520000,Ja,Ja
+41-45,3,15,konsulent,Oslo,arkitektur,10 - 50,1550000,Ja,Ja
+51-55,5,26,frilans / selvstendig næringsdrivende,Oslo,backend,under 10,1550000,Ja,Ja
+36-40,5,16,"in-house, privat sektor",Oslo,backend,1.000 - 10.000,1552000,Ja,Ja
+36-40,5,11,"in-house, privat sektor",utlandet,fullstack,1.000 - 10.000,1573000,Nei,Ja
+36-40,5,16,konsulent,Oslo,fullstack,10 - 50,1600000,Nei,Ja
+31-35,6,8,konsulent,Oslo,automatisering,50 - 100,1600000,Ja,Ja
+41-45,3,20,"in-house, privat sektor",Vestfold og Telemark,ledelse/administrativt,50 - 100,1600000,Nei,Nei
+41-45,5,19,"in-house, privat sektor",Oslo,frontend,over 10.000,1600000,Ja,Ja
+31-35,3,5,frilans / selvstendig næringsdrivende,Oslo,fullstack,under 10,1600000,Ja,Ja
+36-40,5,15,frilans / selvstendig næringsdrivende,Vestland,fullstack,under 10,1600000,Nei,Ja
+36-40,3,12,frilans / selvstendig næringsdrivende,Viken,programvare,under 10,1600000,Ja,Ja
+41-45,3,18,frilans / selvstendig næringsdrivende,Oslo,backend,under 10,1600000,Nei,Ja
+36-40,5,11,"in-house, privat sektor",Trøndelag,embedded/IOT/maskinvare,1.000 - 10.000,1650000,Ja,Ja
+26-30,0,10,"in-house, privat sektor",Oslo,sikkerhet,500 - 1.000,1650000,Nei,Ja
+36-40,3,13,konsulent,utlandet,ingen av disse,50 - 100,1663076,Nei,Ja
+56-60,5,25,konsulent,Oslo,ledelse/administrativt,10 - 50,1700000,Nei,Ja
+31-35,,10,konsulent,Oslo,data science,50 - 100,1700000,Ja,Ja
+41-45,5,17,"in-house, privat sektor",Oslo,ledelse/administrativt,50 - 100,1700000,Nei,Ja
+46-50,5,25,"in-house, privat sektor",Vestfold og Telemark,arkitektur,50 - 100,1700000,Nei,Ja
+51-55,4,25,"in-house, privat sektor",Oslo,programvare,over 10.000,1700000,Ja,Nei
+26-30,3,4,frilans / selvstendig næringsdrivende,Oslo,backend,under 10,1700000,Ja,Ja
+31-35,5,9,frilans / selvstendig næringsdrivende,Oslo,fullstack,under 10,1700000,Nei,Ja
+41-45,5,20,konsulent,Oslo,testing,50 - 100,1750000,Ja,Ja
+31-35,5,9,frilans / selvstendig næringsdrivende,Trøndelag,fullstack,under 10,1750000,Nei,Ja
+31-35,3,9,"in-house, privat sektor",Oslo,arkitektur,over 10.000,1800000,Ja,Ja
+36-40,5,16,frilans / selvstendig næringsdrivende,Oslo,fullstack,under 10,1800000,Nei,Ja
+41-45,5,18,konsulent,Viken,sikkerhet,under 10,1800000,Nei,Nei
+26-30,5,3,"in-house, privat sektor",Oslo,frontend,1.000 - 10.000,1900000,Ja,Nei
+31-35,5,9,"in-house, privat sektor",Oslo,data science,10 - 50,1900000,Nei,Ja
+36-40,5,10,konsulent,Oslo,backend,10 - 50,1900000,Nei,Ja
+41-45,3,23,"in-house, privat sektor",Oslo,ledelse/administrativt,1.000 - 10.000,2000000,Nei,Ja
+51-55,5,30,konsulent,Oslo,sikkerhet,10 - 50,2000000,Ja,Ja
+41-45,,15,konsulent,Vestfold og Telemark,ingen av disse,500 - 1.000,2000000,Nei,Nei
+26-30,3,5,frilans / selvstendig næringsdrivende,Oslo,backend,under 10,2000000,Nei,Ja
+26-30,3,7,konsulent,Oslo,frontend,under 10,2000000,Ja,Ja
+31-35,5,10,frilans / selvstendig næringsdrivende,Oslo,app,under 10,2000000,Nei,Ja
+41-45,0,13,konsulent,Oslo,devops,under 10,2000000,Nei,Ja
+46-50,3,22,frilans / selvstendig næringsdrivende,Oslo,backend,under 10,2000000,Nei,Ja
+26-30,5,5,"in-house, privat sektor",utlandet,fullstack,50 - 100,2100000,Nei,Ja
+31-35,3,10,frilans / selvstendig næringsdrivende,Oslo,frontend,50 - 100,2100000,Nei,Ja
+31-35,5,8,frilans / selvstendig næringsdrivende,Oslo,fullstack,under 10,2100000,Ja,Ja
+41-45,5,17,konsulent,Oslo,backend,10 - 50,2200000,Nei,Ja
+36-40,5,7,konsulent,Oslo,fullstack,500 - 1.000,2200000,Nei,Ja
+31-35,5,10,konsulent,Oslo,arkitektur,under 10,2200000,Ja,Ja
+26-30,3,5,frilans / selvstendig næringsdrivende,Oslo,fullstack,under 10,2300000,Nei,Ja
+36-40,3,11,konsulent,Oslo,fullstack,under 10,2300000,Ja,Ja
+31-35,3,10,frilans / selvstendig næringsdrivende,Oslo,frontend,under 10,2330000,Nei,Ja
+51-55,3,29,konsulent,Oslo,fullstack,10 - 50,2500000,Ja,Ja
+26-30,5,5,frilans / selvstendig næringsdrivende,utlandet,sikkerhet,50 - 100,2500000,Ja,Ja
+36-40,5,12,"in-house, privat sektor",Oslo,ledelse/administrativt,over 10.000,2500000,Ja,Ja
+46-50,3,25,frilans / selvstendig næringsdrivende,Viken,arkitektur,under 10,2500000,Nei,Ja
+41-45,5,17,"in-house, privat sektor",Oslo,embedded/IOT/maskinvare,1.000 - 10.000,2950000,Ja,Ja
+41-45,5,20,frilans / selvstendig næringsdrivende,Oslo,backend,under 10,2950000,Nei,Ja
+31-35,5,9,frilans / selvstendig næringsdrivende,Rogaland,fullstack,over 10.000,3000000,Nei,Ja
+46-50,5,22,"in-house, privat sektor",Oslo,ledelse/administrativt,100 - 500,3500000,Ja,Ja
+41-45,2,5,"in-house, offentlig/kommunal sektor",Viken,ledelse/administrativt,1.000 - 10.000,,Nei,Ja
+36-40,5,20,"in-house, privat sektor",Oslo,ledelse/administrativt,1.000 - 10.000,,Nei,Nei
+21-25,6,4,konsulent,Vestland,ingen av disse,1.000 - 10.000,,Nei,Ja
+31-35,7,7,"in-house, privat sektor",Oslo,sikkerhet,1.000 - 10.000,,Nei,Ja
+36-40,3,13,"in-house, privat sektor",Oslo,backend,1.000 - 10.000,,Nei,Ja
+36-40,4,17,"in-house, privat sektor",Oslo,ledelse/administrativt,10 - 50,,Ja,Nei
+26-30,3,6,konsulent,Trøndelag,fullstack,10 - 50,,Nei,Ja
+15-20,2,1,konsulent,Vestfold og Telemark,backend,10 - 50,,Ja,Nei
+15-20,1,3,"in-house, privat sektor",Vestland,frontend,10 - 50,,Nei,Ja
+26-30,3,11,"in-house, privat sektor",Vestland,ingen av disse,10 - 50,,Nei,Nei
+36-40,4,12,konsulent,Oslo,backend,10 - 50,,Nei,Ja
+41-45,9,15,"in-house, privat sektor",Viken,ingen av disse,10 - 50,,Nei,Nei
+46-50,0,20,"in-house, privat sektor",Viken,ledelse/administrativt,10 - 50,,Ja,Ja
+46-50,6,24,konsulent,Oslo,programvare,10 - 50,,Nei,Ja
+15-20,0,15,"in-house, privat sektor",Vestfold og Telemark,fullstack,100 - 500,,Nei,Nei
+15-20,0,0,"in-house, privat sektor",Oslo,ingen av disse,100 - 500,,Nei,Nei
+26-30,,4,"in-house, offentlig/kommunal sektor",Rogaland,ledelse/administrativt,100 - 500,,Nei,Nei
+31-35,3,10,konsulent,Vestland,frontend,100 - 500,,Nei,Ja
+31-35,0,9,"in-house, privat sektor",Oslo,ingen av disse,100 - 500,,Ja,Nei
+31-35,0,0,"in-house, privat sektor",Oslo,ingen av disse,100 - 500,,Nei,Nei
+41-45,,13,"in-house, offentlig/kommunal sektor",Rogaland,ingen av disse,100 - 500,,Nei,Nei
+46-50,5,25,frilans / selvstendig næringsdrivende,Oslo,fullstack,100 - 500,,Ja,Ja
+,,1,konsulent,Agder,sikkerhet,100 - 500,,Ja,Ja
+21-25,2,1,"in-house, privat sektor",Oslo,sikkerhet,50 - 100,,Nei,Nei
+46-50,4,15,konsulent,Oslo,testing,50 - 100,,Ja,Ja
+15-20,0,0,"in-house, privat sektor",Oslo,fullstack,500 - 1.000,,Nei,Nei
+21-25,,3,"in-house, offentlig/kommunal sektor",Troms og Finnmark,fullstack,over 10.000,,Nei,Ja
+15-20,2,2,"in-house, privat sektor",Trøndelag,backend,under 10,,Nei,Nei
+15-20,2,2,"in-house, privat sektor",Innlandet,frontend,under 10,,Nei,Ja
+21-25,0,4,"in-house, privat sektor",Oslo,frontend,under 10,,Ja,Nei
+21-25,0,0,"in-house, privat sektor",Viken,frontend,under 10,,Ja,Nei
+21-25,0,4,"in-house, privat sektor",Vestfold og Telemark,fullstack,under 10,,Nei,Nei
+26-30,5,5,"in-house, privat sektor",Trøndelag,frontend,under 10,,Nei,Nei
+36-40,0,20,konsulent,Oslo,frontend,under 10,,Nei,Nei
+36-40,1,4,"in-house, privat sektor",Vestfold og Telemark,fullstack,under 10,,Nei,Nei
